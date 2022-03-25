@@ -1,0 +1,14 @@
+Officiant
+Medium humanoid (any race), any alignment
+Armor Class 10
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 10 (+0) 13 (+1) 15 (+2) 10 (+0)
+Skills Religion +3
+Senses passive Perception 12
+Languages any one language
+Challenge 1/8 (25 XP)
+Initiate Spellcasting. The officiant is a magic inititiate. Its spellcasting  ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can cast the following cleric spells.
+At will: mending, thaumaturgy
+1/day: ceremony

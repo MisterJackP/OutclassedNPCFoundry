@@ -1,0 +1,23 @@
+Discount Assassin
+Medium humanoid (any race), any alignment
+Armor Class 14 (studded leather)
+Hit Points 38 (7d8 + 7)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 12 (+1) 12 (+1) 10 (+0) 10 (+0)
+Skills Stealth +6
+Senses passive Perception 10
+Languages Thieves' Cant plus any one language
+Challenge 1 (200 XP)
+Ambusher. The assassin has advantage on attack rolls
+against creatures it has surprised.
+Sneak Attack (1/Turn). The assassin deals an extra 7
+(2d6) damage when it hits a target with a weapon
+attack and has advantage on the attack roll, or when
+the target is within 5 feet of an ally of the assassin that
+isn't incapacitated and the assassin doesn't have
+disadvantage on the attack roll. 
+Actions
+Poisoned Blowgun. Ranged Weapon Attack: +4 to hit,
+range 25/100 ft., one target. Hit: 1 piercing damage
+plus 5 (2d4) poison damage.

@@ -1,0 +1,39 @@
+Mastermind
+Medium humanoid (any race), any alignment
+Armor Class 14 (leather armor)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 13 (+1) 20 (+5) 15 (+2) 18 (+4)
+Skills Arcana +7, Deception +8, History +9,
+Persuasion +6, Stealth +5
+Senses passive Perception 12
+Languages Thieves' Cant plus any four languages
+Challenge 2 (450 XP)
+Loyal Goons. When the mastermind is targeted by an
+attack and an ally is within 5 feet of it, the
+mastermind's ally can use its reaction to swap places
+with the mastermind, and the ally becomes the target
+instead.
+Master of Tactics. The mastermind can use the Help
+action as a bonus action. When used to assist an ally in
+attacking a creature, the target of the attack can be
+within 30 feet of the mastermind.
+Sneak Attack (1/Turn). The mastermind deals an extra
+14 (4d6) damage when it hits a target with a weapon
+attack and has advantage on the attack roll, or when
+the target is within 5 feet of an ally of the mastermind
+that isn't incapacitated and the mastermind doesn't
+have disadvantage on the attack roll.
+Soul of Deceit. The mastermind's thoughts can't be
+read by telepathy or other means. The mastermind can
+present false thoughts by succeeding on a Charisma
+(Deception) check contested by the mind reader's
+Wisdom (Insight) check. Additionally, the mastermind
+is unaffected by magic that would compel it to tell the
+truth; instead, such magic always indicates that the
+mastermind is truthful.
+Actions
+Dagger. Melee or Ranged Weapon Attack: +5 to hit,
+reach 5 ft., or range 20/60 ft., one target. Hit: 5 (1d4 +
+3) piercing damage.

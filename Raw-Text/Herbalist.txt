@@ -1,0 +1,34 @@
+Herbalist
+Medium humanoid (any race), any alignment
+Armor Class 14 (hide armor)
+Hit Points 66 (12d8 + 12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 14 (+2) 12 (+1) 11 (+0) 17 (+3) 11 (+0)
+Skills Nature +4, Perception +5, Survival +7
+Damage Immunities poison
+Condition Immunities poisoned
+Senses passive Perception 15
+Languages Druidic plus any one language
+Challenge 1 (200 XP)
+Disarming Attack (1/Turn). When the herbalist hits a
+creature with an attack from its shortsword or
+shortbow, it can choose to force the target to succeed
+on a DC 12 Strength saving throw or take an additional 
+3 (1d6) piercing damage from the attack and drop an
+object it is holding of the herbalist's choice. The object
+lands at its feet.
+Poisoned Weapons. The herbalist's weapon attacks deal
+an extra 7 (2d6) poison damage (included in the
+attack).
+Poultice (3/Day). The herbalist spends 1 minute to
+apply a poultice to a wounded creature. That creature
+regains 14 (4d6) hit points. Alternatively,  it can use this
+ability to cure the creature of one poison afflicting it.
+Actions
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5
+ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 7
+(2d6) poison damage.
+Shortbow. Ranged Weapon Attack: +4 to hit, range
+80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage
+plus 7 (2d6) poison damage.

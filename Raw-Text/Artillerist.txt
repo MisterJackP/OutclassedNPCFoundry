@@ -1,0 +1,25 @@
+Artillerist
+Medium humanoid (any race), any alignment
+Armor Class 13
+Hit Points 63 (14d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 17 (+3) 10 (+0) 18 (+4) 12 (+1) 13 (+1)
+Skills Tinker's Tools +8, Woodcarver's Tools +6, Smith's Tools +6
+Senses passive Perception 11
+Languages any two languages
+Challenge 2 (450 XP)
+Arcane Turret. As a bonus action, the artillerist can
+summon an arcane turret, which appears within 5 feet
+of it and acts on the artillerist's initiative. The turret
+lasts until it is dismissed by the artillerist as a bonus
+action or until 10 minutes have passed. The artillerist can have up to 3 turrets summoned at once.
+Spellcasting. The alchemist is a 4th-level spellcaster.
+The artillerist's spellcasting ability is Intelligence (spell
+save DC 14, +6 to hit with spell attacks). The artillerist knows the following artificer spells.
+Cantrips (at will): firebolt, mending
+1st level (4 slots): expeditious retreat, false life, longstrider, shield, shield of faith, thunderwave
+2nd level (3 slots): blur, continual flame, enhance ability, heat metal, scorching ray, shatter
+Actions
+Multiattack. The artillerist makes two attacks with its
+compound hand crossbow.

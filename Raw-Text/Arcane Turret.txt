@@ -1,0 +1,29 @@
+Arcane Turret
+Medium construct, unaligned
+Armor Class 18 (natural armor)
+Hit Points 31 (7d8)
+Speed 15 ft., climb 15 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 10 (+0) 1 (-5) 1 (-5) 1 (-5)
+Damage Immunities poison, psychic
+Condition Immunities blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, stunned, unconscious
+Senses passive Perception 5
+Languages understands the languages of its creator
+but can't speak
+Challenge 1 (200 XP)
+Arcane Repairs. If mending is cast on the turret, it
+regains 10 (3d6) hit points.
+Actions
+Flamethrower. The turret exhales fire in a 15-foot cone.
+Each creature in the area must make a DC 14 Dexterity
+saving throw, taking 9 (2d8) fire damage on a failed
+save or half as much damage on a successful one. The
+fire ignites any flammable objects in the area that
+aren't being worn or carried.
+Force Arrow. Ranged Spell Attack: +6 to hit, range 120
+ft., one target. Hit: 13 (3d8) force damage, and if the
+target is a creature, it is pushed up to 5 feet away.
+Detonation. Each creature within 10 feet of the turret
+must make a DC 14 Dexterity saving throw, taking 14
+(4d6) force damage on a failed save or half as much
+damage on a successful one. The turret is destroyed.

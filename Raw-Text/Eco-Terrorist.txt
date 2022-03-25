@@ -1,0 +1,16 @@
+Eco-Terrorist
+Medium humanoid (any race), any chaotic alignment
+Armor Class 14 (hide armor)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 14 (+2) 12 (+1) 10 (+0) 14 (+2) 10 (+0)
+Skills Nature +2, Survival +4
+Senses passive Perception 12
+Languages Druidic plus any one language
+Challenge 1/4 (50 XP)
+Spellcasting. The eco-terrorist is a magic initiate. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can cast the following druid spells.
+At will: druidcraft, thorn whip
+1/day: entangle
+Actions
+Quarterstaff. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, or 5 (1d8 + 1) bludgeoning damage if used with two hands

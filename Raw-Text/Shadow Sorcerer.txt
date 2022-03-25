@@ -1,0 +1,42 @@
+Shadow Sorcerer
+Medium humanoid (any race), any evil alignment
+Armor Class 13
+Hit Points 41 (7d8 + 14)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 17 (+3) 14 (+2) 10 (+0) 10 (+0) 18 (+4)
+Skills Deception +7, Stealth +6
+Damage Immunities necrotic
+Senses darkvision 120 ft., passive Perception 10
+Languages any two languages
+Challenge 5 (1,800 XP)
+Darkness Incarnate. The sorcerer can cast darkness at
+will as a bonus action without expending verbal or
+material components.
+Douser of Light. Natural fires and other light sources
+not worn or carried by a creature are magically
+extinguished when the sorcerer starts its turn within 30
+feet of them. While not in direct sunlight, the sorcerer
+can choose to magically appear as a black silhouette, granting it advantage on Dexterity (Stealth) checks. A
+DC 10 Wisdom (Insight) check exposes the sorcerer's
+true appearance (but doesn't reveal the sorcerer if it is
+hidden).
+Innate Spellcasting. The sorcerer's spellcasting ability is
+Charisma (spell save DC 15, +7 to hit with spell attacks). The sorcerer can cast the following spells innately.
+At will: chill touch, false life, minor illusion, sleep
+3/day each: blindness/deafness, disguise self, fear, ray of sickness
+1/day each: blink, circle of death, invisibility
+Undead Fortitude. If damage reduces the sorcerer to 0
+hit points, it must make a Constitution saving throw
+with a DC of 5 plus the damage taken, unless the
+damage is radiant or from a critical hit. On a success,
+the sorcerer drops to 1 hit point instead.
+Actions
+Sickle. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target. Hit: 5 (1d4 + 3) slashing damage.
+Summon Hound of Ill Omen (1/Day). The sorcerer
+summons a hell hound from the Nine Hells to an empty
+space within 30 feet of it. The hell hound is fiercely
+loyal to the sorcerer and remains in the material realm
+for 1 minute or until the sorcerer dismisses it as an
+action. 

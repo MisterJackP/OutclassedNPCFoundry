@@ -1,0 +1,15 @@
+Medic
+Medium humanoid (any race), any alignment
+Armor Class 12 (leather)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 12 (+1) 12 (+1) 10 (+0) 13 (+1) 10 (+0)
+Skills Medicine +3
+Senses passive Perception 11
+Languages any one language
+Challenge 1/8 (25 XP)
+Actions
+Scalpel. Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage.
+Light Crossbow. Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.
+Healer's Kit (10/Day). The medic targets a creature. If the creature is unconscious, it is stabilised and regains 1 hit point. Otherwise, it regains 7 (1d6 + 4) hit points, plus additional hit points equal to the creature's maximum number of hit dice. A creature must finish a short or long rest before it can receive the latter benefit again.

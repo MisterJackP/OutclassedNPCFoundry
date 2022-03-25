@@ -1,0 +1,25 @@
+Black Dragon Sorcerer
+Medium humanoid (any race), any alignment
+Armor Class 15 (natural armor)
+Hit Points 117 (18d8 + 36)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 15 (+2) 10 (+0) 10 (+0) 18 (+4)
+Skills Arcana +3, Persuasion +7
+Damage Immunities acid
+Senses passive Perception 10
+Languages Draconic, any one language
+Challenge 7 (2,900 XP)
+Spellcasting. The sorcerer is a 7th-level spellcaster. Its
+spellcasting  ability is Charisma (spell save DC 15, +7 to
+hit with spell attacks). It knows the following sorcerer
+spells.
+Cantrips (at will): acid splash, dancing lights, minor illusion, friends
+1st level (4 slots): charm person, chromatic orb (acid only), silent image, sleep
+2nd level (3 slots): crown of madness, hold person, levitate, Melf's acid arrow
+3rd level (3 slots): counterspell, fear
+4th level (2 slots): vitriolic sphere
+Actions
+Dagger. Melee or Ranged Weapon Attack: +5 to hit,
+reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 +
+2) piercing damage.

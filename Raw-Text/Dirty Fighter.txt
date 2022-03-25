@@ -1,0 +1,16 @@
+Dirty Fighter
+Medium humanoid (any race), any alignment
+Armor Class 13 (leather)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 12 (+1) 10 (+0) 10 (+0) 10 (+0)
+Skills Stealth +6
+Senses passive Perception 10
+Languages any one language
+Challenge 1/2 (100 XP)
+Sneak Attack (1/Turn). The dirty fighter can deal an extra 7 (2d6) damage to one creature it hits with an attack if it has advantage on the attack roll. The dirty fighter doesn't need advantage on the attack roll if another enemy of the target is within 5 feet of it, that enemy isn't incapacitated, and the dirty fighter doesn't have disadvantage on the attack roll.
+Actions
+Multiattack. The dirty fighter makes two melee weapon attacks.
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+Shortbow. Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.

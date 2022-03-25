@@ -1,0 +1,16 @@
+Joker
+Medium humanoid (any race), any chaotic alignment
+Armor Class 11
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 12 (+1) 10 (+0) 10 (+0) 10 (+0) 13 (+1)
+Skills Performance +3
+Senses passive Perception 10
+Languages any one language
+Challenge 1/8 (25 XP)
+Spellcasting. The joker is a magic initiate. Its spellcasting  ability is Charisma (spell save DC 11, +3 to hit with spell attacks). It can cast the following bard spells.
+At will: friends, vicious mockery
+1/day: Tasha's hideous laughter
+Actions
+Dagger. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft., or range 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage.

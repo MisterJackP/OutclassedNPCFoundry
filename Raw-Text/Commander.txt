@@ -1,0 +1,19 @@
+Commander
+Medium humanoid (any race), any alignment
+Armor Class 18 (plate)
+Hit Points 33 (6d8 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 12 (+1) 13 (+1) 12 (+1) 12 (+1) 15 (+2)
+Skills Animal Handling +3, History +3, Intimidation +4, Persuasion +4
+Senses passive Perception 11
+Languages any two languages
+Challenge 1 (200 XP)
+Actions
+Multiattack. The commander makes two melee weapon attacks, or it makes one melee or ranged weapon attack and uses its Commander's Strike.
+Greatsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage.
+Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage.
+Lance. Melee Weapon Attack: +4 to hit, reach 10 ft., one target. Hit: 8 (1d12 + 2) piercing damage. The commander's attack roll has disadvantage if the target is within 5 feet of the commander's position and the commander is not mounted.
+Greataxe. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d12 + 2) slashing damage.
+Maul. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.
+Commander's Strike. The commander chooses one friendly creature within 30 feet of it that can see and hear it. That creature can immediately use its reaction to make one weapon attack,  adding 3 (1d6) to the attack's damage roll.

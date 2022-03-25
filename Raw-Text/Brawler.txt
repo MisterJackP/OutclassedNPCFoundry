@@ -1,0 +1,16 @@
+Brawler
+Medium humanoid (any race), any alignment
+Armor Class 13 (padded armor)
+Hit Points 19 (3d8 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 15 (+2) 15 (+2) 10 (+0) 10 (+0) 10 (+0)
+Senses passive Perception 10
+Languages any one language
+Challenge 1/2 (100 XP)
+Actions
+Multiattack. The brawler makes two attacks with a quarterstaff, or three melee weapon attacks with a different weapon.
+Brass Knuckles. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+Club. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.
+Whip. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
+Quarterstaff. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands to make a melee attack. 

@@ -1,0 +1,46 @@
+Monster Hunter
+Medium humanoid (any race), any alignment
+Armor Class 14 (hide armor)
+Hit Points 82 (11d8 + 22)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 16 (+3) 14 (+2) 14 (+2) 16 (+3) 8 (-1)
+Skills Investigation +4, Nature +4, Perception +5,
+Stealth +5, Survival +5
+Senses passive Perception 15
+Languages any two languages
+Challenge 3 (700 XP)
+Hunter's Sense (3/Day). As a bonus action, the monster
+hunter examines a creature it can see within 60 feet of
+it, discerning whether the creature has any damage
+immunities, resistances, or vulnerabilities and what
+they are. If the creature is hidden from divination magic, it senses that it has no damage immunities, resistances, or vulnerabilities.
+Innate Spellcasting. The monster hunter's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell
+attacks). It can cast the following spells innately,
+without expending material components.
+3/Day each: absorb elements, chromatic orb, detect
+magic, detect poison and disease
+1/Day each: fog cloud, protection from evil and good
+Slayer's Prey. As a bonus action, the monster hunter
+designates one creature it can see within 60 feet of it
+as its prey. The first time on the monster hunter's turn 
+that is hits its prey with a weapon attack, the prey takes an extra
+7 (2d6) damage from the weapon.
+Actions
+Multiattack. The monster hunter makes two melee
+attacks.
+Adaptive Halberd. Melee Weapon Attack: +5 to hit,
+reach 10 ft., one target. Hit: 8 (1d10 + 3) bludgeoning,
+piercing, or slashing damage (the monster hunter's
+choice). This is a magic weapon.
+Heavy Crossbow. Ranged Weapon Attack: +5 to hit,
+range 100/400 ft., one target. Hit: 8 (1d10 + 3) piercing
+damage.
+Reactions
+Slayer's Counter. When the monster hunter's prey
+forces it to make a saving throw, the monster hunter
+can use its reaction to immediately make one weapon
+attack against the prey, which it makes before the
+saving throw. If the attack hits, the monster hunter
+automatically succeeds on the saving throw against the
+prey's effect.

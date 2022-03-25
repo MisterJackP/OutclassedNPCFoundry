@@ -1,0 +1,19 @@
+Duelist
+Medium humanoid (any race), any alignment
+Armor Class 15 (chain shirt)
+Hit Points 16 (3d8 + 3)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 12 (+1) 10 (+0) 10 (+0) 10 (+0)
+Senses passive Perception 10
+Languages any one language
+Challenge 1 (200 XP)
+Duelist. The duelist has a +2 bonus to damage rolls with melee weapons it wields with one hand, (included in the attack). It does not benefit from this trait if it is holding an item or wielding a weapon in its other hand.
+Actions
+Multiattack. The duelist makes two melee weapon attacks.
+Rapier. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+Scimitar. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage.
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
+Hand Crossbow. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+Reactions
+Parry. The duelist adds 2 to its AC against one melee attack that would hit it. To do so, the duelist must see the attacker and be wielding a melee weapon.

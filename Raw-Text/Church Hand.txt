@@ -1,0 +1,16 @@
+Church Hand
+Medium humanoid (any race), any alignment
+Armor Class 10
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 11 (+0) 10 (+0) 10 (+0) 13 (+1) 10 (+0)
+Skills Religion +2, Medicine +3
+Senses passive Perception 11
+Languages any one language
+Challenge 1/8 (25 XP)
+Initiate Spellcasting. The church hand is a magic initiate. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can cast the following clericspells.
+At will: guidance, spare the dying
+1/day: cure wounds
+Actions
+Mace. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.

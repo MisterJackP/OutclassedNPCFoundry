@@ -1,0 +1,42 @@
+Favoured Chosen
+Medium humanoid (any race), chaotic good (75%) or chaotic evil (25%)
+Armor Class 15 (breastplate)
+Hit Points 247 (26d8 + 130)
+Speed 30 ft., 30 ft. fly
+STR DEX CON INT WIS CHA
+20 (+5) 13 (+1) 20 (+5) 15 (+2) 15 (+2) 20 (+5)
+Saving Throws Dex +6, Con +10, Wis +7, Cha +10
+Skills Arcana +7, Intimidation +10, Persuasion +10, Religion +7
+Damage Immunities necrotic, radiant
+Senses passive Perception 12
+Languages Abyssal, Celestial, or Infernal, plus any one language
+Challenge 14 (11,500 XP)
+Favored by the Gods. The chosen magically adds 5 (2d4)
+to the result of each attack roll, ability check, and
+saving throw it makes.
+Spellcasting. The chosen is an 18th-level spellcaster.
+The chosen's spellcasting ability is Charisma (spell save
+DC 18, +10 to hit with spell attacks). The chosen knows
+the following sorcerer spells.
+At will: light, mending, sacred flame, thunderclap
+1st level (4 slots): charm person, comprehend
+languages, cure wounds (good), inflict wounds (evil),
+magic missile
+2nd level (3 slots): detect thoughts, enhance ability,
+levitate, spiritual weapon (a scepter)
+3rd level (3 slots): crusader's mantle, fireball (evil),
+mass healing word (good), protection from energy
+4th level (3 slots): banishment, polymorph
+5th level (3 slots): commune, creation, hallow
+6th level (1 slot): harm (evil), heal (good), sunbeam
+7th level (1 slot): divine word, plane shift
+8th level (1 slot): earthquake (evil), holy aura (good),
+sunburst
+9th level (1 slot): gate
+Actions
+Multiattack. The chosen makes two attacks with its
+royal scepter.
+Royal Scepter. Melee Weapon Attack: +10 to hit, reach
+5 ft., one target. Hit: 8 (1d6 + 5) bludgeoning damage
+plus 9 (2d8) radiant damage (good) or necrotic damage
+(evil). This is a magic weapon.

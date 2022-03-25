@@ -1,0 +1,37 @@
+Storm Sorcerer
+Medium humanoid (any race), neutral
+Armor Class 12
+Hit Points 54 (12d8)
+Speed 30 ft., 30 ft. fly
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 10 (+0) 10 (+0) 13 (+1) 18 (+4)
+Damage Immunities lightning, thunder
+Senses passive Perception 11
+Languages Primordial plus any one language
+Challenge 10 (5,900 XP)
+Breath of the Wind. The sorcerer doesn't trigger
+opportunity attacks when it flies out of a hostile creature's reach.
+Conductor of the Wind. The sorcerer can use its bonus
+action to change the direction of the wind within a
+100-foot radius around it. The sorcerer can choose the
+direction but not the strength of the wind.
+Innate Spellcasting. The sorcerer's spellcasting ability is
+Charisma (spell save DC 16, +8 to hit with spell attacks). The sorcerer can cast the following spells innately.
+At will: gust, shocking grasp, thunderclap, thunderwave
+3/day each: gust of wind, shatter, thunderous smite
+1/day each: call lightning, storm sphere, warding wind, wind wall
+Actions
+Lightning Dagger. Melee or Ranged Weapon Attack: +6
+to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4
+(1d4 + 2) piercing damage plus 2 (1d4) lightning
+damage, and the target must succeed on a DC 16
+Constitution saving throw or be stunned until the end
+of its next turn. This is a magic weapon.
+Reactions
+Wind's Lash. When the sorcerer is hit by an attack, it
+can use its reaction to force its attacker to make a DC
+16 Constitution saving throw. On a failed save, the
+target takes 14 (4d6) thunder damage and is pushed 20
+feet in a direction of the sorcerer's choice. On a
+successful save, the target takes no damage and is
+pushed 10 feet.

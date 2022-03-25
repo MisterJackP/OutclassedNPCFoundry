@@ -1,0 +1,24 @@
+Red Dragon Sorcerer
+Medium humanoid (any race), any alignment
+Armor Class 15 (natural armor)
+Hit Points 117 (18d8 + 36)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 15 (+2) 10 (+0) 10 (+0) 18 (+4)
+Skills Arcana +3, Persuasion +7
+Damage Immunities fire
+Senses passive Perception 10
+Languages Draconic plus any one language
+Challenge 7 (2,900 XP)
+Spellcasting. The sorcerer is a 7th-level spellcaster. Its
+spellcasting  ability is Charisma (spell save DC 15, +7 to
+hit with spell attacks). It knows the following sorcerer
+spells.
+Cantrips (at will): control flames, create bonfire, fire bolt, light
+1st level (4 slots): burning hands, color spray, detect magic, expeditious retreat
+2nd level (3 slots): agnazzar's scorcher, pyrotechnics, scorching ray
+3rd level (3 slots): daylight, fireball, protection from energy
+4th level (1 slots): wall of fire
+Dagger. Melee or Ranged Weapon Attack: +5 to hit,
+reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 +
+2) piercing damage.

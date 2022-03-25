@@ -1,0 +1,24 @@
+Bait Mage
+Medium humanoid (any race), any neutral alignment
+Armor Class 12
+Hit Points 27 (6d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 15 (+2) 10 (+0) 17 (+3) 13 (+1) 10 (+0)
+Skills Arcana +5, Sleight of Hand +4, Stealth +4, Thieves' Tools +4
+Senses passive Perception 11
+Languages Thieves' Cant, plus any two languages
+Challenge 4 (1,100 XP)
+Ritual Adept. The bait mage is a ritual caster. Its
+spellcasting ability is Intelligence (spell save DC 13, +5
+to hit with spell attacks).  It can cast the following spells
+as rituals in half the casting time they would normally
+require.
+Rituals: alarm, identify, illusory script, Leomund's tiny hut, magic mouth, unseen servant.
+Spellcasting. The bait mage is a 6th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells available to cast.
+Cantrips (at will): mending, message, mold earth
+1st level (4 slots): alarm, ice knife, ray of sickness, sleep, snare, Tasha's hideous laughter, thunderwave
+2nd level (3 slots): arcane lock, continual flame, knock, locate object, Nystul's magic aura, shatter, web
+3rd level (3 slots): clairvoyance, dispel magic, fireball, glyph of warding, magic circle, nondetection, remove curse, sending, tiny servant
+Actions
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.

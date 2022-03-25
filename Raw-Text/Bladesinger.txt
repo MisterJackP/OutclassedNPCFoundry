@@ -1,0 +1,39 @@
+Bladesinger
+Medium humanoid, any alignment
+Armor Class 21 (studded leather)
+Hit Points 78 (12d8 + 24)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 20 (+5) 15 (+2) 18 (+4) 13 (+1) 15 (+2)
+Saves Con +5
+Skills Acrobatics +8, Perception +4, Performance +8
+Senses darkvision 60 ft., passive Perception 13
+Languages any three languages
+Challenge 5 (1,800 XP)
+Bladesong. While the bladesinger isn't wearing Medium
+or Heavy armor or using a shield, its AC includes its
+Intelligence modifier, and it has advantage on
+Constitution saving throws made to maintain
+concentration on a spell.
+Spellcasting. The bladesinger is a 5th-level spellcaster. It
+spellcasting ability is Intelligence (spell save DC 15, +7
+to hit with spell attacks). It has the following wizard
+spells prepared.
+Cantrips (at will): gust, mending, prestidigitation, ray
+of frost
+1st Level (4 slots): color spray, expditious retreat, false
+life, find familiar, shield
+2nd Level (3 slots): cloud of daggers, hold person,
+mirror image, misty step, see invisibility, spider climb
+3rd Level (2 slots): counterspell, fly, haste
+Victorious Blades. The bladesinger's melee weapon
+attacks are magical, and it adds its Intelligence modifier
+to the weapon's damage (included in the attack). The
+bladesinger can also use its Dexterity to wield one-handed weapons that aren't heavy.
+Actions
+Multiattack. The bladesinger makes two melee weapon attacks.
+Scimitar. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (1d6 + 9) slashing damage.
+Longsword. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (1d8 + 9) slashing damage.
+Handaxe. Melee or Ranged Weapon Attack: +8 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 12 (1d6 + 9) slashing damage.
+War Pick. Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (1d8 + 9) piercing damage.
+Whip. Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 11 (1d4 + 9) slashing damage.

@@ -1,0 +1,37 @@
+Alchemist
+Medium humanoid (any race), any alignment
+Armor Class 13
+Hit Points 63 (14d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 17 (+3) 10 (+0) 18 (+4) 12 (+1) 13 (+1)
+Skills Alchemist's Supplies +8, Herbalism Kit +5
+Damage Resistances acid, poison
+Condition Immunities poisoned
+Senses passive Perception 11
+Languages any two languages
+Challenge 2 (450 XP)
+Innate Spellcasting. The alchemist's innate spellcasting ability is Intelligence (+6 to hit with spell attacks). The alchemist can cast the following spells innately.
+4/day: lesser restoration
+1/day: greater restoration
+Spellcasting. The alchemist is a 4th-level spellcaster.
+The alchemist's spellcasting ability is Intelligence (spell
+save DC 14, +6 to hit with spell attacks). The alchemist
+knows the following artificer spells.
+Cantrips (at will): acid splash, prestidigitation
+1st level (4 slots): alarm, detect magic, grease, identify, purify food and drink, ray of sickness
+2nd level (3 slots): alter self, invisibility, magic mouth, Melf's acid arrow, spider climb, web
+Actions
+Multiattack. The alchemist makes two attacks with its
+compound hand crossbow. It can replace one of these
+attacks with its Potion Vial action.
+Compound Hand Crossbow. Ranged Weapon Attack:
++6 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4)
+piercing damage. This crossbow does not have the
+loading property of crossbows and does not need to be
+reloaded between attacks. This is a +1 magic weapon.
+Potion Vial. Ranged Weapon Attack: +5 to hit, range
+15/40 ft.,  one target. Hit: The target and all other
+creatures within 5 feet of the target take 10 (3d6)
+damage of a type of the alchemist's choosing. The type
+can be acid, cold, fire, poison, or lightning.

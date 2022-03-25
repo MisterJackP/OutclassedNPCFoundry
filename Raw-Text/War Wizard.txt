@@ -1,0 +1,31 @@
+War Wizard
+Medium humanoid (any race), any alignment
+Armor Class 12 (15 with mage armor)
+Hit Points 72 (16d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 14 (+2) 10 (+0) 18 (+4) 12 (+1) 13 (+1)
+Senses passive Perception 11
+Languages any two languages
+Challenge 10 (5,900 XP)
+Combat Caster. The wizard has advantage on
+Constitution saving throws made to maintain
+concentration on a spell. While the wizard maintains
+concentration on a spell, it has a +3 bonus to AC and all saving throws.
+Spellcasting. The wizard is a 6th-level spellcaster. The
+wizard's spellcasting ability is Intelligence (spell save DC
+16, +8 to hit with spell attacks). It has the following
+wizard spells prepared.
+Cantrips (at will): blade ward, fire bolt, mending, shocking grasp
+1st level (4 slots): absorb elements, expeditious retreat, feather fall, fog cloud, grease, mage armor, magic missile, protection from evil and good
+2nd level (3 slots): blur, darkness, earthbind, invisibility, pyrotechnics, web
+3rd level (3 slots): blink, counterspell, dispel magic, fireball, fly, protection from energy
+Actions
+Shortsword. Melee Weapon Attack: +6 to hit, reach 5
+ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+Reactions
+Arcane Deflection. When the wizard is hit by an attack or it fails a saving throw, it can use its reaction to gain a
++3 bonus to its AC against that attack or a +6 bonus to
+that saving throw. Additionally, up to three creatures of
+the wizard's choice that it can see within 60 feet of it
+each take 10 (4d4) force damage.

@@ -1,0 +1,18 @@
+King / Queen
+Medium humanoid (any race), any lawful alignment
+Armor Class 18 (+3 glamoured breastplate)
+Hit Points 90 (20d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 12 (+1) 11 (+0) 12 (+1) 14 (+2) 19 (+4)
+Skills Deception +10, Intimidation +10, Insight +8, Persuasion +10
+Senses passive Perception 12
+Languages any three languages
+Challenge 5 (1,800 XP)
+Glamoured Breastplate. Through illusion magic, the king or queen's breastplate is glamoured to take on the appearance of robes befitting royalty.
+Helm of Comprehending Languages. While wearing this helm, which takes the shape of an opulent crown, the king or queen is magically under the effects of comprehend languages.
+Ring of Mind Shielding. The king or queen is immune to magic that allows other creatures to read their thoughts or determine whether it is lying. Creatures can telepathically communicate with the king or queen only if it allows it. The king or queen chooses whether the ring is visible or invisible at will. The king or queen is attuned to this magic item.
+Actions
+Greatsword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage. This is a +3 magic weapon.
+Medallion of Thoughts (3/Day). The king or queen casts detect thoughts (spell save DC 15). The king or queen is attuned to this magic item.
+Rod of Rulership (1/Day). Each creature that can see and hear the king or queen within 120 feet of it must succeed on a DC 15 Wisdom saving throw or be charmed by the king or queen for 8 hours. While charmed in this way, the target regards the king or queen as its trusted leader. The effect ends if the king or queen's actions harm the creature or if it is commanded to do something contrary to its nature. The king or queen is attuned to this magic item.

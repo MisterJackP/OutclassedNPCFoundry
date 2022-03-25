@@ -1,0 +1,41 @@
+Horizon Walker
+Medium humanoid (any race), any alignment
+Armor Class 14 (studded leather)
+Hit Points 60 (11d8 + 11)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 12 (+1) 14 (+2) 18 (+4) 10 (+0)
+Skills Arcana +5, Perception +7, Survival +7
+Senses passive Perception 17
+Languages Deep Speech and Primordial plus any one
+language
+Challenge 5 (1,800 XP)
+Distant Strike. When the horizon walker takes the Multiattack action, it can teleport up to 10 feet before
+or after each attack to an unoccupied space it can see.
+Ethereal Jaunt. As a bonus action, the horizon walker
+can magically shift from the Material Plane to the
+Ethereal Plane, or vice versa.
+Actions
+Multiattack. The horizon walker makes three attacks with its subtle knife. Each attack must be against a
+different target.
+Subtle Knife. Melee Weapon Attack: +5 to hit, reach 5
+ft.,  one target. Hit: 13 (1d4 + 2d8 + 2) force damage.
+On a critical hit against a target in an astral body (as
+with the astral projection spell), the horizon walker can
+cut the silvery cord that tethers the target to its
+material body, instead of dealing damage. This is a
+magic weapon.
+Detect Portal (3/Day). The horizon walker magically
+detects the direction and distance to the nearest
+planar portal or planar gash (a small hidden connection between worlds, a potential planar portal) on the same
+plane of existence as it.
+Open Portal. The horizon walker targets a hidden
+planar gash with its subtle knife, creating a one-way
+portal to a randomly-determined plane of existence.
+The portal stays open until the end of the horizon
+walker's next turn; the horizon walker can use its
+action to keep the portal open.
+Reactions
+Spectral Defense. When the horizon walker takes
+damage from an attack, it can give itself resistance to
+the damage of the attack.

@@ -1,0 +1,13 @@
+Earth Bender
+Medium humanoid (any race), any alignment
+Armor Class 16 (natural armor)
+Hit Points 22 (4d8 + 4)
+Speed 25 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+1) 10 (+0) 14 (+2) 12 (+1)
+Damage Resistances bludgeoning, piercing, and slashing from nonmagical weapons
+Senses passive Perception 12
+Languages Primordial, any one language
+Challenge 2 (450 XP)
+Actions
+Fist of Four Thunders. Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage, and each creature other than the bender within 10 feet that can see and hear the bender must succeed on a DC 12 Constitution saving throw or take 11 (2d10) thunder damage.

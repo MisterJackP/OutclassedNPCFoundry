@@ -1,0 +1,15 @@
+Outlaw
+Medium humanoid (any race), any alignment
+Armor Class 13 (padded armor)
+Hit Points 19 (3d8 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 15 (+2) 15 (+2) 13 (+1) 13 (+1) 13 (+1)
+Skills Deception +3, Insight +3, Perception +3, Survival +3
+Senses passive Perception 13
+Languages any two languages
+Challenge 1/4 (50 XP)
+Suspicious. The outlaw has advantage on Wisdom (Insight) checks made against strangers.
+Actions
+Quarterstaff. Melee Weapon Attack: +4 to hit, reach 5 ft.,  one target. Hit: 5 (1d6 + 2) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage if used with two hands.
+Hand Crossbow. Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.

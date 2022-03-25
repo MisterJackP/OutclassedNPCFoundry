@@ -1,0 +1,39 @@
+Inquisitor
+Medium humanoid (any race), any lawful alignment
+Armor Class 15 (chain shirt)
+Hit Points 66 (12d8 + 12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+9 (-1) 15 (+2) 13 (+1) 17 (+3) 16 (+3) 15 (+2)
+Skills Insight +7, Intimidation +6, Investigation +5,
+Perception +5
+Senses passive Perception 20
+Languages Thieves' Cant plus any three languages
+Challenge 2 (450 XP)
+Eye for Detail. The inquisitor has advantage on Wisdom
+(Perception) and Intelligence (Investigation) checks.
+Sneak Attack (1/Turn). The inquisitor deals an extra 10
+(3d6) damage when it hits a target with a weapon
+attack and  has advantage on the attack roll, or when
+the target is within 5 feet of an ally of the inquisitor
+that isn't incapacitated and the inquisitor doesn't have
+disadvantage on the attack roll. The inquisitor also
+doesn't need advantage if it has detected the presence
+of deceptive magic from its target creature using its
+Unerring Eye.
+Unerring Eye (3/Day). The inquisitor can use a bonus
+action to sense the presence of illusions,
+shapechangers not in their original form, and other
+magic designed to deceive the senses within 30 feet of
+it, provided it isn't blinded or deafened. The inquisitor
+senses only the presence of these effects, not their
+form.
+Actions
+Rapier. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+Light Crossbow. Ranged Weapon Attack: +4 to hit,
+range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing
+damage.
+Reactions
+Parry. The inquisitor adds 2 to its AC against one melee
+attack that would hit it. To do so, the inquisitor must
+see the attacker and be wielding a melee weapon.

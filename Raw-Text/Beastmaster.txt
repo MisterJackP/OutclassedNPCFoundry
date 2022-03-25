@@ -1,0 +1,21 @@
+Beastmaster
+Medium humanoid (any race), any alignment
+Armor Class 15 (hide armor)
+Hit Points 75 (10d8 + 30)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 15 (+2) 16 (+3) 10 (+0) 18 (+4) 12 (+1)
+Skills Animal Handling +8, Survival +6
+Senses passive Perception 14
+Languages any one language
+Challenge 2 (450 XP)
+Animal Companion. The beastmaster is bonded to a
+beast, which is its animal companion. The companion
+acts on its own inititative, but otherwise obeys the
+beastmaster's commands. As a bonus action, the
+beastmaster can command its companion to use its
+reaction  to take the Dash, Disengage, Dodge, or Help
+action.
+Actions
+Multiattack. The beastmaster makes two weapon
+attacks.

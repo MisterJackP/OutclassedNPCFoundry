@@ -1,0 +1,39 @@
+Phoenix Sorcerer
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 187 (22d8 + 88)
+Speed 40 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 18 (+4) 10 (+0) 11 (+0) 20 (+5)
+Damage Immunities fire
+Senses passive Perception 10
+Languages Primordial, any one language
+Challenge 12 (8,400 XP)
+Burning Aura. When a creature hits the sorcerer with a
+melee attack, it takes 7 (2d6) fire damage.
+Glowing Skin. As a bonus action, the sorcerer can
+activate or deactivate its glowing skin. While active, it
+sheds bright light in a 30 foot radius and dim light 30
+feet beyond that.
+Phoenix Spark (1/day). When the sorcerer is reduced to
+0 hit points, it can instead choose to drop to 1 hit
+point. If it does so, each creature within 30 feet of it
+must make a DC 17 Dexterity saving throw, taking 28
+(8d6) fire damage on a failed save, or half as much
+damage on a successful one.
+Spellcasting. The sorcerer is a 10th-level spellcaster.
+The sorcerer's spellcasting ability is Charisma (spell
+save DC 17, +9 to hit with spell attacks). It knows the
+following sorcerer spells.
+At will: control flames, create bonfire, fire bolt, light, produce flame
+1st level (4 slots): burning hands, chromatic orb, faerie fire, searing smite
+2nd level (3 slots): agnazzar's scorcher, continual
+flame, flame blade, flaming sphere, heat metal, pyrotechnics, scorhing ray
+3rd level (3 slots): daylight, elemental weapon, fireball, flame arrows
+4th level (3 slots): conjure minor elementals, elemental bane, fire shield, wall of fire
+5th level (2 slots): conjure elemental, flame strike, immolation
+Untamed Flame. When the sorcerer rolls fire damage
+on its turn, it deals an additional 5 fire damage to each
+affected creature.
+Actions
+Scimitar. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.

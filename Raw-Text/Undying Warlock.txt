@@ -1,0 +1,31 @@
+The Undying
+Medium humanoid (any race), any alignment
+Armor Class 13 (leather armor)
+Hit Points 114 (12d8 + 60)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 20 (+5) 17 (+3) 17 (+3) 18 (+4)
+Skills Religion +6
+Condition Immunities exhaustion
+Senses passive Perception 13
+Languages Celestial plus any one language
+Challenge 6 (2,300 XP)
+Death Defier (3/Day). When the undying succeeds on a
+death saving throw or stabilises a creature with spare
+the dying, it regains 11 (2d8 + 2) hit points.
+Spellcasting. The undying is a 9th-level spellcaster. Its
+spellcasting ability is Charisma (spell save DC 15, +7 to
+hit with spell attacks). It regains its expended spell slots
+when it finishes a short or long rest. It knows the
+following warlock spells.
+Cantrips (at will): chill touch, spare the dying
+1st-5th level (2 5th-level slots): aura of life, blindness/deafness, contagion, deafness, death ward, false life, feign death, legend lore, ray of sickness, silence, speak with dead
+Undying Nature. The undying can hold its breath
+indefinitely, and it doesn't require food, water, or
+sleep. Additionally, undead have disadvantage on
+attack rolls against the undying, and the undying has
+advantage on saving throws against spells and other
+magical effects created by undead.
+Actions
+Sickle. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target. Hit: 4 (1d4 + 2) slashing damage.

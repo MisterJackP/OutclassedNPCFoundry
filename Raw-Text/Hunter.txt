@@ -1,0 +1,30 @@
+Hunter
+Medium humanoid (any race), any alignment
+Armor Class 14 (hide armor)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 14 (+2) 12 (+1) 11 (+0) 13 (+1) 11 (+0)
+Skills Nature +2, Perception +5, Stealth +4, Survival
++3
+Senses passive Perception 15
+Languages any one language
+Challenge 2 (450 XP)
+Colossus Slayer (1/Turn). The hunter deals an additional 4 (1d8) damage with its weapons when it hits a
+creature below its hit point maximum.
+Keen Hearing and Sight. The hunter has advantage on
+Wisdom (Perception) checks that rely on hearing and
+sight.
+Actions
+Multiattack. The hunter makes two ranged attacks then
+one additional ranged attack  against a creature within
+5 feet of one of the original targets.
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5
+ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+Longbow. Ranged Weapon Attack: +4 to hit, range
+150/600 ft., one target. Hit: 6 (1d8 + 2) piercing
+damage.
+Reactions
+Giant Killer. After a Large or larger creature targets the
+hunter with a melee weapon attack, the hunter can
+make one weapon attack against that creature after its attack is resolved.

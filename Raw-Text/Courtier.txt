@@ -1,0 +1,15 @@
+Courtier
+Medium humanoid (any race), any alignment
+Armor Class 11
+Hit Points 9 (2d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 13 (+1) 10 (+0) 12 (+1) 10 (+0) 15 (+2)
+Skills History +3, Insight +4, Persuasion +4
+Senses passive Perception 10
+Languages any two languages
+Challenge 1/8 (25 XP)
+Actions
+Multiattack. The courtier  uses its Rally, if it can. It can then either make a melee weapon attack  or take the Dodge action.
+Dagger. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft.,  one target. Hit: 3 (1d4 +1) piercing damage.
+Rally (Recharge 5-6). The courtier chooses up to 3 friendly creatures within 30 feet of it that can see and hear it. Each target gains 5 (1d6 + 2) temporary hit points.

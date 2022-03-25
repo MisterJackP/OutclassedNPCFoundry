@@ -1,0 +1,33 @@
+Guerilla Scout
+Medium humanoid (any race), any alignment
+Armor Class 14 (leather armor)
+Hit Points 44 (8d8 + 8)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 12 (+1) 10 (+0) 18 (+4) 10 (+0)
+Skills Athletics +2, Nature +6, Perception +6, Stealth +7, Survival +8
+Senses passive Perception 16
+Languages Thieves' Cant plus any two languages
+Challenge 2 (450 XP)
+Guerilla Fighter. The scout has advantage on initiative checks. The scout can ignore the limitation of 1 use of
+sneak attack per turn if each use of it is against a
+different surprised enemy and as long as the
+requirements for sneak attack are otherwise met.
+Sneak Attack (1/Turn). The scout deals an extra 10 (3d6)
+damage when it hits a target with a weapon attack and
+has advantage on the attack roll, or when the target is
+within 5 feet of an ally of the scout that isn't
+incapacitated and the scout doesn't have disadvantage
+on the attack roll.
+Actions
+Multiattack. The scout makes three attacks on the first
+turn of combat.
+Shortsword. Melee Weapon Attack: +5 to hit, reach 5
+ft., one target. Hit: 6 (1d6 + 3) piercing damage.
+Longbow. Ranged Weapon Attack: +5 to hit, range
+150/600 ft., one target. Hit: 7 (1d8 + 3) piercing
+damage.
+Reactions
+Skirmisher. When a creature ends its turn within 5 feet
+of the scout, the scout can move up to 20 feet without
+provoking opportunity attacks.

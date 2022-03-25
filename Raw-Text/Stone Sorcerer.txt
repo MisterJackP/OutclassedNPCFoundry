@@ -1,0 +1,34 @@
+Stone Sorcerer
+Medium humanoid (any race), any alignment
+Armor Class 16 (natural armor)
+Hit Points 170 (24d8 + 80)
+Speed 30 ft., burrow 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 10 (+0) 17 (+3) 10 (+0) 16 (+3) 16 (+3)
+Skills Intimidation +7, Investigation +4, Perception +7
+Damage Resistances bludgeoning, piercing, and slashing damage from nonmagical weapons
+Senses Tremorsense 30 ft., passive Perception 17
+Languages Primordial, any one language
+Challenge 11 (7,200 XP)
+Blessed by Stone. The sorcerer's weapon attacks are
+magical. When the sorcerer hits a creature with a
+melee weapon attack, it deals an additional 22 (4d10)
+force damage (included in the attack).
+Earth Aegis. Up to three friendly creatures of the
+sorcerer's choice within 30 feet of it also benefit from
+the sorcerer's resistances to bludgeoning, piercing, and
+slashing damage from nonmagical weapons.
+Spellcasting. The sorcerer is an 8th-level spellcaster.
+The sorcerer's spellcasting ability is Charisma (spell
+save DC 15, +7 to hit with spell attacks). It knows the
+following sorcerer spells.
+At will: booming blade, gust, mold earth, thunderclap
+1st level (4 slots): absorb elements, compelled duel, earth tremor, thunderwave, wrathful smite
+2nd level (3 slots): dust devil, earthbind, gust of wind, hold person, Maximilian's earthen grasp
+3rd level (3 slots): dispel magic, erupting earth, Melf's minute meteors, protection from energy
+4th level (2 slots): staggering smite
+Actions
+Multiattack. The sorcerer makes two weapon attacks.
+Maul. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target. Hit: 11 (2d6 + 4) bludgeoning damage plus 22
+(4d10) force damage. This is a magic weapon.

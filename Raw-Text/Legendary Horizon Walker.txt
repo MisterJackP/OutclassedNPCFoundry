@@ -1,0 +1,85 @@
+Legendary Horizon Walker
+Medium humanoid (any race), any alignment
+Armor Class 14 (studded leather)
+Hit Points 121 (22d8 + 22)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 12 (+1) 14 (+2) 18 (+4) 10 (+0)
+Skills Arcana +6, Perception +8, Survival +8
+Senses passive Perception 18
+Languages Deep Speech, Primordial, plus any one language
+Challenge 11 (7,200 XP)
+Distant Strike. When the horizon walker takes the Multiattack action, it can teleport up to 10 feet before
+or after each attack to an unoccupied space it can see.
+Ethereal Jaunt. As a bonus action, the horizon walker
+can magically shift from the Material Plane to the
+Ethereal Plane, or vice versa.
+Actions
+Multiattack. The horizon walker makes three attacks with its subtle knife. Each attack must be against a
+different target.
+Subtle Knife. Melee Weapon Attack: +6 to hit, reach 5
+ft.,  one target. Hit: 13 (1d4 + 2d8 + 2) force damage.
+On a critical hit against a target in an astral body (as
+with the astral projection spell), the horizon walker can
+cut the silvery cord that tethers the target to its
+material body, instead of dealing damage. This is a
+magic weapon.
+Detect Portal (3/Day). The horizon walker magically
+detects the direction and distance to the nearest
+planar portal or planar gash (a small hidden connection between worlds, a potential planar portal) on the same
+plane of existence as it.
+Open Portal. The horizon walker targets a hidden
+planar gash with its subtle knife, creating a one-way
+portal to a randomly-determined plane of existence.
+The portal stays open until the end of the horizon
+walker's next turn; the horizon walker can use its
+action to keep the portal open.
+Reactions
+Spectral Defense. When the horizon walker takes
+damage from an attack, it can give itself resistance to
+the damage of the attack.
+Legendary Actions
+The horizon walker can take 3 legendary actions, choosing from the options below. Only one legendary
+action can be used at a time,  and only at the end of
+another creature's turn. Spent legendary actions are
+regained at the start of each turn.
+
+Open Portal to the Elemental Plane of Air. The horizon
+walker uses its subtle knife to open a two-way portal to
+the Elemental Plane of Air. Until the end of the Horizon
+Walker's next turn, the portal stays open and emanates
+a gust of wind in a 60 foot by 5 foot line. Creatures that
+start their turn in the area of effect must succeed on a
+DC 15 Strength saving throw or be pushed 30 feet in
+the direction of the wind. Ranged weapon attacks that
+pass through the area of effect are made with
+disadvantage. A creature moving against the wind must
+spend 3 feet of movement for every 1 foot moved.
+
+Open Portal to the Elemental Plane of Earth (Costs 2
+Actions). The horizon walker uses its subtle knife to
+open a two-way portal to the Elemental Plane of Earth.
+The portal opens and immediately closes. A 10 foot
+high, 5 foot wide, and 30 foot long wall of stone
+appears next to the portal in a configuration of the
+horizon walker's choice. The wall has an AC of 18 and
+100 hit points.
+
+Open Portal to the Elemental Plane of Fire (Costs 2
+Actions). The horizon walker uses its subtle knife to
+open a two-way portal to the Elemental Plane of Fire.
+The portal opens and immediately closes. Creatures in
+a 15-foot cone originating from the portal must make a
+DC 15 Dexterity saving throw, taking 33 (6d10) fire
+damage on a failed save, or half as much damage as a
+successful one.
+
+Open Portal to the Elemental Plane of Water. The
+horizon walker uses its subtle knife to open a two-way
+portal to the Elemental Plane of Air. The portal opens
+and immediately closes. Creatures in a 20-foot cube
+originating  from the portal must make a DC 15
+Strength saving throw. On a failed save, a target takes
+11 (2d10) bludgeoning damage and is knocked prone.
+On a successful save, a target takes half as much
+damage and isn't knocked prone.

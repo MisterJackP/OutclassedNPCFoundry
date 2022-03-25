@@ -1,0 +1,12 @@
+Air Bender
+Medium humanoid (any race), any alignment
+Armor Class 13 (leather armor)
+Hit Points 22 (4d8 + 4)
+Speed 40 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+1) 10 (+0) 14 (+2) 12 (+1)
+Senses passive Perception 12
+Languages Primordial, any one language
+Challenge 2 (450 XP)
+Actions
+Fist of Unbroken Air. Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 22 (4d10) bludgeoning damage, and the target must make a DC 12 Strength saving throw. On a failed save, the target is pushed 20 feet away and knocked prone. On a successful save, it is pushed 10 feet and isn't knocked prone.

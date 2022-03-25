@@ -1,0 +1,40 @@
+Arcane Thief
+Medium humanoid (any race), any non-lawful alignment
+Armor Class 15 (studded leather)
+Hit Points 77 (14d8 + 14)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 12 (+1) 15 (+2) 13 (+1) 15 (+2)
+Skills Deception +4, Sleight of Hand +7, Stealth +5,
+Thieves' Tools +7
+Senses passive Perception 11
+Languages Thieves' Cant plus any two languages
+Challenge 3 (700 XP)
+Invisible Hand. The thief gains additional benefits when
+it casts mage hand. For a creature to notice the hand or
+the tasks the hand is performing, it must succeed on a
+Wisdom (Perception) check:
+The hand created by the spell is invisible.
+The thief can use the hand to stow or retrieve one
+object into or from a container worn or carried by
+another creature, or to use its Thieves' Tools.
+The thief can use its bonus action to control the
+hand, or to distract a creature within range of the
+spell. If it distracts a creature, it gains advantage on
+attack rolls against the target until the end of the
+thief's turn.
+Sneak Attack (1/Turn). The thief deals an extra 10 (3d6)
+damage when it hits a target with a weapon attack and
+has advantage on the attack roll, or when the target is
+within 5 feet of an ally of the thief that isn't
+incapacitated and the thief doesn't have disadvantage
+on the attack roll.
+Spellcasting. The thief is a 4th-level spellcaster. Its
+spellcasting  ability is Intelligence (spell save DC 12, +4
+to hit with spell attacks). It knows the following wizard
+spells.
+Cantrips (at will): mage hand, prestidigitation,
+shocking grasp
+1st level (4 slots): charm person, disguise self, silent
+image, sleep
+2nd level (3 slots): invisibility, rope trick, suggestion

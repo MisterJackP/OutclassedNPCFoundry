@@ -1,0 +1,12 @@
+Water Bender
+Medium humanoid (any race), any alignment
+Armor Class 13 (leather armor)
+Hit Points 22 (4d8 + 4)
+Speed 35 ft., swim 35 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+1) 10 (+0) 14 (+2) 12 (+1)
+Senses passive Perception 12
+Languages Primordial, any one language
+Challenge 2 (450 XP)
+Actions
+Water Whip. Melee Spell Attack: +4 to hit, reach 30 ft., one target. Hit: 7 (1d10 + 2) bludgeoning damage, and the target must make a DC 11 Dexterity saving throw. On a failed save, the target takes 22 (4d10) bludgeoning damage and is knocked prone or pulled up to 25 feet toward the bender (bender's choice). On a successful save, the target takes half as much damage and isn't pulled or knocked prone.

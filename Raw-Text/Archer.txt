@@ -1,0 +1,29 @@
+Archer
+Medium humanoid (any race), any alignment
+Armor Class 13 (leather armor)
+Hit Points 5 (1d8 + 1)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 15 (+2) 12 (+1) 10 (+0) 14 (+2) 10 (+0)
+Skills Perception +4
+Senses passive Perception 14
+Languages any one language
+Challenge 1/4 (50 XP)
+Actions
+Club. Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target. Hit: 3 (1d4 + 1) bludgeoning damage.
+Longbow. Ranged Weapon Attack: +4 to hit, range
+150/600 ft., one target. Hit: 6 (1d8 + 2) piercing
+damage.
+Shortbow. Ranged Weapon Attack: +4 to hit, range
+80/320 ft., one target. Hit: 5 (1d6 + 2) piercing
+damage.
+Light Crossbow. Ranged Weapon Attack: +4 to hit, range
+80/320 ft., one target. Hit: 6 (1d8 + 2) piercing
+damage.
+Light Crossbow. Ranged Weapon Attack: +4 to hit, range
+100/400 ft., one target. Hit: 7 (1d10 + 2) piercing
+damage.
+Fiery Sling. Ranged Weapon Attack: +4 to hit, range
+30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning
+damage plus 2 (1d4) fire damage.

@@ -1,0 +1,45 @@
+Matriarch/Patriarch Sorcerer
+Medium humanoid (any race), any alignment
+Armor Class 13 (16 with mage armor)
+Hit Points 170 (20d8 + 80)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 19 (+4) 10 (+0) 15 (+2) 20 (+5)
+Senses passive Perception 12
+Languages any two languages
+Challenge 16 (15,000 XP)
+Metamagic (1/Turn). When the sorcerer casts a spell of
+1st level or higher, it can apply one of the following
+metamagic options to that spell.
+Distant Spell. If the spell has a range of 5 feet or
+greater, the sorcerer can double the range of the
+spell, or it can extend the range to 30 feet if the
+spell has a range of touch.
+Heightened Spell. One creature affected by the spell
+(sorcerer's choice) has disadvantage on the first
+saving throw it must make against the spell's
+effects.
+Subtle Spell. The sorcerer can ignore any somatic or
+verbal components of the spell.
+Twinned Spell. If the spell targets only one creature
+and doesn't have a range of self, the sorcerer can
+target a second creature in range with the same
+spell.
+Spellcasting. The sorcerer is a 20th level spellcaster.
+Its spellcasting ability is Charisma (spell save DC 18,
++10 to hit with spell attacks). It can cast the following
+sorcerer spells.
+Cantrips (at will): dancing lights, mage hand, message,
+minor illusion, prestidigitation, shocking grasp
+1st-level (4 slots): mage armor, magic missile, shield
+2nd-level (3 slots): hold person, invisibility
+3rd-level (3 slots): counterspell, slow
+4th-level (3 slots): confusion, dimension door
+5th-level (3 slots): animate objects, telekinesis
+6th-level (2 slots): disintegrate
+7th-level (2 slots): power word pain
+8th-level (1 slot): dominate monster
+9th-level (1 slot): gate
+Actions
+Unarmed Strike. Melee Weapon Attack: +5 to hit, range
+5 ft., one target. Hit: 1 bludgeoning damage.

@@ -1,0 +1,31 @@
+Privateer
+Medium humanoid (any race), any alignment
+Armor Class 15 (studded leather)
+Hit Points 60 (9d8 + 9)
+Speed 40 ft., climb 40 ft., swim 40 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 16 (+3) 12 (+1) 10 (+0) 13 (+1) 15 (+2)
+Skills Acrobatics +5, Athletics +3, Survival +3,
+Vehicles (Water) +3
+Senses passive Perception 11
+Languages Thieves Cant plus any two languages
+Challenge 3 (700 XP)
+Cunning Action. The privateer can take the Dash,
+Disengage, or Hide action as a bonus action on its
+turn.
+Fancy Footwork. During the privateer's turn, if it makes
+a melee attack against a creature, that creature cannot
+make opportunity attacks against it until the end of the
+privateer's turn.
+Sneak Attack (1/Turn). The privateer deals an extra 7
+(2d6) damage when it hits a target with a weapon
+attack and has advantage on the attack roll, or when
+the target is within 5 feet of the privateer and has no
+allies within 5 feet of it, as long as the privateer doesn't
+have disadvantage on the attack roll.
+Actions
+Multiattack. The privateer makes two attacks.
+Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+Hand Crossbow. Ranged Weapon Attack: +5 to hit,
+range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing
+damage.
