@@ -1,0 +1,29 @@
+Oathkeeper
+Medium humanoid (any race), any alignment (usually non-evil)
+Armor Class 18 (plate; 20 with shield of faith)
+Hit Points 120 (16d8 + 48)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 8 (-1) 16 (+3) 14 (+2) 15 (+2) 16 (+3)
+Saving Throws Wis +5, Cha +6
+Skills Investigation +5, Persuasion +6, Religion +5
+Senses passive Perception 12
+Languages any 3 (usually including Abyssal or Infernal)
+Challenge 7 (2,900 XP)
+Aura of Protection. Friendly creatures within 10 feet of
+the oathkeeper have advantage on saving throws while
+the oathkeeper isn't unconscious.
+Spellcasting. The oathkeeper is a 5th level spellcaster.
+Its spellcasting ability is Charisma (spell save DC 14, +6
+to hit with spell attacks). It has the following paladin
+spells prepared.
+1st level (4 slots): compelled duel, detect evil and
+good, protection from evil and good, shield of faith
+2nd level (2 slots): zone of truth
+Actions
+Multiattack. The oathkeeper makes two melee weapon
+attacks.
+Sacred Greatsword. Melee Weapon Attack: +7 to hit,
+reach 5 ft.,  one target. Hit: 11 (2d6 + 4) slashing
+damage, plus 7 (2d6) radiant damage. This is a magic
+weapon.

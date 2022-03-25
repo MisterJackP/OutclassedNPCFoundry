@@ -1,0 +1,34 @@
+Spore Spreader
+Medium humanoid (50%) or plant (50%), any alignment (usually evil)
+Armor Class 14 (natural armor)
+Hit Points 165 (30d8 + 30)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 12 (+1) 13 (+1) 10 (+0) 18 (+4) 10 (+0)
+Senses passive Perception 14
+Languages Druidic and Undercommon plus any one language
+Challenge 10 (5,900 XP)
+Halo of Spores. As a bonus action, the spore spreader
+can activate or deactivate its halo of spores. While
+activated, the spore spreader is surrounded by deadly
+fungal spores: creatures that start their turn within 10
+feet of the spore spreader take 7 (2d6) poison damage.
+Servitude. When the spore spreader reduces a creature
+to 0 hit points, the creature dies. If the body isn't
+destroyed, the creature returns to life in 1d4 hours as a
+spore servant.
+Spellcasting. The spore spreader is a 9th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 16, +8 to hit with spell attacks). It has the following
+druid spells prepared.
+Cantrips (at will): chill touch, druidcraft
+1st Level (4 slots): disguise self, sleep
+2nd Level (3 slots): gentle repose, ray of enfeeblement
+3rd Level (3 slots): animate dead, gaseous form
+4th level (3 slots): blight, confusion
+5th level (2 slots): cloudkill, contagion
+Actions
+Mushroom Mace. Melee Weapon Attack: +7 to hit,
+reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning
+damage plus 3 (1d6) poison damage. This is a +1 magic
+weapon

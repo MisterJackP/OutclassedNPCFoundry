@@ -1,0 +1,35 @@
+Feysworn
+Medium humanoid (any race), any alignment
+Armor Class 17 (natural armor)
+Hit Points 105 (14d8 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 17 (+3) 16 (+3) 13 (+1) 15 (+2) 18 (+4)
+Saving Throws Wis +5, Cha +7
+Skills Nature +4, Perception +5, Religion +4
+Senses passive Perception 15
+Languages Sylvan plus any two languages
+Challenge 7 (2,900 XP)
+Aura of Warding. The feysworn and friendly creatures
+within 30 feet of it have resistance to damage from
+spells.
+Innate Spellcasting. The feysworn's innate spellcasting 
+ability is Charisma (spell save DC 15, +7 to hit with spell
+attacks). It can cast the following spells innately.
+At will: speak with animals
+3/day each: moonbeam, misty step
+1/day each: plant growth, protection from energy,
+commune with nature
+Sacred Weapons. The feysworn's weapon attacks are
+magical. When the feysworn hits with its sickle, the
+weapon deals an extra 18 (4d8) radiant damage
+(included in the attack).
+Actions
+Multiattack. The feysworn uses its Nature's Wrath, if it
+can. It then makes two attacks with its sickle.
+Nature's Wrath (Recharge 5-6). The feysworn targets a
+creature it can see within 30 feet of it. The creature
+must succeed on a DC 14 Dexterity saving throw or be
+restrained by magical vines for 1 minute. The target
+can repeat this saving throw at the end of each of its
+turns, ending the effect on a success.

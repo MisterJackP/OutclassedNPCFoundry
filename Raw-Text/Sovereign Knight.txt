@@ -1,0 +1,32 @@
+Sovereign Knight
+Medium humanoid (any race), any lawful alignment
+Armor Class 18 (plate)
+Hit Points 157 (21d8 + 63)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 10 (+0) 17 (+3) 10 (+0) 10 (+0) 17 (+3)
+Saving Throws Wis +4, Cha +7
+Skills Athletics +9, History +4, Persuasion +7
+Damage Resistances bludgeoning, piercing, and
+slashing from nonmagical weapons
+Condition Immunities paralyzed, stunned
+Senses passive Perception 10
+Languages any two languages
+Challenge 12 (8,400 XP)
+Aura of the Exalted. The knight and friendly creatures
+within 30 feet of the knight have advantage on
+Wisdom saving throws and death saving throws.
+Innate Spellcasting. The knight's innate spellcasting 
+ability is Charisma (spell save DC 15, +7 to hit with spell
+attacks).  It can cast the following spells innately
+without expending somatic or material components.
+At will: command, compelled duel
+3/day each: warding bond, zone of truth
+1/day each: banishment
+Sacred Weapons. The knight's weapon attacks are
+magical. When the knight hits with its halberd, the
+weapon deals an extra 18 (4d8) radiant damage
+(included in the attack).
+Actions
+Multiattack. The knight makes three attacks  with its
+halberd.

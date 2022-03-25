@@ -1,0 +1,31 @@
+Cavalier
+Medium humanoid (any race), any alignment
+Armor Class 20 (plate, shield)
+Hit Points 47 (5d8 + 25)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+1) 20 (+5) 13 (+1) 15 (+2) 10 (+0)
+Skills Animal Handling +6
+Senses passive Perception 12
+Languages any one language
+Challenge 4 (1,100 XP)
+Charger. If the cavalier moves at least 20 feet in a
+straight line towards a creature and then hits it with a
+lance attack, the creature takes an additional 6 (1d12)
+piercing damage and must succeed on a DC 14
+Strength saving throw or be knocked prone.
+Saddle Master. Mounting or dismounting  a creature
+costs 5 feet of movement for the cavalier. It has
+advantage on saving throws made to avoid falling off
+its mount, and if it falls, it can automatically  land on its
+feet if it falls less than 10 feet and isn't incapacitated.
+Actions
+Multiattack. If the cavalier is mounted, it can make two
+lance attacks. These attacks cannot be made against
+the same target.
+Reactions
+Warding Maneuvers. When a creature the cavalier can
+see targets the cavalier or its mount with an attack, the
+cavalier adds 2 to the AC of both itself and its mount
+against attacks from that creature until the start of the
+cavalier's next turn.

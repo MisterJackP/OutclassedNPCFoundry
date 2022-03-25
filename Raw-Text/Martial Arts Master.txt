@@ -1,0 +1,48 @@
+Martial Arts Master
+Medium humanoid (any race), any alignment
+Armor Class 18
+Hit Points 214 (33d8 + 66)
+Speed 45 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 19 (+4) 15 (+2) 13 (+1) 18 (+4) 12 (+0)
+Skills Acrobatics +8, Insight +8, Stealth +8
+Condition Immunities charmed, frightened
+Senses passive Perception 14
+Languages any one language
+Challenge 11 (7,200 XP)
+Evasive Maneuvers. When the martial arts master is
+subjected to an effect that allows it to make a Dexterity
+saving throw to take only half damage, it instead takes
+no damage if it succeeds on the saving throw, and only
+half damage if it fails.
+Unarmored Defense. While the martial arts master is
+wearing no armor and wielding no shield, its AC
+includes its Wisdom modifier.
+Actions
+Multiattack. The martial arts master makes four
+unarmed strikes.
+Unarmed Strike. Melee Weapon Attack: +8 to hit, reach
+5 ft., one target. Hit: 9 (1d10 + 4) bludgeoning damage.
+This is a magic weapon attack. If the target is a
+creature, the martial arts master can choose one of the
+following additional effects.
+The target must succeed on a DC 16 Strength saving
+throw or drop one item it is holding (martial arts
+master's choice).
+The target must succeed on a DC 16 Dexterity saving
+throw or be knocked prone.
+The target must succeed on a DC 16 Constitution
+saving throw or be stunned until the end of the
+martial arts master's next turn.
+Improvised Missile. Ranged Weapon Attack: +8 to hit,
+range 20/60 ft., one target. Hit: 9 (1d10 + 4)
+bludgeoning, piercing, or slashing damage (depending
+on the nature of the missile thrown).
+Reactions
+Deflect Missile. In response to being hit by a ranged
+weapon attack, the martial arts master deflects the
+missile. The damage it takes from the attack  is reduced
+by 15 (2d10 + 4). If the damage is reduced to 0, it
+catches the missile if it's small enough to hold in one
+hand and a hand is free. It can then make an
+improvised missile attack.

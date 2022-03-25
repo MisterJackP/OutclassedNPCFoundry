@@ -1,0 +1,35 @@
+Grave Priest
+Medium humanoid (any race), any neutral alignment
+Armor Class 14 (chain shirt)
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+13 (+1) 13 (+1) 13 (+1) 13 (+1) 15 (+2) 13 (+1)
+Senses passive Perception 12
+Languages any one language
+Challenge 2 (450 XP)
+Circle of Mortality. When the priest would normally roll
+one or more dice to restore hit points with a spell to a
+creature at 0 hit points, it instead uses the highest
+number possible for each die.
+Spellcasting. The priest is a 6th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 12, +4 to
+hit with spell attacks).  It has the following cleric spells
+prepared.
+Cantrips (at will): mending, sacred flame, spare the
+dying, thaumaturgy
+1st Level (4 slots): bane, cure wounds, false life,
+healing word, inflict wounds, sanctuary
+2nd Level (3 slots): blindness/deafness, feign death,
+gentle repose, lesser restoration
+3rd Level (3 slots): ray of enfeeblement, revivify, speak
+with dead, vampiric touch
+Actions
+Grave Scythe. Melee Spell Attack: +4 to hit, reach 5 ft., 
+one target. Hit: 13 (2d12) slashing damage.
+Protect the Dying (Recharge 5-6). The priest chooses up
+to three unconscious creatures it can see within 30 feet
+of it. The priest can choose to spend one spell slot of
+1st level or higher; if it does so, each target regains 6
+hit points. If the priest doesn't spend a spell slot, the
+targets are instead stabilised.

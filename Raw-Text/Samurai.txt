@@ -1,0 +1,41 @@
+Samurai
+Medium humanoid (any race), any lawful alignment
+Armor Class 17 (splint mail)
+Hit Points 110 (10d8 + 20)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 16 (+3) 15 (+2) 15 (+2) 15 (+2) 15 (+2)
+Saving Throws Str +6, Wis +5, Int +5
+Skills History +5, Painter's Tools +5, Persuasion +7
+Senses passive Perception 12
+Languages any three languages
+Challenge 6 (2,300 XP)
+Draw. The samurai deals an extra 5 (1d10) damage on
+the first attack  it makes during the first turn of combat.
+Fighting Spirit (3/Day). As a bonus action, the samurai
+gains 10 temporary hit points, plus advantage on
+melee weapon attacks until the end of its turn.
+Master of the Blade (1/Turn). When the samurai hits a
+creature with a melee weapon attack  on the samurai's
+turn, the target takes an additional 5 (1d10) damage
+and the the samurai can apply one of the following
+bonuses to the attack.
+Disarming Attack. The samurai chooses an item its
+target is holding. On a hit, the target must succeed
+on a DC 14 Dexterity saving throw or drop the
+object. The object lands at its feet.
+Pushing Attack. On a hit, if the target is Large or
+smaller, it must succeed on a DC 14 Strength
+saving throw or be pushed up to 15 feet away from
+the samurai.
+Actions
+Multiattack. The samurai makes three attacks with its
+katana.
+Katana. Melee Weapon Attack: +8 to hit, reach 5 ft., 
+one target. Hit: 9 (1d8 + 5) slashing damage, or 10
+(1d10 + 5) slashing damage if wielded with two hands
+to make a melee attack. This is a +2 magic weapon.
+Reactions
+Parry. The samurai adds 3 to its AC against one melee
+attack that would hit it. To do so, the samurai must see
+the attacker and be wielding a melee weapon.

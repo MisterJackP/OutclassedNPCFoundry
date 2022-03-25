@@ -1,0 +1,26 @@
+Tempest Priest
+Medium humanoid (any race), any alignment
+Armor Class 18 (chain mail, shield)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 10 (+0) 12 (+1) 13 (+1) 16 (+3) 13 (+1)
+Skills Medicine +7, Persuasion +3, Religion +3
+Senses passive Perception 13
+Languages any two languages
+Challenge 4 (1,100 XP)
+Spellcasting. The priest is a 5th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 13, +5 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): gust, shocking grasp, thaumaturgy
+1st level (4 slots): create or destroy water, purify food
+and drink, thunderwave
+2nd level (3 slots): shatter, spiritual weapon
+3rd level (2 slots): create food and water, water walk
+Reactions
+Thunderous Rebuke. When a creature hits the priest
+with a melee weapon attack, the priest can force the
+creature to make a DC 13 Dexterity saving throw,
+taking 9 (2d8) lightning or thunder damage on a failed
+save, or half as much damage on a successful one.

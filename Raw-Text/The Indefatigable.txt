@@ -1,0 +1,43 @@
+The Indefatigable
+Medium humanoid (any race), any alignment
+Armor Class 26 (plate mail, shield)
+Hit Points 190 (20d8 + 100)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 15 (+2) 20 (+5) 17 (+4) 14 (+2) 14 (+2)
+Skills Athletics +11, History +10, Intimidation +8, Painter's Tools +10, Perception +8, Persuasion +8
+Condition Immunities exhaustion
+Senses passive Perception 18
+Languages any three languages
+Challenge 19 (22,000 XP)
+Action Surge (Recharges after a Short or Long Rest). The
+indefatigable can take one additional action on its turn.
+Disarming Attack (1/Turn). When the indefatigable hits
+a creature with a melee attack, it can deal an additional
+6 (1d12) damage and force the target to succeed on a
+DC 19 Dexterity saving throw or drop a weapon or
+object of the indefatigable's choice that it is holding.
+Duelist. As a bonus action, the indefatigable can force
+one creature it can see within 30 feet of it to make a
+DC 18 Wisdom saving throw. On a failed save, the
+target has disadvantage on attack rolls made against
+creatures other than the indefatigable and can't
+willingly move further away from it. These effects end
+at the start of the indefatigable's next turn.
+Additionally, the indefatigable gains a +2 to damage
+rolls when it hits with its legendary longsword when
+wielded with one hand (included in the attack).
+Legendary Resistance (3/Day). When the indefatigable
+fails a saving throw, it can choose to succeed instead.
+Magic Armor. The indefatigable's  plate mail and shield
+are both magical, contributing to a +3 increase in AC
+each while the indefatigable wears them.
+Superior Critical. The indefatigable scores a critical hit
+on a roll of 18-20.
+Survivor. The indefatigable regains 20 hit points at the
+start of its turn if it isn't incapacitated.
+Weapon Bond. The indefatigable can summon its
+legendary longsword to its hand or banish it to a demiplane as a bonus action. The indefatigable can't be
+disarmed of this weapon unless it is incapacitated.
+Actions
+Multiattack. The indefatigable makes four attacks with its legendary longsword.

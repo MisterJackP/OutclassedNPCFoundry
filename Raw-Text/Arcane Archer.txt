@@ -1,0 +1,66 @@
+Elite Magical Archer
+Medium humanoid, any alignment
+Armor Class 16 (studded leather)
+Hit Points 66 (12d8 + 12)
+Speed 35 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 19 (+4) 13 (+1) 16 (+3) 14 (+2) 10 (+0)
+Skills Perception +4, Stealth +6
+Senses darkvision 60 ft., passive Perception 14
+Languages any two language
+Challenge 3 (700 XP)
+Arcane Shot (1/Turn). When the archer hits a creature
+with a ranged weapon attack, , it can apply one of the
+following effects to the target in addition  to the
+damage of the attack:
+Grasping Arrow. The target takes 7 (2d6) poison
+damage, its speed is reduced by 10 feet, and it is
+overwhelmed by brambles, taking 7 (2d6) slashing
+damage the first time on each turn it moves 1 foot
+or more without teleporting. The target or any
+creature that can reach it can use its action to
+remove the brambles. Otherwise, they last for 1
+minute.
+Shadow Arrow. The target takes 7 (2d6) psychic
+damage, and it must succeed on a DC 13 Wisdom
+saving throw or be blinded until the start of the
+archer's next turn.
+Banishing Arrow. The target must succeed on a DC
+13 Charisma saving throw or be banished to the
+ethereal plane. While in the ethereal plane in this
+manner, the target has a speed of 0 and is
+incapacitated. At the end of its next turn, the target
+reappears in the space it vacated or in the nearest
+unoccupied space if that space is occupied.
+Beguiling Arrow. The target takes 7 (2d6) psychic
+damage, and it must succeed on a DC 13 Wisdom
+saving throw or become charmed by the archer
+until the start of the archer's next turn.
+Detonating Arrow. The target and all other creatures
+within 10 feet of the target take 7 (2d6) force
+damage.
+Enfeebling Arrow. The target takes 7 (2d6) necrotic
+damage, and it must succeed on a DC 13
+Constitution saving throw or the damage dealt by
+its weapon attacks is halved until the start of the
+archer's next turn.
+Magic Arrows. The archer's ranged weapon attacks  are
+magical.
+Actions
+Multiattack. The archer makes two attacks with its
+longbow.
+Piercing Arrow (Recharge 5-6). The archer looses a
+magic arrow in a 30 foot by 1 foot line, passing
+harmlessly through objects and ignoring cover. Each
+creature in the line must make a DC 13 Dexterity saving
+throw, taking 17 (3d8 + 4) piercing damage on a failed
+save, or half as much damage on a successful one.
+Seeking Arrow (Recharge 5-6). The archer makes a
+longbow attack against a creature it has seen in the
+past minute, even if the creature isn't in line of sight.
+The arrow flies around corners and obstacles. On a hit,
+the archer learns the target's location.
+Reactions
+Curving Arrow. When the archer misses a target with a
+ranged weapon attack, it can reroll the attack against a
+different target within 60 feet of the original target.

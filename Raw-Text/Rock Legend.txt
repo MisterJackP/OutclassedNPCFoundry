@@ -1,0 +1,46 @@
+Rock Legend
+Medium humanoid (any race), any alignment
+Armor Class 15 (chain shirt)
+Hit Points 120 (16d8 + 48)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 17 (+3) 16 (+3) 16 (+3) 16 (+3) 22 (+6)
+Skills Acrobatics +15, Performance +18
+Senses passive Perception 13
+Languages any two languages
+Challenge 20 (25,000 XP)
+Countercharm. While playing music, the one hit wonder
+and allied creatures that can hear it within 30 feet of it
+have advantage on all saving throws and are immune
+to the frightened and charmed conditions.
+Bardic Inspiration (1/Turn). As a bonus action, the one
+hit wonder chooses an ally that can see and hear it
+within 30 feet of its position. In the next minute, the
+target can add 1d12 to one ability check, attack roll, or
+saving throw of its choice. Once a target has benefited
+from this feature, it must finish a short or long rest
+before it can benefit from it again.
+Spellcasting. The one hit wonder is a 18th-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 20, +12 to hit with spell attacks). It knows the
+following bard spells.
+Cantrips (at will): dancing lights, friends, minor
+illusion, vicious mockery
+1st level (4 slots): charm person, disguise self, faerie
+fire, silent image, thunderwave
+2nd level (3 slots): calm emotions, enthrall,
+pyrotechnics, suggestion
+3rd level (3 slots): hypnotic pattern, major image
+4th level (3 slots): hallucinatory terrain
+5th level (3 slots): mass cure wounds
+6th level (1 slot): programmed illusion, mass
+suggestion
+7th level (1 slot): symbol
+8th level (1 slot): glibness
+9th level (1 slot): psychic scream
+Actions
+Axe. Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target. Hit: 2 (1d4) bludgeoning damage. This is a
+magic weapon. While attuned to this axe, the wielder's
+Charisma is increased by 2, potentially above the
+maximum of 20.

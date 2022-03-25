@@ -1,0 +1,47 @@
+Wild Guardian
+Large fey, any chaotic alignment
+Armor Class 18 (natural armor)
+Hit Points 204 (24d10 + 72)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+21 (+5) 21 (+5) 17 (+3) 15 (+2) 20 (+5) 15 (+2)
+Skills Nature +8, Perception +11, Survival +11
+Damage Resistances nonmagical bludgeoning,
+piercing, and slashing
+Senses passive Perception 26
+Languages Sylvan, plus any one language
+Challenge 17 (18,000 XP)
+Guardian Soul. The wild guardian gains 20 temporary
+hit points at the beginning of each of its turns.
+Innate Spellcasting. The wild guardian's spellcasting 
+ability is Wisdom (spell save DC 19, +11 to hit with spell
+attacks). It can cast the following spells innately,
+without expending material components.
+At will: absorb elements, detect poison and disease,
+hunter's mark, purify food and drink, tree stride
+1/day: goodberry, locate animals or plants, locate
+creature, lesser restoration
+Keen Senses. The wild guardian has advantage on
+Wisdom (Perception) checks.
+Wild Weapons. The wild guardian's weapon attacks are
+magical and deal an additional 9 (2d8) force damage
+(included in the attack).
+Actions
+Multiattack. The wild guardian makes four attacks.
+Slam. Melee Weapon Attack: +11 to hit, reach 5 ft., one
+target. Hit: 12 (2d6 + 5) bludgeoning damage plus 9
+(2d8) force damage.
+Greatbow. Ranged Weapon Attack: +11 to hit, range
+150/600 ft., one target. Hit: 14 (2d8 + 5) piercing
+damage plus 9 (2d8) force damage.
+Entangling Thorns (Recharges After a Short or Long
+Rest). The wild guardian summons grasping vines in a
+120 foot radius centered on itself. Each creature in the
+area of effect must succeed on a DC 19 Strength saving
+throw or be restrained by the entangling plants.
+Creatures that start their turn restrained by this effect
+take 10 (3d6) piercing damage from thorns. An affected
+creature can be freed with a DC 19 Strength check. The
+vines are difficult terrain. All of the effects end after 1
+minute or when the primeval guardian ends the effects
+as an action.

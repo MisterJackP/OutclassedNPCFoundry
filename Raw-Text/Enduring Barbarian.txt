@@ -1,0 +1,33 @@
+Enduring Barbarian
+Medium humanoid (any race), any alignment
+Armor Class 17
+Hit Points 102 (12d8 + 48)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 16 (+3) 18 (+4) 10 (+0) 13 (+1) 10 (+0)
+Saving Throws Dex +6
+Skills Athletics +7
+Damage Resistances nonmagical bludgeoning,
+piercing, and slashing
+Senses passive Perception 11
+Languages any one language
+Challenge 6 (2,300 XP)
+Brutal Critical. If the barbarian scores a critical hit, it
+rolls its damage dice three times, instead of twice.
+Feral Instinct. If the barbarian isn't unconscious, it can't
+be surprised and has advantage on initiative rolls.
+Reckless. At the start of its turn, the barbarian can gain
+advantage on all melee weapon attack rolls during that
+turn, but attack rolls against it have advantage until the start 
+of its next turn.
+Unarmored Defense. While not wearing armor, the
+barbarian's AC includes its Constitution modifier.
+Actions
+Multiattack. The berserker makes two melee weapon
+attacks.
+Greataxe. Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target. Hit: 10 (1d12 + 4) slashing damage.
+Spear. Melee or Ranged Weapon Attack: +7 to hit,
+reach 5 ft. or range 20/60., one target Hit: 7 (1d6 +
+4) piercing damage, or 8 (1d8 + 4) piercing damage if
+used with two hands to make a melee attack.

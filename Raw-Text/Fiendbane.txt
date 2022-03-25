@@ -1,0 +1,37 @@
+Fiendbane
+Medium humanoid (any race), any alignment (usually non-evil)
+Armor Class 19 (+1 plate; 21 with shield of faith)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 9 (-1) 17 (+3) 15 (+2) 16 (+3) 17 (+3)
+Saving Throws Wis +7, Cha +7
+Skills Investigation +6, Persuasion +7, Religion +6
+Senses passive Perception 13
+Languages any 3 (usually including Abyssal or Infernal)
+Challenge 12 (8,400 XP)
+Aura of Protection and Courage. Friendly creatures
+within 10 feet of the fiendbane have advantage on
+saving throws and are immune to the frightened
+condition while the fiendbane isn't unconscious.
+Spellcasting. The fiendbane is a 10th level spellcaster.
+Its spellcasting ability is Charisma (spell save DC 15, +7
+to hit with spell attacks). It has the following paladin
+spells prepared.
+1st level (4 slots): compelled duel, detect evil and
+good, detect magic, protection from evil and good,
+shield of faith
+2nd level (3 slots): locate object, zone of truth
+3rd level (2 slots): magic circle
+Actions
+Multiattack. The fiendbane makes two melee weapon
+attacks.
+Fiendbane Greatsword. Melee Weapon Attack: +8 to
+hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing
+damage, plus 14 (4d6) radiant damage. If the target is a
+fiend or a warlock of a fiend, it takes an additional 7
+(2d6) radiant damage. This is a magic weapon.
+Healing Touch (3/Day). The fiendbane touches a willing
+creature. The target regains 10 hit points and is cleared
+of the poisoned condition, if applicable, as well as any
+diseases.

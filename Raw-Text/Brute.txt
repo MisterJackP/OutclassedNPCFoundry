@@ -1,0 +1,22 @@
+Brute
+Medium humanoid (any race), any alignment
+Armor Class 16 (chain mail)
+Hit Points 153 (18d8 + 72)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 8 (-1) 18 (+4) 8 (-1) 9 (-1) 9 (-1)
+Saving Throws Str +8, Con +7
+Skills Athletics +8
+Senses passive Perception 9
+Languages any one language
+Challenge 10 (5,900 XP)
+Brute Force. When the brute hits with a melee weapon
+attack, it rolls one additional and adds it to
+the damage of the attack (included in the attack).
+Legendary Resistance (3/Day). When the brute fails a
+saving throw, it can choose to succeed instead.
+Survivor. The brute regains 10 hit points at the start of
+its turn if it has at least 1 hit point but fewer hit points
+than half its hit point maximum.
+Actions
+Multiattack. The brute makes three melee weapon attacks.

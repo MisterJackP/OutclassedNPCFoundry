@@ -1,0 +1,42 @@
+Ancestral Inheritor
+Medium humanoid (any race), any alignment
+Armor Class 15
+Hit Points 85 (10d8 + 40)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 13 (+1) 18 (+4) 9 (-1) 15 (+2) 10 (+0)
+Skills Athletics +7, History +2, Survival +5
+Damage Resistances nonmagical bludgeoning,
+piercing, and slashing
+Senses passive Perception 12
+Languages any one language
+Challenge 5 (1,800 XP)
+Innate Spellcasting. The inheritor's spellcasting 
+ability is Wisdom (spell save DC 13, +5 to hit with 
+spell attacks).
+It can cast the following spells innately:
+1/day each: augury, clairvoyance
+Ancestral Demise. When the inheritor dies, it
+disintegrates and becomes an ancestral spirit, joining
+the other ancestral spirits as they pass on to guard one
+of the inheritor's children chosen at random. If the
+inheritor has no children, it dies, along with all of its
+ancestral spirits.
+Ancestral Protectors. In battle, the inheritor is
+surrounded and protected by ancestral spirits, the
+souls of its ancestors. The first time the inheritor hits a
+creature with a melee weapon attack on its turn, the
+creature becomes the target of the ancestral spirits,
+hindering its attacks. The target has disadvantage on
+attack rolls until the start of the inheritor's next turn.
+Unarmored Defense. While not wearing armor, the
+barbarian's AC includes its Constitution modifier.
+Actions
+Multiattack. The berserker makes two attacks with its greataxe.
+Greataxe. Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target. Hit: 10 (1d12 + 4) slashing damage.
+Reactions
+Spirit Shield. When a creature the inheritor can see
+within 30 feet of it takes damage from an attack,the
+inheritor can use its reaction to provide aid through its
+ancestral spirits, reducing the damage by 7 (2d6)

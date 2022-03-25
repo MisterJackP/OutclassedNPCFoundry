@@ -1,0 +1,42 @@
+Cardinal
+Medium humanoid (any race), any alignment
+Armor Class 20 (plate mail, shield)
+Hit Points 195 (30d8 + 60)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 10 (+0) 15 (+2) 15 (+2) 19 (+4) 15 (+2)
+Skills Persuasion +6, Religion +6
+Senses passive Perception 14
+Languages any two languages
+Challenge 12 (8,400 XP)
+Spellcasting. The cardinal is a 15th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 16, +8 to
+hit with spell attack).  It has the following cleric spells
+prepared.
+Cantrips (at will): light, mending, sacred flame, spare
+the dying, thaumaturgy
+1st level (4 slots): cure wounds, guiding bolt, purify
+food and drink, shield of faith
+2nd level (3 slots): lesser restoration, spiritual weapon,
+zone of truth
+3rd level (3 slots): remove curse, mass healing word,
+spirit guardians
+4th level (3 slots): banishment, guardian of faith
+5th level (3 slots): flame strike, greater restoration,
+hallow, raise dead
+6th level (1 slot): true seeing
+7th level (1 slot): divine word
+8th level (1 slot): resurrection
+Actions
+Turn Undead (Recharges after a Short or Long Rest). The
+cardinal presents its holy symbol and speaks a prayer.
+Each undead that can see or hear the cardinal must
+make a DC 16 Wisdom saving throw. If the target is an
+undead of CR 3 or lower, it is destroyed on a failed
+save. Otherwise, on a failed save the target is turned
+for 1 minute or until it takes any damage. A turned
+creature moves up to its speed away from the cardinal
+and can't willingly move within 30 feet of it. It can't
+take reactions and must either use the Dash action or 
+try to escape from an effect that stops it from moving.
+If it can't move, it can take the Dodge action.

@@ -1,0 +1,51 @@
+Archdruid Coven Leader
+Medium humanoid (any race, shapechanger), any non-lawful alignment
+Armor Class 12 (16 with barkskin)
+Hit Points 208 (32d8 + 64)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 15 (+2) 15 (+2) 20 (+5) 19 (+4)
+Saves Wis +10
+Skills Nature +7, Perception +10, Survival +10
+Senses truesight 60 ft., passive Perception 20
+Languages Druidic plus any two languages
+Challenge 16 (25,000 XP)
+Spellcasting. The archdruid is a 20th-level spellcaster.
+Its spellcasting ability is Wisdom (spell save DC 18, +10
+to hit with spell attacks).  It has the following druid
+spells prepared.
+Cantrips (at will): druidcraft*, guidance*, mold earth*
+1st level (4 slots): animal friendship, detect poison and
+disease, entangle*, goodberry, purify food and drink*,
+speak with animals*, thunderwave*
+2nd level (3 slots): barkskin, lesser restoration*,
+moonbeam, spike growth
+3rd level (3 slots): plant growth*, speak with plants*
+4th level (3 slots): conjure woodland beings,
+hallucinatory terrain, polymorph
+5th level (2 slots): awaken, tree stride*
+6th level (2 slots): transport via plants*, wall of thorns
+7th level (2 slots): fire storm*, regenerate
+8th level (1 slot): earthquake
+9th level (1 slot): storm of vengeance*
+Actions
+Shillelagh Staff. Melee Spell Attack: +10 to hit, reach 5
+ft., one target. Hit: 9 (1d8 + 5) bludgeoning damage.
+Change Shape (2/Day). The archdruid magically
+polymorphs into a beast or elemental with a challenge
+rating   of 6 or less, and can remain in this form for up to
+9 hours. The archdruid can choose whether its
+equipment falls to the ground, melds with its new
+form, or is worn by the new form. The archdruid
+reverts to its true form as a bonus action or if it is
+knocked to 0 hit points, with excess damage carrying
+over to its true form. While in a new form, the
+archdruid retains its game statistics and ability  to
+speak, but its AC, movement modes, Strength,
+Dexterity, and Constitution are replaced by those of
+the new form, and it gains any special senses,
+proficiencies, traits, actions and reactions  (except class
+features, legendary actions, and lair actions)  that the
+new form has. It can cast its spells with verbal or
+somatic components s in its new form (marked with an
+asterisk*). The new form's attacks are magical. 

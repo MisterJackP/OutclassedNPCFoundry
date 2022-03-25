@@ -1,0 +1,35 @@
+Zealot
+Medium humanoid (any race), any non-goodalignment
+Armor Class 17 (half plate, shield)
+Hit Points 90 (12d8 + 36)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 10 (+0) 17 (+3) 9 (-1) 11 (+0) 9 (-1)
+Damage Resistances necrotic, radiant; nonmagical
+bludgeoning, piercing, and slashing
+Senses passive Perception 10
+Languages Abyssal, Celestial, or Infernal, plus any one
+language
+Challenge 9 (5,000 XP)
+Beyond Death (2/Day). When the zealot is reduced to 0
+hit points by an attack that isn't a critical hit, and the
+zealot is not killed outright, it can choose to fall to 1 hit
+point instead.
+Legendary Resistance (3/Day). When the zealot fails a
+saving throw, it can choose to succeed instead.
+Reckless. At the start of its turn, the barbarian can gain
+advantage on all melee weapon attack rolls during that
+turn, but attack rolls against it have advantage until the start 
+of its next turn.
+Actions
+Multiattack. The zealot makes two attacks with Dawn
+Star.
+Dawn Star. Melee Weapon Attack: +7 to hit, reach 5 ft., 
+one target. Hit: 7 (1d8 + 3) piercing damage, plus 7
+(2d6) radiant damage. Additionally,  if the target is a
+creature, it must succeed on a DC 10 Charisma saving
+throw or begin shedding bright light in a 10 foot radius
+and dim light for 10 feet beyond that. The glowing light
+grants advantage on attack rolls against the target, and
+it lasts until the start of the target's next turn. This is a
+magic weapon.

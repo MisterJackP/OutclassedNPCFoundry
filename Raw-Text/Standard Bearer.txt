@@ -1,0 +1,36 @@
+Standard Bearer
+Medium humanoid (any race), any alignment
+Armor Class 16 (chain mail)
+Hit Points 120 (16d8 + 48)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 15 (+2) 16 (+3) 13 (+1) 15 (+2) 16 (+3)
+Skills Animal Handling +8, Athletics +7, History +4,
+Intimidation +9, Persuasion +6
+Senses passive Perception 12
+Languages any two languages
+Challenge 5 (1,800 XP)
+Bearer of Resolve. Allied creatures that can see the
+standard bearer have advantage on saving throws
+against being frightened.
+Innate Spellcasting. The standard bearer's innate
+spellcasting ability is Charisma (spell save DC 14, +6 to
+hit with spell attacks). It can cast the following spells,
+requiring no material components.
+At will: compelled duel, enthrall
+Saddle Master. Mounting or dismounting a creature
+costs 5 feet of movement for the standard bearer. It
+has advantage on saving throws made to avoid falling
+off its mount, and if it falls, it can automatically land on
+its feet if it falls less than 10 feet and isn't
+incapacitated.
+Actions
+Multiattack. The standard bearer makes two attacks 
+with its pike or its longsword.
+Reactions
+Hold the Line. When a creature moves at least 1 foot
+while within 5 feet of the standard bearer (or within 10
+feet while it wields its pike), the standard bearer can
+make an opportunity attack against that creature. If it
+hits, the creature's speed is reduced to 0 until the end
+of its turn.

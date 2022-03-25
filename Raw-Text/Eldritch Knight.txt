@@ -1,0 +1,25 @@
+Eldritch Knight
+Medium humanoid (any race), any alignment
+Armor Class 18 (chain mail, shield)
+Hit Points 105 (14d8 + 42)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 11 (+0) 17 (+3) 14 (+2) 10 (+0) 10 (+0)
+Skills Arcana +5, Athletics +7
+Senses passive Perception 10
+Languages any two languages
+Challenge 6 (2,300 XP)
+Bonded Weapon. The knight's bonded weapon is its
+javelin. The eldritch knight cannot be disarmed if it is
+wielding its javelin. As a bonus action, the knight can
+magically teleport its javelin into its hand.
+Spellcasting. The knight is a 2nd-level spellcaster. Its
+spellcasting  ability is Intelligence (spell save DC 13, +5
+to hit with spell attacks). It knows the following wizard
+spells, which it can cast without somatic or material
+components.
+Cantrips (at will): prestidigitation, ray of frost
+1st level (3 slots): alarm, shield, unseen servant
+Actions
+Multiattack. The knight makes two attacks with its
+javelin.

@@ -1,0 +1,38 @@
+Knight Conqueror
+Medium humanoid (any race), any lawful alignment (usually evil)
+Armor Class 18 (plate)
+Hit Points 112 (15d8 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 16 (+3) 15 (+2) 10 (+0) 19 (+4)
+Skills History +5, Intimidation +7
+Senses passive Perception 10
+Languages any one language
+Challenge 6 (2,300 XP)
+Innate Spellcasting. The knight conqueror's innate
+spellcasting ability is Charisma (spell save DC 15, +7 to
+hit with spell attacks). It can cast the following spells.
+At will: command
+3/day each: hold person, fear
+1/day: bestow curse
+Mark of the Conquered. As a bonus action, the knight
+conqueror extends its finger towards a creature it can
+see within 60 feet of it. The target is marked until the
+start of the knight conqueror's next turn. While the
+target is marked, it has disadvantage on attack rolls
+against targets other than the knight conqueror.
+Righteous Might. The knight conqueror scores a critical 
+hit on a roll of 18, 19, or 20.
+Actions
+Multiattack. The knight conqueror makes two attacks
+with its flail.
+Conqueror's Flail. Melee Weapon Attack: +7 to hit,
+reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning
+damage plus 9 (2d8) necrotic  damage.
+Conquering Presence (1/Day). Each creature of the
+knight conqueror's choice that can see it within 30 feet
+of it must make a DC 15 Wisdom saving throw. On a
+failed save, the target becomes frightened of the
+knight conqueror for 1 minute. The target can repeat
+this saving throw at the end of each of its turns, ending
+the effect on itself on a success.

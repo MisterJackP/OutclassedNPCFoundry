@@ -1,0 +1,44 @@
+Peak Barbarian
+Medium humanoid (any race), any alignment
+Armor Class 22
+Hit Points 230 (20d8 + 140)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+24 (+7) 20 (+5) 24 (+7) 15 (+2) 20 (+5) 15 (+2)
+Saving Throws Dex +11
+Skills Athletics +13
+Damage Resistances bludgeoning, piercing, and
+slashing
+Damage Immunities nonmagical bludgeoning,
+piercing, and slashing
+Senses passive Perception 15
+Languages any one language
+Challenge 17 (18,000 XP)
+Brutal Critical. If the barbarian scores a critical hit, it
+rolls its damage dice five times, instead of twice.
+Feral Instinct. If the barbarian isn't unconscious, it can't
+be surprised and has advantage on initiative rolls.
+Indomitable Might. The minimum result of the
+barbarian's Strength checks is 24.
+Magic Weapons. The barbarian's weapon attacks are 
+magical and deal one additional die of damage on a hit
+(included in the attack)
+Reckless. At the start of its turn, the barbarian can gain
+advantage on all melee weapon attack rolls during that
+turn, but attack rolls against it have advantage until the start 
+of its next turn.
+Relentless (Recharges after a Short or Long Rest). If the
+barbarian takes damage that reduces it to 0 hit points
+without being killed outright, it can choose to fall to 1
+hit point instead.
+Unarmored Defense. While not wearing armor, the
+barbarian's AC includes its Constitution modifier.
+Actions
+Multiattack. The berserker makes four melee weapon
+attacks.
+Greataxe. Melee Weapon Attack: +13 to hit, reach 5 ft.,
+one target. Hit: 20 (2d12 + 7) slashing damage.
+Spear. Melee or Ranged Weapon Attack: +13 to hit,
+reach 5 ft. or range 20/60., one target Hit: 14 (2d6 +
+7) piercing damage, or 16 (2d8 + 7) piercing damage if
+used with two hands to make a melee attack.

@@ -1,0 +1,37 @@
+Kensei
+Medium humanoid (any race), any alignment
+Armor Class 17 (agile parry)
+Hit Points 49 (9d8 + 9)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 17 (+3) 12 (+1) 10 (+0) 15 (+2) 10 (+0)
+Skills Painter's Supplies +5
+Senses passive Perception 12
+Languages any two languages
+Challenge 2 (450 XP)
+Agile Parry. While wielding a melee weapon that isn't
+heavy, the kensei's armor class increases by 2.
+Kensei Weapons. The kensei can use its Dexterity
+instead of its Strength for a melee weapons that isn't
+heavy. When it does so, its attacks with the weapon are
+magical.
+Unarmored Defense. While the kensei isn't wearing
+armor, its armor class includes its Wisdom modifier.
+Actions
+Multiattack. The kensei makes two attacks: one with its
+unarmed strike and one with a melee weapon.
+Katana. Melee Weapon Attack: +5 to hit, reach 5 ft., 
+one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10
++ 3) slashing damage if used with two hands.
+Bo Staff. Melee Weapon Attack: +5 to hit, reach 5 ft., 
+one target. Hit: 6 (1d6 + 3) bludgeoning damage, or 7
+(1d8 + 3) bludgeoning damage if used with two hands.
+Foil. Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target. Hit: 7 (1d8 + 3) piercing damage.
+Unarmed Strike. Melee Weapon Attack: +5 to hit, reach
+5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
+Reactions
+Deflect Missile. In response to being hit by a ranged
+weapon attack, the kensei deflects the missile. The
+damage it takes from the attack is reduced by 14 (2d10
++ 3) and the missile is destroyed.

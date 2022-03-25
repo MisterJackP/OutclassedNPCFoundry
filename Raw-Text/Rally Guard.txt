@@ -1,0 +1,30 @@
+Rally Guard
+Medium humanoid (any race), any alignment
+Armor Class 20 (plate, shield)
+Hit Points 135 (18d8 + 54)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 16 (+3) 12 (+1) 10 (+0) 12 (+1)
+Skills Athletics +7, History +4, Sculptor's Tools +4
+Senses passive Perception 10
+Languages any three languages
+Challenge 6 (2,300 XP)
+Rally. As a bonus action,  the rally guard chooses a
+friendly creature within 30 feet of it that can see and
+hear it. The target gains 5 temporary hit points.
+Actions
+Multiattack. The rally guard makes two melee weapon
+attacks, or it makes one melee weapon attack and uses
+its Commander's Strike.
+Commander's Strike. The rally guard chooses one
+friendly creature within 30 feet of it that can see and
+hear it. That creature can immediately use its reaction 
+to make one weapon attack, adding 4 (1d8) to the
+attack's damage roll.
+Reactions
+Protection. When a creature attacks a target other than
+the rally guard within 30 feet of the rally guard, and the
+rally guard can see them both, the rally guard can
+move up to its speed. If it ends this movement within 5
+feet of the target of the attack, the rally guard can
+impose disadvantage on the attack roll.

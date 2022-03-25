@@ -1,0 +1,28 @@
+Bear Totem Barbarian
+Medium humanoid (any race), any alignment
+Armor Class 13 (hide armor)
+Hit Points 85 (10d8 + 40)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 13 (+1) 18 (+4) 9 (-1) 15 (+2) 10 (+0)
+Skills Athletics +7
+Damage Resistances acid, cold, fire, force, lightning,
+necrotic, poison, radiant, thunder; nonmagical
+bludgeoning, piercing, and slashing
+Senses passive Perception 12
+Languages any one language
+Challenge 5 (1,800 XP)
+Innate Spellcasting. The barbarian's spellcasting ability is
+Wisdom (spell save DC 13, +5 to hit with spell
+attacks). It can cast the following spells innately, but
+only as a ritual.
+At will: beast sense, speak with animals
+Totem of the Bear. Hostile creatures within 5 feet of the
+barbarian that can see and hear it have disadvantage
+on attack rolls against creatures other than the
+barbarian.
+Actions
+Multiattack. The barbarian makes four attacks with its
+scimitars.
+Scimitar. Melee Weapon Attack: +7 to hit, reach 5 .,
+one target. Hit: 7 (1d6 + 4) slashing damage.

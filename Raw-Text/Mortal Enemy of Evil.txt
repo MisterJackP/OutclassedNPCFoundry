@@ -1,0 +1,46 @@
+Mortal Enemy of Evil
+Medium humanoid (any race), any alignment (usually non-evil)
+Armor Class 21 (+3 adamantium plate; 23 with shield of faith)
+Hit Points 170 (20d8 + 80)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 10 (+0) 18 (+4) 16 (+3) 17 (+3) 18 (+4)
+Saving Throws Wis +8, Cha +9
+Skills Investigation +8, Persuasion +9, Religion +8
+Senses passive Perception 13
+Languages any 2 (usually including Abyssal or Infernal)
+Challenge 16 (15,000 XP)
+Adamantium Plate. Any critical hit against the mortal
+enemy of evil becomes a regular hit.
+Aura of Protection and Courage. Friendly creatures
+within 30 feet of the mortal enemy of evil have
+advantage on saving throws and are immune to the
+frightened condition while the mortal enemy of evil
+isn't unconscious.
+Spellcasting. The mortal enemy of evil is a 15th level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 17, +9 to hit with spell attacks). It has the
+following paladin spells prepared.
+1st level (4 slots): compelled duel, detect evil and
+good, detect magic, protection from evil and good,
+shield of faith
+2nd level (3 slots): locate object, zone of truth
+3rd level (3 slots): dispel magic, magic circle
+4th level (2 slots): banishment, locate creature
+Actions
+Multiattack. The mortal enemy of evil makes two melee
+weapon attacks.
+Nemesis Greatsword. Melee Weapon Attack: +10 to hit,
+reach 5 ft.,  one target. Hit: 12 (2d6 + 5) slashing
+damage, plus 21 (6d6) radiant damage. If the target is a
+fiend or a warlock of a fiend, it takes an additional 7
+(2d6) radiant damage, and if the target is the paladin's
+nemesis, it must succeed on a DC 17 Wisdom saving
+throw or become frightened of the paladin until the
+end of the paladin's next turn. This is a magic weapon.
+Healing Touch (3/Day). The mortal enemy of evil
+touches a willing creature. The target regains 30 hit
+points and is cleared of the poisoned condition, if
+applicable, as well as any diseases. Additionally, the
+mortal enemy of evil can end one spell affecting the 
+target

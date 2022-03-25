@@ -1,0 +1,50 @@
+Avatar
+Medium celestial, any alignment
+Armor Class 23 (natural armor)
+Hit Points 380 (40d8 + 200)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 10 (+0) 20 (+5) 15 (+2) 20 (+5) 19 (+4)
+Skills Persuasion +5, Religion +5
+Senses passive Perception 13
+Languages any two languages
+Challenge 18 (20,000 XP)
+Divine Intervention (Recharges after a Long Rest). As a
+bonus action , the avatar can cast any spell with a
+casting time of one action from the cleric spell list
+without expending a spell slot or components, even if
+the spell isn't on its prepared spell list or if it has
+already cast a spell on its turn. After doing so, the
+avatar regains all of its expended spell slots.
+Spellcasting. The avatar is a 20th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 19, +11 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): light, mending, sacred flame, spare
+the dying, thaumaturgy
+1st level (4 slots): command, cure wounds, guiding
+bolt, purify food and drink, shield of faith
+2nd level (3 slots): lesser restoration, spiritual weapon,
+zone of truth
+3rd level (3 slots): create food and water, remove
+curse, mass healing word, spirit guardians
+4th level (3 slots): banishment, guardian of faith
+5th level (3 slots): dispel evil and good, flame strike,
+greater restoration, hallow, raise dead
+6th level (2 slots): true seeing, word of recall
+7th level (2 slots): divine word, symbol
+8th level (1 slot): holy aura
+9th level (1 slot): true resurrection
+Actions
+Turn Undead (Recharges after a Short or Long Rest). The
+avatar presents its holy symbol and speaks a prayer.
+Each undead that can see or hear the avatar must
+make a DC 19 Wisdom saving throw. If the target is an
+undead of CR 4 or lower, it is destroyed on a failed
+save. Otherwise, on a failed save the target is turned
+for 1 minute or until it takes any damage. A turned
+creature moves up to its speed away from the avatar
+and can't willingly move within 30 feet of it. It can't
+take reactions and must either use the Dash action or 
+try to escape from an effect that stops it from moving.
+If it can't move, it can take the Dodge action.

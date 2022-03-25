@@ -1,0 +1,43 @@
+Kuldjargh
+Medium humanoid (dwarf), any alignment
+Armor Class 16 (spiked armor)
+Hit Points 102 (12d8 + 48)
+Speed 35 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 14 (+2) 18 (+4) 7 (-2) 8 (-1) 8 (-1)
+Skills Athletics +6
+Damage Resistances poison; nonmagical bludgeoning,
+piercing, and slashing
+Senses darkvision 60 ft., passive Perception 9
+Languages Dwarvish plus any one language
+Challenge 4 (1,100 XP)
+Aggressive. As a bonus action, the kuldjargh can move
+up to its speed towards a hostile creature that it can
+see.
+Dwarven Resilience. The kuldjargh has advantage on
+saving throws to resist being poisoned.
+Grappling Armor. The kuldjargh can make a grapple
+check as a bonus action after it hits a creature with a
+weapon attack. The kuldjargh doesn't need a free hand
+to grapple.
+Reckless. At the start of its turn, the kuldjargh can gain
+advantage on all melee weapon attack rolls it makes
+during that turn, but attack rolls against it have
+advantage until the start of its next turn.
+Spiked Armor. A creature within 5 feet of the kuldjargh
+that hits it with a melee weapon attack takes 2 (1d4)
+piercing damage. Addittionally, a creature grappling or
+grappled by the kuldjargh takes 2 (1d4) piercing
+damage at the start of the kuldjargh's turn.
+Actions
+Multiattack. The berserker makes three melee attacks: two
+with its handaxes and one with its spiked armor.
+Handaxe. Melee or Ranged Weapon Attack: +6 to hit,
+reach 5 ft., one target. 
+Handaxe. Melee or Ranged Weapon Attack: +6 to hit,
+reach 5 or range 20/60 one target. Hit: 7 (1d6 +
+4) slashing damage.
+Spiked Armor. Melee Weapon Attack: +6 to hit, reach 5
+one target. Hit: 6 (1d4 + 4) piercing damage. The
+kuldjargh doesn't need to roll an attack for a creature it
+is grappling.

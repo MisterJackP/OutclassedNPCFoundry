@@ -1,0 +1,40 @@
+Master-at-Arms
+Medium humanoid (any race), any alignment
+Armor Class 18 (plate)
+Hit Points 135 (18d8 + 54)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+22 (+6) 10 (+0) 16 (+3) 12 (+1) 10 (+0) 10 (+0)
+Skills Athletics +9, History +4, Painter's Tools +4
+Senses passive Perception 10
+Languages any three languages
+Challenge 8 (3,900 XP)
+Action Surge (Recharges after a Short or Long Rest).
+After taking an action on its turn, the master-at-arms
+can take one additional action.
+Maneuvers (1/Turn). When the master-at-arms hits with
+a melee weapon attack,  it can choose to apply a
+maneuver to that attack. The attack deals an additional
+5 (1d10) damage, and the master-at-arms chooses one
+of the following effects.
+Disarming Attack. The target must succeed on a DC
+17 Strength saving throw or drop an object it is
+holding of the master-at-arms's choice. The object
+lands at its feet.
+Distracting Strike. The next attack roll against the
+target by an attacker other than the master-at-arms
+has advantage if that attack is made before the start
+of the master-at-arms's next turn.
+Trip Attack. If the target is Large or smaller, it must
+succeed on a DC 17 Strength saving throw or fall
+prone.
+Actions
+Multiattack. The master-at-arms makes three melee
+weapon attacks.
+Longsword of Unnatural Strength. Melee Weapon
+Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8 +
+6) slashing damage, or 11 (1d10 + 6) slashing damage if
+used with two hands to make a melee attack. This is a
+magic weapon. While attuned  to this sword, the
+wielder's Strengh is increased by 2, potentially above
+the maximum of 20.

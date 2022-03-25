@@ -1,0 +1,33 @@
+Mortal Traitor
+Medium humanoid (any race), chaotic evil
+Armor Class 20 (plate, shield)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 14 (+2) 16 (+3) 12 (+1) 14 (+2) 18 (+4)
+Saving Throws Wis +6, Cha +8
+Skills Deception +8, Stealth +6
+Senses passive Perception 12
+Languages Abyssal plus any one language
+Challenge 10 (5,900 XP)
+Aura of Treachery. The mortal traitor has advantage on
+melee attack rolls against any creature that has one or
+more of its allies within 5 feet of it.
+Deceitful Nature. The mortal traitor can use its bonus
+action to turn invisible until the end of its next turn or
+until it attacks, deals damage, or forces a creature to
+make a saving throw. Additionally,  the mortal traitor
+can choose to ignore the disadvantage imposed by
+heavy armor when it makes a Dexterity (Stealth) check.
+Actions
+Multiattack. The mortal traitor makes two attacks with its flail.
+Flail. Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target. Hit: 8 (1d8 + 4) bludgeoning damage plus 18
+(4d8) poison damage.
+Reactions
+Treacherous Strike. If a creature within 5 feet of the
+mortal traitor misses it with a melee attack, the mortal
+traitor can magically force it to reroll that attack against
+a creature of its choice that is within 5 feet of the
+attacker. This reaction  fails if the attacker is immune to
+being charmed.

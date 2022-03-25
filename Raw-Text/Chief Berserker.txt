@@ -1,0 +1,31 @@
+Chief Berserker
+Medium humanoid (any race), any chaotic alignment
+Armor Class 16
+Hit Points 67 (9d8 + 27)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 16 (+3) 17 (+3) 10 (+0) 12 (+1) 10 (+0)
+Damage Resistances nonmagical bludgeoning,
+piercing, and slashing
+Senses passive Perception 11
+Languages any one language
+Challenge 4 (1,100 XP)
+Look at Me. I'm the Chief Now. When the chief
+berserker is killed, one berserker ally within 30 feet of
+the berserker can magically and permanently adopt
+the chief berserker's statblock. The berserker ally
+retains its hit points and its equipment.
+Reckless Rally. At the start of its turn, the chief
+berserker can gain advantage on all melee weapon
+attack rolls during that turn, but attack rolls against it
+have advantage until the start of its next turn.
+Berserker allies within 30 feet of the berserker also
+have advantage on the first attack they make on their
+next turn against any creature the berserker attacked 
+with its reckless trait active this turn.
+Unarmored Defense. While not wearing armor, the
+barbarian's AC includes its Constitution modifier.
+Actions
+Multiattack. The berserker makes two attacks with its greataxe.
+Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target. Hit: 9 (1d12 + 3) slashing damage.

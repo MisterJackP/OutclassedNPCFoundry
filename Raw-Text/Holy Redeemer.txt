@@ -1,0 +1,45 @@
+Holy Redeemer
+Medium humanoid (any race), any good alignment
+Armor Class 16 (chain mail)
+Hit Points 90 (12d8 + 36)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+17 (+3) 10 (+0) 17 (+3) 10 (+0) 13 (+1) 18 (+4)
+Skills Persuasion +10
+Damage Resistances acid, cold, fire, force, lightning,
+necrotic, poison, psychic, radiant, thunder;
+bludgeoning, piercing, and slashing
+Senses passive Perception 11
+Languages Celestial plus any one language
+Challenge 8 (3,900 XP)
+Emissary of Redemption. The redeemer's resistances
+don't function against creatures it has attacked or
+targeted with a spell since the last dawn.
+Spellcasting. The redeemer is a 5th-level spellcaster. Its
+spellcasting  ability is Charisma (spell save DC 15, +7 to
+hit with spell attacks). It has the following paladin
+spells prepared.
+1st level (4 slots): compelled duel, cure wounds,
+protection from evil and good, sanctuary, sleep
+2nd level (2 slots): calm emotions, hold person, lesser
+restoration
+Actions
+Multiattack. The redeemer makes two attacks with its staff.
+Sacred Staff. Melee Weapon Attack: +6 to hit, reach 5
+ft.,  one target. Hit: 7 (1d8 + 3) bludgeoning damage. If
+the target is an evil-aligned creature, the attack deals
+an additional 9 (2d8) radiant damage.
+Reactions
+Protect the Innocent. When a creature within 30 feet of
+the redeemer takes damage, it can use its reaction to
+magically take that damage instead. The redeemer
+doesn't transfer any other effects that might
+accompany the damage, and this damage can't be
+reduced in any way.
+Rebuke the Violent. When the redeemer sees an
+attacker within 30 feet of it deal damage with an attack
+against a creature other than the paladin, it can use its
+reaction to force the attacker to make a DC 15
+Charisma saving throw. On a failed save, the attacker 
+takes radiant damage equal to the damage it just dealt.
+On a successful save, it takes half as much damage.

@@ -1,0 +1,27 @@
+Death Priest
+Medium humanoid (any race), any alignment (usually
+evil)
+Armor Class 13 (chain shirt)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 12 (+1) 13 (+1) 16 (+3) 13 (+1)
+Skills Medicine +7, Persuasion +3, Religion +3
+Senses passive Perception 13
+Languages any two languages
+Challenge 2 (450 XP)
+Morbid Weapons. The priest's weapon attacks  are
+magical. When the priest hits a creature with a melee
+weapon attack it deals an additional 9 (2d8) necrotic 
+damage (included in the attack).
+Spellcasting. The priest is a 5th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 13, +5 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): chill touch, spare the dying,
+thaumaturgy
+1st level (4 slots): false life, inflict wounds, ray of
+sickness
+2nd level (3 slots): blindness/deafness, ray of
+enfeeblement
+3rd level (2 slots): animate dead, vampiric touch

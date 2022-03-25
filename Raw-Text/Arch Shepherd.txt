@@ -1,0 +1,46 @@
+Arch Shepherd
+Medium humanoid (any race), any alignment
+Armor Class 14 (hide armor)
+Hit Points 154 (28d8 + 28)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+1) 10 (+0) 20 (+5) 17 (+3)
+Skills Medicine +8, Nature +4, Perception +8
+Senses passive Perception 18
+Languages Druidic and Sylvan plus any one language
+Challenge 8 (3,900 XP)
+Spellcasting. The arch shepherd is an 9th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 16, +8 to hit with spell attacks). It has the following
+druid spells prepared.
+Cantrips (at will): druidcraft, mending, thorn whip
+1st Level (4 slots): animal friendship, beast bond,
+speak with animals
+2nd Level (3 slots): animal messenger, beast sense,
+enhance ability, locate animals or plants
+3rd Level (3 slots): conjure animals
+4th level (3 slots): conjure woodland beings, dominate
+beast, giant insect, locate creature
+5th level (1 slot): awaken, commune with nature,
+insect plague
+Actions
+Animal Aura (Recharges on a Short or Long Rest). The
+arch shepherd chooses a point within 60 feet that it
+can see and calls forth an aura with a 30-foot radius
+around that point. The arch shepherd can move the
+aura up to 60 feet to a point it can see as a bonus
+action. The aura persists for 1 minute or until the arch
+shepherd is incapacitated. The aura has one of the
+following effects:
+Bear Aura. Each creature in the aura when it appears
+gains 14 (4d6) temporary hit points and has
+advantage on Strength checks and saving throws
+while in the aura.
+Hawk Aura. When a creature in the aura makes an
+attack roll, the arch shepherd can use its reaction to
+grant advantage on that roll.
+Unicorn Aura. An allied creature that starts its turn in
+the aura gains 3 (1d6) hit points.
+Before or after taking the Animal Aura action the arch
+shepherd can cast a spell with a casting time of one
+action.

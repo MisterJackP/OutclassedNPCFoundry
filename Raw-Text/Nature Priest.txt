@@ -1,0 +1,26 @@
+Nature Priest
+Medium humanoid (any race), any alignment
+Armor Class 16 (chain mail)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 12 (+1) 13 (+1) 16 (+3) 13 (+1)
+Skills Medicine +7, Persuasion +3, Religion +3
+Senses passive Perception 13
+Languages any two languages
+Challenge 1 (200 XP)
+Spellcasting. The priest is a 5th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 13, +5 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): guidance, thorn whip, druidcraft
+1st level (4 slots): animal friendship, goodberry, speak
+with animals
+2nd level (3 slots): barkskin, spike growth
+3rd level (2 slots): plant growth, wind wall
+Actions
+Charm Animals and Plants (Recharges After a Short or
+Long Rest). Each animal and plant within 30 feet of the
+priest that can see and hear it must make a DC 13
+Wisdom saving throw. On a failed save, the target is
+charmed by the priest until the end of its next turn.

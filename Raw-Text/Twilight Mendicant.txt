@@ -1,0 +1,28 @@
+Twilight Mendicant
+Medium humanoid (any race), any non-evil alignment
+Armor Class 12 (leather armor)
+Hit Points 49 (9d8 + 9)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 13 (+1) 12 (+1) 11 (+0) 19 (+4) 11 (+0)
+Senses passive Perception 14
+Languages Druidic plus any one language
+Challenge 3 (700 XP)
+Aura of the Threshold. Allied creatures within 30 feet of
+the mendicant have advantage on death saving throws.
+Death Speech. When the mendicant converses with
+undead or dead humanoids, it can communicate as if
+they share a language.
+Innate Spellcasting. The mendicant's innate spellcasting 
+ability is Wisdom (spell save DC 14, +6 to hit with spell
+attacks). It has the following spells prepared, which it
+can cast without material components.
+3/day: speak with dead
+1/day: etherealness
+Actions
+Multiattack. The mendicant makes two attacks with its
+Harvest's Scythe.
+Harvest's Scythe. Melee Spell Attack: +6 to hit, reach 5
+t., one target. Hit: 11 (2d10) force damage, and the
+mendicant regains 5 hit points. If the target is undead,
+the mendicant regains 10 hit points instead.

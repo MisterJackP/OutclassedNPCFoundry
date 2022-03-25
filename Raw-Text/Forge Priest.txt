@@ -1,0 +1,28 @@
+Forge Priest
+Medium humanoid (any race), any alignment
+Armor Class 19 (Armor of the Divine Forge)
+Hit Points 60 (8d8 + 24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+19 (+4) 10 (+0) 16 (+3) 10 (+0) 13 (+1) 12 (+1)
+Damage Resistances fire
+Senses passive Perception 11
+Languages Primordial plus any one language
+Challenge 4 (1,100 XP)
+Innate Spellcasting. The priest's innate spellcasting 
+ability is Wisdom (spell save DC 11, +3 to hit with spell
+attacks).  It can cast the following spells innately.
+At will: create bonfire, guidance, mending
+1/day: continual flame
+Actions
+Hammer of the Divine Forge. Melee Weapon Attack: +7
+to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5)
+bludgeoning damage, plus 9 (2d8) fire damage, and the
+target must succeed on a DC 11 Constitution saving
+throw or ignite in flames. At the start of each of the
+target's turns, the target makes another Constitution 
+saving throw, taking 4 (1d8) fire damage on a failed
+save, or ending the effect on a success. The effects end
+when the target or a creature within 5 feet of it uses an
+action to put out the flames, or if some other effect
+douses the flames. This is a +1 magic weapon.

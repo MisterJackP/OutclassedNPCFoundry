@@ -1,0 +1,40 @@
+Aspect of Vengeance
+Medium celestial, any alignment
+Armor Class 18 (plate)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft., fly 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 16 (+3) 13 (+1) 15 (+2) 17 (+3)
+Saving Throws Wis +6, Cha +7
+Condition Immunities frightened
+Skills Intimidation +7, Investigation +5, Survival +4,
+Senses passive Perception 12
+Languages Celestial plus any two languages
+Challenge 11 (7,200 XP)
+Aura of Courage. The aspect and friendly creatures
+within 30 feet of it can't be frightened while the aspect
+is conscious.
+Sacred Weapons. The aspect's weapon attacks  are
+magical. When the aspect hits with its maul, the
+weapon deals an extra 18 (4d8) radiant damage
+(included in the attack).
+Vow of Enmity (Recharges after a Short or Long Rest). As
+a bonus action, the aspect targets a creature it can see
+within 10 feet of it. The aspect always knows in which
+direction its target can be found, and the aspect has
+advantage on attack rolls against the creature until the
+creature dies or the aspect chooses another target.
+Actions
+Multiattack. The aspect uses its Abjure Enemy, if it can.
+It then makes three attacks with its maul.
+Abjure Enemy (Recharge 5-6). The aspect targets a
+creature it can see within 60 feet of it. The creature
+must make a DC 14 Wisdom saving throw, and the
+creature has disadvantage on its save if it is a fiend or
+undead. On a failed save, the the creature is frightened
+for 1 minute or until it takes any damage. While
+frightened, the creature's speed is 0, and it can't
+benefit from any bonus to speed. On a successful save,
+the creature's speed is halved for 1 minute or until it
+takes any damage. This action has no effect on
+creatures immune to being frightened.

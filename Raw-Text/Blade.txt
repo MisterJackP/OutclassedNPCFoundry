@@ -1,0 +1,39 @@
+Blade
+Medium humanoid (any race), any alignment
+Armor Class 16 (breastplate)
+Hit Points 72 (16d8)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 17 (+3) 10 (+0) 10 (+0) 10 (+0) 14 (+2)
+Skills Acrobatics +5, Performance +6
+Senses passive Perception 10
+Languages any four languages
+Challenge 4 (1,100 XP)
+Blade Flourish (1/Turn). When the blade hits with an
+attack on its turn, the blade can use one of the
+following options:
+Defensive Flourish. The blade rolls 1d8 and adds the
+amount to the damage of its attack. It also adds this
+amount to its AC until the start of its next turn.
+Mobile Flourish. The blade rolls 1d8 and adds the
+amount to the damage of its attack. Additionally,
+the blade pushes its target 10 feet. The blade can
+then move up to its speed.
+Slashing Flourish. The blade chooses a creature
+within 5 feet of its original target. Both targets take
+an additional 4 (1d8) slashing damage.
+Spellcasting. The one hit wonder is a 3rd-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 12, +4 to hit with spell attacks). It knows the
+following bard spells.
+Cantrips (at will): dancing lights, true strike, vicious
+mockery
+1st level (4 slots): bane, disguise self, faerie fire,
+heroism
+2nd level (2 slots): cloud of daggers, phantasmal force,
+see invisibility
+Actions
+Multiattack. The blade makes three attacks with its
+scimitars.
+Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., 
+one target. Hit: 6 (1d6 + 3) slashing damage.

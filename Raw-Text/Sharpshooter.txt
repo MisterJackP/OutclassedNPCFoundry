@@ -1,0 +1,22 @@
+Sharpshooter
+Medium humanoid (any race), any alignment
+Armor Class 15 (leather)
+Hit Points 60 (8d8 + 24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 18 (+4) 16 (+3) 11 (+0) 16 (+3) 10 (+0)
+Skills Perception +7, Stealth +6
+Senses passive Perception 15
+Languages any one language
+Challenge 3 (700 XP)
+Steady Aim. The sharpshooter's longbow attacks  ignore
+half and three quarters cover and deal an additional 4
+(1d8) damage (included in the attack).
+World-Class Bowmanship. If the sharpshooter has
+disadvantage on attack rolls made with its longbow, it
+can choose to ignore the disadvantage. If it does so, it
+cannot benefit from effects that would grant it
+advantage on the attack.
+Actions
+Multiattack. The sharpshooter makes two attacks  with
+its longbow.

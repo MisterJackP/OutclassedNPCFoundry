@@ -1,0 +1,26 @@
+Light Priest
+Medium humanoid (any race), any alignment
+Armor Class 13 (chain shirt)
+Hit Points 82 (15d8 + 15)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 12 (+1) 13 (+1) 16 (+3) 15 (+2)
+Skills Medicine +7, Persuasion +4, Religion +3
+Senses passive Perception 13
+Languages any two languages
+Challenge 5 (1,800 XP)
+Spellcasting. The priest is a 5th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 14, +6 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): light, sacred flame, thaumaturgy
+1st level (4 slots): burning hands, cure wounds, faerie
+fire
+2nd level (3 slots): flaming sphere, scorching ray
+3rd level (2 slots): daylight, fireball
+Actions
+Radiance of the Dawn (Recharge 5-6). Each creature
+within 30 feet of the priest that can see it must make a
+DC 14 Constitution saving throw, taking 33 (6d10)
+radiant damage on a failed save, or half as much
+damage on a successful one.

@@ -1,0 +1,40 @@
+Dream Guardian
+Medium humanoid (any race), any alignment
+Armor Class 11
+Hit Points 71 (13d8 + 13)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 12 (+1) 13 (+1) 10 (+0) 18 (+4) 15 (+2)
+Saving Throws Wis +7, Cha +5
+Skills Insight +7, Nature +3, Perception +7, Persuasion
++5
+Senses passive Perception 17
+Languages Druidic plus any one language
+Challenge 5 (1,800 XP)
+Moonlight Hearth. During a short or long rest, the
+dream guardian touches a point in space, and an
+invisible, 30-foot-radius sphere of magic appears,
+centered on that point. Total cover blocks the sphere.
+While within the sphere, the dream guardian and its
+allies gain a +5 bonus to Dexterity (Stealth) and
+Wisdom (Perception) checks, and any light from open
+flames in the sphere isn't visible outside of it. The
+sphere vanishes at the end of the rest or when the
+dream guardian leaves the sphere.
+Spellcasting. The dream guardian is a 9th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 15, +7 to hit with spell attacks). It has the following
+druid spells prepared.
+Cantrips (at will): create bonfire, guidance
+1st Level (4 slots): charm person, create or destroy
+water, faerie fire, sleep
+2nd Level (3 slots): enhance ability, invisibility, mirror
+image, moonbeam, pass without trace
+3rd Level (3 slots): daylight, meld into stone, slow
+4th level (3 slots): confusion, divination, freedom of
+movement, greater invisibility, hallucinatory terrain
+5th level (2 slots): dream, geas, tree stride
+Summer Balm (3/Day). As a bonus action, the dream
+guardian blesses a creature it can see within 120 feet
+of it. The target regains 10 (3d6) hit points and 9
+temporary hit points.

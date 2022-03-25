@@ -1,0 +1,34 @@
+Protection Priest
+Medium humanoid (any race), any alignment (usually good)
+Armor Class 20 (plate, shield)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 12 (+1) 13 (+1) 16 (+3) 13 (+1)
+Skills Medicine +7, Persuasion +3, Religion +3
+Senses passive Perception 13
+Languages any two languages
+Challenge 3 (700 XP)
+Spellcasting. The priest is a 5th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 13, +5 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): light, sacred flame, thaumaturgy
+1st level (4 slots): compelled duel, cure wounds,
+protection from evil and good, sanctuary
+2nd level (3 slots): aid, lesser restoration, protection
+from poison
+3rd level (2 slots): protection from energy, slow
+Actions
+Radiant Defense (Recharges after a Short or Long Rest).
+The priest chooses an ally it can see within 30 feet of it.
+The first time that creature is hit by an attack in the
+next minute, the attacker takes 16 (3d10) radiant
+damage.
+Reactions
+Protection. When a creature attacks a target other than
+the priest within 30 feet of the priest, and the priest
+can see them both, the priest can move up to its
+speed. If it ends this movement within 5 feet of the
+target of the attack, the priest can impose
+disadvantage on the attack roll.

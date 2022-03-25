@@ -1,0 +1,46 @@
+Drunken Master
+Medium humanoid (any race), any alignment
+Armor Class 20
+Hit Points 109 (12d8 + 55)
+Speed 50 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 20 (+5) 20 (+5) 20 (+5) 20 (+5) 20 (+5)
+Skills Brewer's Supplies +9, Performance +9
+Condition Immunities poisoned
+Senses passive Perception 15
+Languages any eight languages
+Challenge 10 (5,900 XP)
+Deflect Missiles. When the drunken master is hit by a
+ranged weapon attack, the damage is reduced by 25
+(1d10 + 20).
+Drunkard's Luck (1/Turn). When the drunken master
+has disadvantage on an attack roll, ability check, or saving throw, it can choose either result for that roll.
+Drunken Technique. The drunken master does not
+trigger opportunity attacks when it moves on its turn.
+Also, when prone, the drunken master can spend 5 feet
+of movement to stand up.
+Ki Fists. The drunken master's unarmed strikes are
+magical.
+Legendary Resistances (3/Day). When the drunken
+master fails a saving throw, it can choose to succeed
+instead.
+Lucky (3/Day).  The drunken master can re-roll an attack
+roll, ability check, or saving throw it makes and use
+either result.
+Slow Fall. The drunken master takes no damage as a
+result of a fall.
+Unarmored Defense. While the drunken master isn't
+wearing armor, its armor class includes its Wisdom
+modifier.
+Actions
+Flailing Arms. The drunken master makes two unarmed
+strikes against each creature within 5 feet of its
+position. 
+Unarmed Strike. Melee Weapon Attack: +9 to hit, reach
+5 ft., one target. Hit: 7 (1d4 + 5) bludgeoning damage.
+Reactions
+Redirect Attack. When a creature misses the drunken
+master with a melee attack roll, the drunken master
+can use its reaction to cause that attack  to hit one
+creature of its choice, other than the attacker, that it
+can see within 5 feet of it.

@@ -1,0 +1,21 @@
+Whisper Bard
+Medium humanoid (any race), chaotic neutral or chaotic evil
+Armor Class 13
+Hit Points 36 (8d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 10 (+0) 15 (+2) 10 (+0) 16 (+3)
+Skills Deception +7, Performance +5
+Senses passive Perception 10
+Languages any six languages
+Challenge 3 (700 XP)
+Spellcasting. The bard is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following bard spells.
+Cantrips (at will): dancing lights, vicious mockery
+1st level (4 slots): bane, charm person, disguise self, Tasha's hideous laughter
+2nd level (3 slots): detect throughts, invisibility, knock, phantasmal force, suggestion
+Actions
+Intrusive Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft.,  or range 20/60 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 10 (3d6) psychic damage.
+Mantle of Whispers. The bard dons a shadow it has captured through its Whispers of Death like a coat. The bard vanishes, magically transforming into a disguise of the person whose shadow the bard has captured. The bard takes on the appearance of the dead person, but healthy and alive. The disguise lasts for 1 hour until the 
+bard ends it as a bonus action. While in the disguise, the bard gains access to all information that the humanoid would freely share with a casual acquaintance and can easily pass as the person by drawing on its memories. Another creature can see through the disguise by succeeding on a DC 18 Wisdom (Insight) check.
+Reactions
+Whispers of Death (Recharges on a Long Rest). When a humanoid dies within 30 feet of the bard, it can use its reaction to magically capture the humanoid's shadow. The bard retains this shadow until it uses its Mantle of Whispers action or completes a long rest.

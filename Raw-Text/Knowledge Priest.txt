@@ -1,0 +1,26 @@
+Knowledge Priest
+Medium humanoid (any race), any alignment
+Armor Class 13 (chain shirt)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 12 (+1) 16 (+3) 16 (+3) 13 (+1)
+Skills Arcana +5, History +5, Insight +5, Medicine +7,
+Persuasion +3, Religion +5
+Senses passive Perception 13
+Languages any four languages
+Challenge 2 (450 XP)
+Innate Spellcasting. The priest's innate spellcasting 
+ability is Wisdom (spell save DC 13, +5 to hit with spell
+attacks). The priest can cast the following spells
+innately.
+3/day each: detect thoughts, suggestion
+Spellcasting. The priest is a 5th-level spellcaster. Its
+spellcasting ability is Wisdom (spell save DC 13, +5 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): light, sacred flame, thaumaturgy
+1st level (4 slots): cure wounds, guiding bolt, sanctuary
+2nd level (3 slots): lesser restoration, spiritual weapon
+(a quill)
+3rd level (2 slots): dispel magic, spirit guardians

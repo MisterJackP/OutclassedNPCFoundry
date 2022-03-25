@@ -1,0 +1,39 @@
+Arcana Priest
+Medium humanoid (any race), any alignment
+Armor Class 12 (15 with mage armor)
+Hit Points 36 (8d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 14 (+2) 10 (+0) 17 (+3) 17 (+3) 10 (+0)
+Skills Arcana +5, Religion +5
+Senses passive Perception 12
+Languages any one language
+Challenge 2 (450 XP)
+Spell Breaker. When the priest restores hit points to an
+ally with a spell of 1st level or higher, it can also end
+one spell affecting  that creature. The level of the spell
+ended must be equal to or lower than the level of the
+spell slot expended to heal the ally.
+Spellcasting. The priest is a 6th-level spellcaster. It
+spellcasting ability is Wisdom (spell save DC 13, +6 to
+hit with spell attacks). It has the following cleric spells
+prepared.
+Cantrips (at will): prestidigitation, mending, chill
+touch, thaumaturgy
+1st Level (4 slots): cure wounds, detect magic, inflict
+wounds, magic missile
+2nd Level (3 slots): lesser restoration, magic weapon,
+Nystul's magic aura
+3rd Level (3 slots): mass healing word, dispel magic,
+magic circle
+Actions
+Abjure the Supernatural (Recharges after a Short or Long
+Rest). One celestial elemental, fey, or fiend the priest
+can see within 30 feet of it that can see and hear the
+priest must succeed on a DC 13 Wisdom saving throw
+or become frightened by the priest. While it is
+frightened, it cannot take actions or reactions and
+must use its movement to move as far away from the
+priest as it can. The target can repeat the save at the
+end of its turn if the priest isn't in line of sight, ending
+the effect on a success.
