@@ -1,0 +1,18 @@
+Ghostbane Blood Hunter
+Medium humanoid (any race), any alignment
+Armor Class 16 (half plate)
+Hit Points 112 (15d8 + 45)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 12 (+1) 16 (+3) 12 (+1) 15 (+2) 11 (+0)
+Skills Insight +6, Intimidation +4, Survival +6
+Senses truesight 60 ft., passive Perception 12
+Languages any one language
+Challenge 9 (5,000 XP)
+Beyond Death. When the blood hunter is reduced to 0 hit points, it falls unconscious and its spirit rises from its body. Its spirit is a ghost that replaces its actions with only the Rite Scythe attack. If the blood hunter dies, its spirit also dies, and vice versa. If the spirit reduces a creature to 0 hit points, the blood hunter regains 9 (2d8) hit points. The blood hunter's spirit immediately returns to its body if the blood hunter wakes up by any means.
+Hunter's Bane. The blood hunter has advantage on Wisdom (Survival) checks to track fey, fiends, and undead, and on Intelligence checks to recall information about them.
+Actions
+Multiattack. The blood hunter makes three attacks with its rite weapon.
+Rite Scythe. Melee Weapon Attack: +7 to hit, reach 5 ., one target. Hit: 12 (2d8 + 3) slashing damage plus 4 (1d8) necrotic damage plus 4 (1d8) radiant damage. If the damage reduces a creature to 0 hit points, the blood hunter regains 9 (2d8) hit points. This is a magic weapon.
+Reactions
+Blood Curse of the Fallen Puppet. When an ally of the blood hunter is reduced to 0 hit points while within 30 feet of it, the blood hunter can give the creature a final act of aggression. Before it falls unconscious or dies, the ally can make one weapon attack against a target of the blood hunter's choice within weapon range.

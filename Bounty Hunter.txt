@@ -1,0 +1,21 @@
+Bounty Hunter
+Medium humanoid (any race), any alignment
+Armor Class 15 (studded leather)
+Hit Points 77 (14d8 + 14)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 17 (+3) 13 (+1) 15 (+2) 18 (+4) 10 (+0)
+Skills Intimidation +2, Investigation +4, Perception +6, Survival +6
+Senses passive Perception 21
+Languages any two languages
+Challenge 3 (700 XP)
+Crossbow Specialist. The bounty hunter ignores the loading property of crossbows, and it has a +2 to attack rolls made with its heavy crossbow (included in the attack).
+Follow Prey. The bounty hunter has advantage on checks to track a target, and its passive Perception is increased by 5.
+Tracker's Mark. As a bonus action, the bounty hunter chooses one target within 60 feet of its position that it can see, or replaces its mark with a new target it can see within range. The bounty hunter's weapon attacks ignore any damage resistances of the marked target and deal an additional 7 (2d6) damage.
+Tripwire Specialist. The bounty hunter incurs no disadvantage on ranged attacks made against targets that are prone, and when it reduces a creature to 0 hit points with a ranged weapon attack, it can choose to knock the creature unconscious and stabilise them rather than kill them.
+Actions
+Multiattack. The bounty hunter makes two attacks with its heavy crossbow.
+Heavy Crossbow. Ranged Weapon Attack: +7 to hit, range 100/400 ft., one target. Hit: 8 (1d10 + 3) piercing damage, and the target must succeed on a DC 14 Dexterity saving throw or be knocked prone.
+Restrain. The bounty hunter attempts to restrain a prone creature within 5 feet of its position. The target must succeed on a DC 14 Dexterity or Strength saving throw (its choice) or become grappled and restrained by the bounty hunter (escape DC 14).
+Reactions
+Distance Keeper. When a hostile creature ends its turn within 5 feet of the bounty hunter, the bounty hunter can move up to 15 feet without provoking opportunity attacks.

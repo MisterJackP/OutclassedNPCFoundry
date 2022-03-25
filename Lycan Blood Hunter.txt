@@ -1,0 +1,22 @@
+Lycan Blood Hunter
+Medium humanoid (any race, shapechanger), any alignment
+Armor Class 17 (half plate)
+Hit Points 112 (15d8 + 45)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 14 (+2) 16 (+3) 10 (+0) 17 (+3) 8 (-1)
+Skills Insight +6, Intimidation +5, Survival +6
+Damage Resistances bludgeoning, piercing, and slashing damage from weapons that aren't silvered
+Senses passive Perception 12
+Languages any one language
+Challenge 6 (2,300 XP)
+Hunter's Bane. The blood hunter has advantage on Wisdom (Survival) checks to track fey, fiends, and undead, and on Intelligence checks to recall informaon about them.
+Keen Hearing and Smell. The blood hunter has advantage on Wisdom (Percepon) checks that rely on hearing or smell.
+Lycan Resistance. The blood hunter's damage resistances funcon only while in its hybrid form.
+Feral Desperation. While in hybrid form, the blood hunter has advantage on ability checks and saving throws using Strength, and it has a +2 bonus to melee attack and damage rolls (included in the attack).
+Pack Tactics. The blood hunter has advantage on attack rolls against a creature if at least one of its allies is within 5 feet of the creature and the ally isn’t incapacitated.
+Shapechanger. The blood hunter can use its bonus action to polymorph into a wolf-humanoid hybrid, or back into its true form, which is humanoid. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
+Actions
+Multiattack. The blood hunter makes two Rite Strikes.
+Spear (Humanoid Form Only). Melee or Ranged Weapon Attack: +8 to hit, reach 5 . or range 20/60 ., one target. Hit: 8 (1d6 + 5) piercing damage or 9 (1d8 + 5) piercing damage if wielded with two hands to make a melee attack.
+Rite Strike (Hybrid Form Only). Melee Weapon Attack: +10 to hit, reach 5 ., one target. Hit: 16 (2d8 + 7) slashing damage. This is a magic weapon attack.

@@ -1,0 +1,19 @@
+Mutant Blood Hunter
+Medium humanoid (any race), any alignment
+Armor Class 13 (half plate)
+Hit Points 112 (15d8 + 45)
+Speed 25 ft.
+STR DEX CON INT WIS CHA
+22 (+6) 6 (-2) 16 (+3) 12 (+1) 15 (+2) 11 (+0)
+Skills Insight +5, Intimidation +3, Survival +5
+Damage Immunities poison
+Condition Immunities grappled, paralyzed, poisoned, restrained
+Senses passive Perception 12
+Languages any one language
+Challenge 5 (1,800 XP)
+Blood Curse of the Transfusion. As a bonus action, the blood hunter can heal an allied creature within 30 feet of it by 14 (4d6) hit points. The blood hunter takes damage equal to the hit points regained.
+Hunter's Bane. The blood hunter has advantage on Wisdom (Survival) checks to track fey, fiends, and undead, and on Intelligence checks to recall information about them.
+Reconstruction. If the blood hunter starts its turn with at least 1 hit point, it regains 10 hit points.
+Actions
+Multiattack. The blood hunter makes two attacks with its rite weapon.
+Rite Greatsword. Melee Weapon Attack: +9 to hit, reach 5., one target. Hit: 13 (2d6 + 6) slashing damage plus 4 (1d8) poison damage. This is a magic weapon.
