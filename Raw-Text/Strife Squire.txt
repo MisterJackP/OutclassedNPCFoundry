@@ -1,0 +1,17 @@
+Strife Squire
+Medium humanoid (any race), any alignment
+Armor Class 17 (splint mail, shield)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 12 (+1) 13 (+1) 11 (+0) 12 (+1) 11 (+0)
+Skills Animal Handling +3, Athletics +4
+Senses passive Perception 11
+Languages any one language
+Challenge 1/4 (50 XP)
+Initiate Spellcasting. The squire is a magic initiate.  Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It can cast the following bard spells.
+At will: dancing lights, vicious mockery
+1/day: bane
+Actions
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+Light Crossbow. Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.

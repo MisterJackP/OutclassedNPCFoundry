@@ -1,0 +1,19 @@
+Glass Shatterer
+Medium humanoid (any race), any alignment
+Armor Class 15
+Hit Points 32 (5d8 + 10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 14 (+2) 10 (+0) 15 (+2) 10 (+0)
+Senses passive Perception 12
+Languages any one language
+Challenge 4 (1,100 XP)
+Innate Spellcasting. The glass shatterer's innate spellcasting ability is Wisdom (spell save DC 12). It can cast the following spells innately.
+3/day: mirror image
+Shatterstrike. When the glass shatterer  is at less than its hit point maximum, its unarmed strikes deal an additional 3 (1d6) slashing damage. If the glass shatterer  is at half its hit points or fewer, its unarmed strikes deal an additional 3 (1d6) slashing damage on top of that.
+Unarmored Defense. While the glass shatterer isn't wearing armor, its armor class includes its Wisdom modifier.
+Actions
+Multiattack. The glass shatterer makes three unarmed strikes.
+Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
+Reactions
+Refraction. When the glass shatterer takes fire, force, lightning, or radiant damage, it can reduce the damage taken by half.

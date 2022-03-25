@@ -1,0 +1,18 @@
+Note of Potential
+Tiny construct, neutral
+Armor Class 15
+Hit Points 1 (1d4 - 1)
+Speed 0 ft., fly 90 ft. (hover)
+STR DEX CON INT WIS CHA
+1 (-5) 20 (+5) 8 (-1) 3 (-4) 3 (-4) 3 (-4)
+Damage Immunities all damage except force
+Condition Immunities blinded, charmed, deafened, exhaustion, frightened, incapacitated, paralyzed, petrified, poisoned, stunned, unconscious
+Senses passive Perception 6
+Languages understands the languages of its creator but can't speak
+Challenge 1/8 (25 XP)
+Conductor-Bound. The note of potential shares initiative with its conductor, can occupy its space, and can move up to 90 ft. outside of initiative order to always remain within 5 feet of the conductor.
+Ephemeral. The note of potential can't take actions, and it can only take reactions  if it is within 5 feet of its conductor. After taking a reaction, or if it ends its turn further than 5 feet from its conductor, the note of potential is destroyed.
+Reactions
+Note of Destruction. When the conductor makes an attack roll, the note of potential emits a burst of sound. Each creature within 5 feet of it that can hear it must must make a Constitution saving throw or take 4 (1d8) thunder damage.
+Note of Ingenuity. When the conductor makes an ability check, the note of potential grants it advantage on that check.
+Note of Protection. When the conductor takes damage, the note of potential grants it resistance to the damage of that attack.

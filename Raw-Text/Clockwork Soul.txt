@@ -1,0 +1,23 @@
+Clockwork Soul
+Medium humanoid (any race), any alignment
+Armor Class 13 (16 with mage armor)
+Hit Points 135 (18d8 + 54)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 16 (+3) 16 (+3) 16 (+3) 16 (+3) 16 (+3)
+Senses passive Perception 13
+Languages any two languages
+Challenge 5 (1,800 XP)
+Absolute Order. When making an attack roll, saving throw, or ability check, the clockwork soul can treat a roll of 9 or lower as a 10.
+Aura of Balance. When a creature the clockwork soul can see within 30 feet of it rolls with advantage or disadvantage, the clockwork soul can choose to prevent the roll from being affected by advantage or disadvantage.
+As All Things Should Be. After casting shield or counterspell, the clockwork soul regains a 1st-level spell slot.
+Spellcasting. The sorcerer is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The sorcerer can cast the following sorcerer spells.
+Cantrips (at will): light, mage hand, mending, thunderclap
+1st level (4 slots): alarm, mage armor, magic missile, protection from evil and good, shield, thunderwave
+2nd level (3 slots): earthbind, find traps, heat metal
+3rd level (3 slots): counterspell
+4th level (1 slot): arcane eye, Otiluke's resilient sphere
+Actions
+Multiattack. The clockwork soul uses Restore Balance. It can then cast a spell.
+Quarterstaff. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if used with two hands to make a melee attack.
+Restore Balance. The clockwork soul ends one magical effect or condition affecting it.

@@ -1,0 +1,18 @@
+Wild Magic Berserker
+Medium humanoid, chaotic neutral
+Armor Class 13 (hide armor)
+Hit Points 67 (9d8 + 27)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 12 (+1) 17 (+3) 9 (-1) 14 (+2) 9 (-1)
+Damage Resistances nonmagical bludgeoning, piercing, and slashing
+Senses passive Perception 12
+Languages any one language
+Challenge 3 (700 XP)
+Reckless. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+Wild Magic Initiative. When the berserker rolls initiative, it rolls twice on the Wild Magic Surge table and uses either result. If it rolls the same number twice, it can choose any result on the table.
+Actions
+Multiattack. The berserker makes two melee weapon attacks. 
+Greataxe. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.
+Reactions
+Wild Magic Reaction. When the berserker takes damage, it rolls twice on the Wild Magic Surge table and uses either result. If it rolls the same number twice, it can choose any result on the table.

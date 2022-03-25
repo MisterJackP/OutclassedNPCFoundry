@@ -1,0 +1,25 @@
+Rebirth Knight
+Medium humanoid (any race), any alignment
+Armor Class 20 (plate, shield)
+Hit Points 75 (10d8 + 30)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+18 (+4) 10 (+0) 16 (+3) 13 (+1) 13 (+1) 16 (+3)
+Saving Throws Str +7, Dex +3, Con +6, Int +4, Wis +4, Cha +6
+Skills History +7, Perception +7, Persuasion +9
+Damage Immunities psychic
+Senses passive Perception 17
+Languages any one language
+Challenge 7 (2,900 XP)
+Ancestral Knowledge. The knight adds its Charisma modifier to its ability checks.
+Aura of the True Self. The knight and allied creatures within 30 feet of its position have immunity to psychic damage and advantage on saving throws to resist being charmed or frightened.
+Return Refreshed (1/Day). The knight chooses an ally within 30 feet of its position that has 0 hit points. The target regains 10 (3d6) hit points.
+Sacred Weapons. The knight's weapon attacks are magical. When the knight hits with its scimitar, the weapon deals an additional 9 (2d8) radiant damage (included in the attack). 
+Spellcasting. The knight is a 9th level spellcaster. Its spellcasting ability is Charisma (spell save DC 14). It has the following paladin spells prepared.
+1st level (4 slots): bless, comprehend languages, divine favor, identify, wrathful smite
+2nd level (3 slots): alter self, augury, lesser restoration, protection from poison
+3rd level (2 slots): revivify, speak with dead, tongues
+Actions
+Multiattack. The knight makes two attacks.
+Scimitar. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) slashing damage plus 9 (2d8) radiant damage.
+Javelin. Melee or Ranged Weapon Attack: +7 to hit, range 30/120 ft., one target. Hit: 7 (1d6 + 4) piercing damage.

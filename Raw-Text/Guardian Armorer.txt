@@ -1,0 +1,18 @@
+Guardian Armorer
+Medium humanoid, any alignment
+Armor Class 19 (power armor plate mail)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 10 (+0) 15 (+2) 17 (+3) 12 (+1) 10 (+0)
+Skills Smith's Tools +5
+Senses passive Perception 11
+Languages any two languages
+Challenge 3 (700 XP)
+Defensive Field (3/Day). As a bonus action, the armorer gains 10 temporary hit points.
+Initiate Spellcasting. The armorer is a magic initiate. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can cast the following wizard spells.
+At will: blade ward, mending
+1/day: shield
+Actions
+Multiattack. The armorer makes two attacks with its thunder gauntlets.
+Thunder Gauntlets. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) thunder damage, and the target has disadvantage on attack rolls against targets other than the armorer until the start of the armorer's next turn.

@@ -1,0 +1,23 @@
+Flamefighter
+Medium humanoid (any race), any alignment
+Armor Class 14 (hide armor)
+Hit Points 165 (30d8 + 30)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 13 (+1) 10 (+0) 18 (+4) 15 (+2)
+Skills Nature +3
+Senses passive Perception 14
+Languages Druidic, Ignan, any one language
+Challenge 8 (3,900 XP)
+Binder of Fire Spirits. Creatures killed by fire damage originating from the flamefighter burst into spectral flames upon death. These spectral flames immediately reconstitute into a wildfire spirit under the flamefighter's control.
+Spellcasting. The flamefighter is a 9th-level spellcaster. Its spellcasting  ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following druid spells prepared.
+Cantrips (at will): control flames, create bonfire, fire bolt, produce flame
+1st level (4 slots): absorb elements, burning hands, create or destroy water, entangle
+2nd level (3 slots): locate animals or plants, heat metal, scorching ray
+3rd level (3 slots): dispel magic, fireball, plant growth
+4th level (3 slots): aura of life, fire shield, wall of fire
+5th level (1 slots): conjure elemental (fire elemental only), flame strike, raise dead
+Actions
+Flamefighter Fan. The flamefighter waves its fan. Each creature in a 10-foot cube originating from the flamefighter must succeed on a DC 15 Strength saving throw or be pushed 10 feet away. Objects up to 50 pounds are also pushed, and nonmagical fires are extinguished.
+Reactions
+Fiery Teleportation. When a wildfire spirit under the flamefighter's control uses its Fiery Teleportation, the flamefighter can also teleport to an unoccupied space within 30 feet of it that it can see.

@@ -1,0 +1,23 @@
+Iron Avenger
+Medium humanoid (any race), any alignment
+Armor Class 25 (iron avenger suit)
+Hit Points 204 (24d8 + 96)
+Speed 30 ft., fly 60 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 18 (+4) 18 (+4) 20 (+5) 15 (+2) 18 (+4)
+Damage Resistances nonmagical bludgeoning, piercing, and slashing
+Skills Smith's Tools +11, Tinker's Tools +11
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 12
+Languages any three languages
+Challenge 20 (25,000 XP)
+Evasion. When the iron avenger is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Actions 
+Multiattack. The iron avenger makes two attacks with its blasters, then uses its seeker missiles.
+Blaster. Ranged Weapon Attack: +10 to hit, range 100/300 ft., one target. Hit: 16 (3d8 + 3) radiant damage.
+Seeker Missiles. The iron avenger targets three creatures it can see within range of its blindsight. Each target takes 10 (4d4) piercing damage. This damage can be blocked with the shield spell.
+Legendary Actions
+The iron avenger can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The iron avenger regains spent legendary actions at the start of its turn.
+Blaster. The iron avenger makes an attack with its blasters.
+Field Repairs. The iron avenger regains 10 hit points.
+Laser Spin (Costs 3 Actions). Each creature within 30 feet of the iron avenger must make a DC 18 Dexterity saving throw, taking 45 (10d8) radiant damage on a failed save, or half as much on a successful one.
+Threat Seeker. The iron avenger extends its blindsight to 120 feet until the end of its next turn.

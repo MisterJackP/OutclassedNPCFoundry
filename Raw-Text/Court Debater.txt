@@ -1,0 +1,21 @@
+Court Debater
+Medium humanoid, lawful neutral or lawful evil
+Armor Class 13 (padded armor)
+Hit Points 72 (16d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 10 (+0) 14 (+2) 10 (+0) 18 (+4)
+Skills Deception +8, History +5, Insight +2, Performance +6, Persuasion +6
+Senses passive Perception 10
+Languages all languages
+Challenge 3 (700 XP)
+Calm and Charm (1/Day). After casting calm emotions, the court debater regains a 2nd level spell slot. Creatures under the effects of calm emotions cast by the court debater have disadvantage on concentration checks.
+Overtalk (1/Day). After casting silence, the court debater regains two 1st level spell slots.
+Spellcasting. The court debater is a 4th-level spellcaster. Its spellcasting  ability is Charisma (spell save DC 14, +6 to hit with spell attack).  It has the following bard spells prepared.
+Cantrips (at will): friends, message, vicious mockery
+1st level (4 slots): bane, burning hands, charm person,
+illusory script
+2nd level (3 slots): calm emotions, enthrall, silence
+Actions
+Multiattack. The court debater uses dialectic. It can then cast a spell.
+Dialectic. The court debater targets a creature it can see within 60 feet of it that can hear it. The target must succeed on a DC 14 Intelligence saving throw or take 9 (2d8) psychic damage and incur disadvantage on the next saving throw it makes before the end of the court debater's next turn.

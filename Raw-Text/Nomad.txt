@@ -1,0 +1,19 @@
+Nomad
+Medium humanoid (any race), any alignment
+Armor Class 18 (padded armor)
+Hit Points 65 (10d8 + 20)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 16 (+3) 16 (+2) 10 (+0) 14 (+2) 10 (+0)
+Skills Athletics +5, Medicine +4, Perception +4, Survival +4
+Saves Str +5, Dex +5, Con +4
+Damage Resistances cold, fire, and poison from nonmagical sources
+Senses passive Perception 12
+Languages any one language
+Challenge 3 (700 XP)
+Action Surge (1/Day). The nomad takes one additional action on its turn.
+Padded Armor Expert. While the nomad wears padded armor, its AC is 16 plus its Constitution modifier. Any critical hit on the nomad while it wears padded armor becomes a normal hit.
+Actions
+Multiattack. The nomad makes two attacks.
+Quarterstaff. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage, or 7 (1d8 + 3) bludgeoning damage if wielded with two hands.
+Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.

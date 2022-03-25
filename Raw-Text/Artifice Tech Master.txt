@@ -1,0 +1,20 @@
+Artifice Tech Master
+Medium humanoid (any race), any alignment
+Armor Class 18 (half plate of invulnerability)
+Hit Points 90 (12d8 + 36)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 17 (+3) 16 (+3) 17 (+3) 13 (+1) 13 (+1)
+Saves Str +3, Dex +4, Con +8, Int +8, Wis +2, Cha +2
+Damage Immunities nonmagical damage
+Skills Smith's Tools +7, Tinker's Tools +7
+Senses passive Perception 11
+Languages any three languages
+Challenge 10 (5,900 XP)
+Bandolier. The tech master carries 3 energy cells for its antimatter rifle (one energy cell fully reloads the rifle) and 3 of each type of grenade it can use.
+Cloak of Protection. The tech master's AC and saving throws are increased by 1 while it is wearing its cloak of protection.
+Actions
+Multiattack. The tech master makes one ranged weapon attack and can use one of its grenades.
+Antimatter Rifle. Ranged Weapon Attack: +7 to hit, range 120/360 ft., one target. Hit: 30 (6d8 + 3) necrotic damage. The tech master must spend an action to reload this weapon after making 2 attacks.
+Black Hole Grenade. The tech master throws the grenade at a point it can see within 60 feet of it. Each creature within 40 feet of that point must make a DC 15 Constitution  saving throw. On a failed save, the creature takes 13 (3d8) radiant damage if it's within 40 feet of the grenade, or 22 (5d8) radiant damage if it's within 20 feet of the grenade. Then, the creature is pulled up to 20 feet towards the grenade. On a successful save, the creature takes half as much damage and isn't pulled.
+Geneva Grenade. The tech master throws the grenade at a point it can see within 60 feet of it. The grenade emits a cloud of smoke that creates a heavily-obscured area in a 40-foot radius. A creature that starts its turn within the smoke must make a DC 15 Constitution saving throw. On a failed save, the creature takes 14 (4d6) poison damage and is poisoned for 1 minute. On a successful save, the creature takes half as much damage and isn't poisoned. Once out of the area of effect, a creature can repeat the save at the end of each of its turns, ending the poisoned condition on a success.

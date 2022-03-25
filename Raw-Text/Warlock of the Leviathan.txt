@@ -1,0 +1,28 @@
+Warlock of the Leviathan
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 91 (14d8 + 28)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 14 (+2) 15 (+2) 12 (+1) 12 (+1) 18 (+4)
+Saving Throws Wis +4, Cha +7
+Damage Resistances cold, lightning, thunder
+Senses darkvision 60 ft., passive Perception 11
+Languages any two languages
+Challenge 6 (2,300 XP)
+Amphibious. The warlock can breathe air and water.
+Curse of the Sea. When the warlock damages a creature, it can impose one of the following effects.
+The effects last until the end of the warlock's next turn.
+Calm Before the Storm. The target takes an additional 9 (2d8) cold, lightning, or thunder damage (warlock's choice).
+Rolling Fog. The target's vision is obscured by illusory fog, giving them disadvantage on attack rolls and Wisdom (Perception) checks made against creatures more than 15 feet from them. Creatures that can see through illusions are unaffected.
+Treading Water. The target's speed is reduced to 0.
+Innate Spellcasting. The warlock's innate spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks).  It can cast the following spells innately.
+1/day: investiture of wind
+2/day: hunger of Hadar
+Spellcasting. The warlock is an 11th-level spellcaster. Its spellcasting  ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It knows the following warlock spells.
+Cantrips (at will): frostbite, mage hand (a tentacle), minor illusion, prestidigitation, shape water
+1st-5th level (3 5th-level slots): arms of Hadar, augury, call lightning, control water, control wind, create or destroy water, darkness, Evard's black tentacles, fog cloud, gust of wind, maelstrom, misty step, water breathing
+Actions
+Dagger. Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
+Reactions
+Inky Escape (Recharges after a Short or Long Rest). When the warlock takes damage, it can cast darkness centered on itself. It doesn't need to expend a spell slot and it doesn't need to concentrate on the spell.

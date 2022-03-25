@@ -1,0 +1,14 @@
+Body Puppet
+Medium undead, unaligned
+Armor Class 13
+Hit Points 38 (7d8 + 7)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 17 (+3) 13 (+1) 1 (-5) 1 (-5) 1 (-5)
+Damage Immunities poison
+Condition Immunities poisoned
+Senses passive Perception 5
+Languages --
+Challenge 1/8 (25 XP)
+Actions
+Slam. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.

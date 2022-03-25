@@ -1,0 +1,19 @@
+Sand Shaman
+Medium humanoid (any race), any alignment
+Armor Class 15 (hide armor)
+Hit Points 54 (12d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 11 (+0) 13 (+1) 17 (+3) 13 (+1)
+Skills Arcana +3, Nature +3, Survival +5
+Senses passive Perception 13
+Languages any two languages
+Challenge 3 (700 XP)
+Spellcasting. The sand shaman is a 6th level spellcaster. Its spellcasting  ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared.
+Cantrips (at will): gust, infestation, minor illusion, mold earth
+1st level (4 slots): absorb elements, create or destroy water, earth tremor, expeditious retreat, longstrider, purify food and drink
+2nd level (3 slots): Agnazzar's scorcher, dust devil, earthbind, gust of wind, mirror image, pass without trace, skywrite
+3rd level (3 slots): erupting earth, meld into stone, protection from energy, wall of sand, wind wall
+Actions
+Sickle. Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target. Hit: 4 (1d4 + 2) slashing damage.

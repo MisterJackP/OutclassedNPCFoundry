@@ -1,0 +1,15 @@
+Archer Squire
+Medium humanoid (any race), any alignment
+Armor Class 17 (splint mail, shield)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 12 (+1) 13 (+1) 11 (+0) 12 (+1) 11 (+0)
+Skills Animal Handling +3, Athletics +4
+Senses passive Perception 11
+Languages any one language
+Challenge 1/4 (50 XP)
+Spotter. When the squire takes the Help action to assist its knight in attacking a creature, the target can be within 30 feet of the squire.
+Actions
+Shortsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
+Light Crossbow. Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.

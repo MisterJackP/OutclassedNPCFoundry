@@ -1,0 +1,19 @@
+Battle Smith
+Medium humanoid (any race), any alignment
+Armor Class 19 (+1 scale mail, shield)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 15 (+2) 14 (+2) 16 (+3) 10 (+0) 10 (+0)
+Skills Leatherworker's Tools +6, Smith's Tools +6
+Senses passive Perception 10
+Languages any three languages
+Challenge 6 (2,300 XP)
+Spellcasting. The battle smith is a 4th-level spellcaster. The battle smith's spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks).  The battle smith knows the following artificer spells.
+Cantrips (at will): create bonfire, mage hand, mending
+1st level (4 slots): expeditious retreat, faerie fire, heroism, sanctuary, searing smite
+2nd level (3 slots): aid, heat metal
+Actions
+Multiattack. The battlesmith makes two melee weapon attacks. 
+Arcane Firehammer. Melee Weapon Attack: +7 to hit, reach 5 ft.,  one target. Hit: 8 (1d8 + 4) bludgeoning damage plus 3 (1d6) fire damage. This is a +1 magic weapon.
+Pistol. Ranged Weapon Attack: +4 to hit, range 30/90 ft., one target. Hit: 7 (1d10 + 2) piercing damage.

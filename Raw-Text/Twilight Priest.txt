@@ -1,0 +1,21 @@
+Twilight Priest
+Medium humanoid (any race), any neutral alignment
+Armor Class 16 (chain mail)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 10 (+0) 13 (+1) 13 (+1) 16 (+3) 13 (+1)
+Skills Intimidation +3, Religion +3
+Senses darkvision 120 ft., passive Perception 13
+Languages Druidic plus any one language
+Challenge 1 (200 XP)
+Brave. The priest has advantage on saving throws to resist being frightened.
+Spellcasting. The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following cleric spells prepared.
+Cantrips (at will): guidance, resistance, spare the dying
+1st level (4 slots): detect magic, faerie fire, sanctuary, sleep
+2nd level (3 slots): darkness, hold person, invisibility, spiritual weapon (an arrow, rushing with wind as if forever suspended in mid-flight)
+3rd level (2 slots): aura of vitality, Leomund's tiny hut
+Stay in This Moment (1/Day). After casting sanctuary, the priest regains a 1st level spell slot.
+Vigilance. The priest and up to 6 allies have advantage on initiative rolls.
+Actions
+Mace. Melee Weapon Attack: +2 to hit, reach 5 ft.,  one target. Hit: 3 (1d6) bludgeoning damage.

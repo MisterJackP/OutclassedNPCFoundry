@@ -1,0 +1,30 @@
+Swarm of Demiliches
+Large swarm of Tiny undead, neutral evil
+Armor Class 20 (natural armor)
+Hit Points 275 (50d10)
+Speed 0 ft., fly 30 ft. (hover)
+STR DEX CON INT WIS CHA
+1 (-5) 20 (+5) 10 (+0) 20 (+5) 17 (+3) 20 (+5)
+Saves Con +8, Int +13, Wis +11, Cha +13
+Damage Resistances bludgeoning, piercing, slashing
+Damage Immunities necrotic, poison, psychic;
+bludgeoning, piercing, and slashing from nonmagical weapons
+Condition Immunities charmed, deafened, exhaustion,
+frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
+Senses truesight 120 ft., passive Perception 13
+Languages the languages each demilich in the swarm knew in life
+Challenge 28 (120,000 XP)
+Avoidance. If the swarm is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Swarm Resistance. The swarm has advantage on all saving throws.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny demilich. The swarm can't regain hit points or gain temporary hit points.
+Turn Immunity. The swarm is immune to effects that turn undead.
+Actions
+Mulitattack. The swarm uses its howls and its life drains.
+Howls. The swarm emits several bloodcurdling howls. Each creature within 90 feet of the swarm that can hear the howls must succeed on a DC 17 Constitution saving throw or drop to 0 hit points. On a successful save, the creature is frightened until the end of its next turn. When the swarm is at half its hit points or fewer, the range of its howls is reduced to 30 ft. 
+Life Drains. The swarm targets all creatures in its space plus up to three creatures within 30 feet of it. Each target must make a DC 21 Constitution saving throw, taking 63 (18d6) necrotic  damage on a failed save, or half as much damage on a successful one. When the swarm is at half its hit points or fewer, creatures take no damage on a successful save.
+Legendary Actions
+The swarm can take 3 legendary actions, choosing from the options  below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The swarm regains spent legendary actions at the start of its turn.
+Clouds of Dust. The swarm magically swirls its dusty remains. Each creature within 30 feet of the swarm, including around a corner, must succeed on a DC 17 Constitution saving throw or be blinded until the end of the swarm's next turn. A creature that succeeds on the saving throw is immune to this effect until the end of the swarm's next turn. After swirling its dusty remains, the swarm can move up to its flying speed without provoking opportunity attacks as long as it has half its hit points or more.
+Energy Drain. Each creature within 90 feet of the swarm must succeed on a DC 17 Constitution  saving throw or have its point maximum magically reduced by 31 (9d6) on a failed save. If a creature's hit point maximum is reduced to 0 by this effect, the creature dies. A creature's hit point maximum can be restored with the greater restoration spell or similar magic. If the swarm is at half its hit points or fewer, the range of its energy drain is reduced to 30 ft., and it costs 2 actions.
+Howls (Costs 2 Actions). The swarm uses its howls. If the swarm is at half hit points or fewer, this legendary action costs 3 actions.
+Vile Curse (Costs 2 Actions). The swarm targets up to three creatures it can see within 90 feet of it. Each target must succeed on a DC 17 Wisdom saving throw or be magically cursed. Until the curse ends, a target has disadvantage on attack  rolls and saving throws. A target can repeat the saving throw at the end of each of its turns, ending the curse on a success. If the swarm is at half its hit points or fewer, the range of its vile curse is reduced to 30 ft., and it costs 3 actions.

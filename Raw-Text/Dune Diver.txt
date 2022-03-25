@@ -1,0 +1,21 @@
+Dune Diver
+Medium humanoid (any race), any alignment
+Armor Class 15 (chain shirt)
+Hit Points 65 (10d8 + 20)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 16 (+3) 14 (+2) 10 (+0) 15 (+2) 10 (+0)
+Skills Perception +4, Stealth +5, Survival +4
+Senses passive Perception 14
+Languages Any two languages
+Challenge 3 (700 XP)
+Sand Cover. The dune diver has advantage on Dexterity (Stealth) checks made to hide in sandy terrain, and it can use its bonus action to do so. It also ignores the effects of difficult terrain caused by sand.
+Spellcasting. The dune diver is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It knows the following ranger spells.
+1st level (4 slots): absorb elements, detect magic, detect poison and disease, earth tremor, hunter's mark
+2nd level (2 slots): locate animals or plants, locate object, warding wind
+Actions
+Multiattack. The dune diver makes two attacks with its longbow or three attacks with its scimitar.
+Scimitar. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
+Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft.,  one target. Hit: 7 (1d8 + 3) piercing damage.
+Reactions
+Sandy Defense. When the dune diver is touching sandy terrain and is targeted by a ranged attack from an attacker  it can see, it can magically impose disadvantage on the attack roll by protecting  itself with a sheet of erupting sand.

@@ -1,0 +1,17 @@
+Ripping Berserker
+Medium humanoid, chaotic neutral
+Armor Class 13 (natural armor)
+Hit Points 67 (9d8 + 27)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 16 (+3) 17 (+3) 9 (-1) 16 (+3) 9 (-1)
+Damage Resistances nonmagical bludgeoning, piercing, and slashing
+Skills Acrobatics +5, Perception +5, Survival +5
+Senses passive Perception 15
+Languages any one language
+Challenge 3 (700 XP)
+Reckless. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
+Spider Climb. The berserker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
+Actions
+Multiattack. The ripping berserker makes two attacks with its claws.
+Claws. Melee Weapon Attack: +5 to hit, reach 5 ft.,  one target. Hit: 6 (1d6 + 3) slashing damage, and the target must succeed on a DC 13 Wisdom saving throw or use its reaction to make a melee attack against another creature of the berserker's choice it can see.

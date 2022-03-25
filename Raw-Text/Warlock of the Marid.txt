@@ -1,0 +1,18 @@
+Warlock of the Marid
+Medium humanoid (any race), any alignment
+Armor Class 14 (studded leather)
+Hit Points 88 (16d8 + 16)
+Speed 30 ft., fly 30 ft. (hover)
+STR DEX CON INT WIS CHA
+10 (+0) 14 (+2) 12 (+1) 10 (+0) 15 (+2) 17 (+3)
+Senses passive Perception 13
+Languages any two languages
+Challenge 3 (700 XP)
+Innate Spellcasting. The warlock's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks).  It can cast the following spells innately.
+At will: demiplane (connects only to the demiplane in the genie vessel, and the genie can't pass through the door)
+
+Spellcasting. The warlock is a 9th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks).  It regains its expended spell slots when it finishes a short or long rest. If its genie vessel is destroyed (AC 13, HP 10) it can't cast spells. It knows the following warlock spells.
+Cantrips (at will): frostbite, minor illusion, prestidigitation
+1st-5th level (2 5th-level slots): armor of agathys, blur, cone of cold, control water, create food and water, creation, darkness, detect evil and good, dispel magic, dream, fog cloud, hunger of Hadar, phantasmal force, phantasmal killer, sleet storm
+Actions
+Booming Scimitar. Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage, plus 4 (1d8) thunder damage, and if the target moves before the start of the warlock's next turn, the target takes an additional 9 (2d8) thunder damage.

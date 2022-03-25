@@ -1,0 +1,16 @@
+Dancing Item
+Small construct, neutral
+Armor Class 16 (natural armor)
+Hit Points 26 (4d6 + 12)
+Speed 40 ft., fly 40 ft. (hover)
+STR DEX CON INT WIS CHA
+18 (+4) 14 (+2) 16 (+3) 4 (-3) 10 (+0) 6 (-2)
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, frightened, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands the languages of its creator but can't speak
+Challenge 2 (450 XP)
+Endless Waltz. Immediately after  the dancing item makes a slam attack, it can take the Dodge action as a bonus action.
+Immutable Form. The item is immune to any spell or effect that would alter its form.
+Actions
+Force-Empowered Slam. Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d10 + 4) force damage.

@@ -1,0 +1,20 @@
+Rune Scribe (Vind)
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 31 (7d8)
+Speed 30 ft., 
+STR DEX CON INT WIS CHA
+15 (+2) 15 (+2) 10 (+0) 19 (+4) 12 (+1) 10 (+0)
+Skills Arcana +6, Calligrapher's Supplies +6, History +6, Mason's Tools +3, Woodcarver's Tools +3
+Damage Resistances 
+Damage Immunities poison
+Condition Immunities poisoned
+Senses passive Perception 11
+Languages any three languages, at least one of which is usually an exotic language
+Challenge 1/4 (50 XP)
+Spellcasting. The rune scribe is a 2nd-level spellcaster. Its spellcasting ability is Intelligence. It can cast the following spells.
+Cantrips (at will): mending
+1st-level (3 slots): comprehend languages, identify
+Actions
+Vind Whip. Melee Weapon Attack: +4 to hit, reach 20 ft., one target. Hit: 4 (1d4 + 2) slashing damage. While holding this magic weapon, the rune scribe does not suffer disadvantage due to range.
+Longbow. Ranged Weapon Attack: +4 to hit, range 600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.

@@ -1,0 +1,20 @@
+Rune Scribe (Stein)
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 31 (7d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 15 (+2) 10 (+0) 19 (+4) 12 (+1) 10 (+0)
+Skills Arcana +6, Calligrapher's Supplies +6, History +6, Mason's Tools +3, Woodcarver's Tools +3
+Damage Resistances 
+Condition Immunities petrified
+Senses passive Perception 11
+Languages any three languages, at least one of which is usually an exotic language
+Challenge 1/4 (50 XP)
+Spellcasting. The rune scribe is a 2nd-level spellcaster. Its spellcasting ability is Intelligence. It can cast the following spells.
+Cantrips (at will): mending
+1st-level (3 slots): comprehend languages, identify
+Actions
+Stein Mace. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage. If the rune scribe scores a critical hit, the target is knocked prone. This is a magic weapon that ignores resistances and immunities to bludgeoning damage.
+Indomitable Stand. The rune scribe scratches the Stein Rune with a chisel into the ground at its feet. Until it moves, it gains advantage on all ability checks and saving throws that would force it to move, and it can force a creature that moves within 10 feet of its position to succeed on a DC 14 Strength saving throw or have its movement speed reduced to 0 until the start of its next turn.
+Stone's Secrets. The rune scribe scratches the Stein Rune with a chisel into a stone wall or floor. It learns the location and size of any creatures touching the surface within 30 feet of its position at the moment it completes the rune.

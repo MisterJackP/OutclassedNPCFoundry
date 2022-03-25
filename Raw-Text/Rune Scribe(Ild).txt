@@ -1,0 +1,20 @@
+Rune Scribe (Ild)
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 31 (7d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 15 (+2) 10 (+0) 19 (+4) 12 (+1) 10 (+0)
+Skills Arcana +6, Calligrapher's Supplies +6, History +6, Mason's Tools +3, Woodcarver's Tools +3
+Damage Resistances cold
+Senses passive Perception 11
+Languages any three languages, at least one of which is usually an exotic language
+Challenge 1/4 (50 XP)
+Spellcasting. The rune scribe is a 2nd-level spellcaster. Its spellcasting ability is Intelligence. It can cast the following spells.
+Cantrips (at will): mending
+1st-level (3 slots): comprehend languages, identify
+Actions
+Ild Rapier. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) fire damage. This is a magic weapon.
+Combustion (Recharge 5-6). The rune scribe marks the Ild Rune with ash on a creature within 5 feet of its position. The creature immediately takes 11 (2d10) fire damage.
+Ignite. The rune scribe marks the Ild Rune with ash on a flammable object. That object immediately bursts into flames.
+Fire Tamer. The rune scribe traces the Ild Rune with its hand over an open flame. The rune scribe can manipulate the flame as per the control flames spell.

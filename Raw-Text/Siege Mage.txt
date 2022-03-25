@@ -1,0 +1,20 @@
+Siege Mage
+Medium humanoid (any race), any alignment
+Armor Class 15 (splint mail)
+Hit Points 26 (4d8 + 8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 15 (+2) 13 (+1) 8 (-1) 12 (+1)
+Skills Athletics +5, Performance +3
+Senses passive Perception 12
+Languages any one language
+Challenge 1 (200 XP)
+Initiate Spellcasting. The siege mage is a magic initiate. Its spellcasting ability is Intelligence (spell save DC 11, +3 to hit with spell attacks). It can cast the following wizard spells.
+At will: light, mold earth
+1/day: feather fall
+Reckless. At the start of its turn, the siege mage can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
+Siege Warrior. The siege mage deals double damage to objects and structures.
+Actions
+Battering Ram. Melee Weapon Attack: +5 to hit, reach 5 ft., one object (a door or a wall). Hit: 17 (4d6 + 3) bludgeoning damage. The siege mage requires the assistance of at least one ally to use this ram.
+Warhammer. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands.
+Pepper Bomb (1/Day). The siege mage throws a pepper bomb at a point within 30 feet of it that it can see. Each creature within a 10 foot radius of that point must succeed on a DC 11 Constitution saving throw or become blinded for 1 minute. A target can repeat this save at the end of each of its turns, ending the effect on a success.

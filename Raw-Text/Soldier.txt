@@ -1,0 +1,13 @@
+Soldier
+Medium humanoid (any race), any alignment
+Armor Class 14 (padded armor, shield)
+Hit Points 5 (1d8 + 1)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 12 (+1) 12 (+1) 10 (+0) 10 (+0) 10 (+0)
+Skills Athletics +3, Dragon Dice +2
+Senses passive Perception 10
+Languages any one language
+Challenge 1/8 (25 XP)
+Actions
+Spear. Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.

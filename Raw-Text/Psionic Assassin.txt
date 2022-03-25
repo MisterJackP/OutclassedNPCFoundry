@@ -1,0 +1,21 @@
+Psionic Assassin
+Medium humanoid (any race), any non-good alignment
+Armor Class 18 (studded leather)
+Hit Points 78 (12d8 + 24)
+Speed 35 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 16 (+3) 14 (+2) 17 (+3) 11 (+0) 10 (+0)
+Saving Throws Dex +6, Int +6
+Skills Acrobatics +6, Deception +3, Perception +3, Stealth +9
+Damage Resistances poison
+Senses passive Perception 13
+Languages Thieves' Cant plus any two languages,
+telepathy 30 ft.
+Challenge 9 (5,000 XP)
+Assassinate. During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
+Evasion. If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
+Psionic Armor. The assassin adds its Intelligence modifier to its armor class.
+Rend Mind (1/Turn). The assassin deals an extra 42 (12d6) psychic damage when it hits a target with its soul knife and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack  roll. A creature that takes this damage must make a DC 14 Wisdom saving throw. On a failed save, the creature becomes frightened of the assassin until the start of the assassin's next turn. On a successful save, the creature isn't frightened and is immune to this effect for 24 hours.
+Actions
+Multiattack. The assassin makes two attacks with its soul knives.
+Soul Knife. Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/60 ft.,  one target. Hit: 6 (1d6 + 3) psychic damage. This is a magic weapon that can be summoned or dismissed by the assassin at will. Invisibility. The assassin magically turns invisible until it attacks, or until its concentration ends (as if concentrating on a spell). Any equipment the assassin wears or carries is invisible with it.

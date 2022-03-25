@@ -1,0 +1,18 @@
+Mechanical Servant
+Large construct, Lawful Neutral
+Armor Class 12 (natural armor)
+Hit Points 45 (5d10 + 18)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+20 (+5) 10 (+0) 16 (+3) 6 (-2) 13 (+1) 7 (-2)
+Damage Immunities poison
+Condition Immunities charmed, poisoned
+Senses darkvision 30 ft., passive Perception 11
+Languages understands the languages of its creator but can't speak
+Challenge 3 (700 XP)
+Actions
+Multiattack. The servant makes two attacks.
+Slash. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage.
+Repair (3/Day). The construct restores 11 (2d8 + 2) hit points to itself or to one construct or object within 5 feet of it.
+Reactions
+Defensive Pounce (Reaction). The construct imposes disadvantage on the attack roll of one creature it can see that is within 5 feet of it, provided the attack roll is against a creature other than the construct.

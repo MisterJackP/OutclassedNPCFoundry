@@ -1,0 +1,21 @@
+Aberrant Mind Sorcerer
+Medium humanoid (any race), any alignment
+Armor Class 16 (natural armor)
+Hit Points 135 (18d8 + 54)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 17 (+3) 16 (+3) 10 (+0) 10 (+0) 18 (+4)
+Damage Immunities psychic
+Condition Immunities charmed, frightened
+Senses truesight 30 ft., passive Perception 10
+Languages any two languages, telepathy 30 ft.
+Challenge 5 (1,800 XP)
+Aura of Reality Warping. A creature that starts its turn within 10 feet of the sorcerer takes 11 (2d10) psychic damage as its mind is addled with rippling psychic energy.
+Spellcasting. The sorcerer is a 7th-level spellcaster. Its spellcasting  ability is Charisma (spell save DC 15, +7 to hit with spell attacks).  The sorcerer can cast the following sorcerer spells.
+Cantrips (at will): minor illusion, thaumaturgy
+1st level (4 slots): arms of Hadar, comprehend languages, dissonant whispers, Tasha's hideous laughter
+2nd level (3 slots): blindness/deafness, calm emotions, darkness, detect thoughts
+3rd level (3 slots): fear, hunger of Hadar, sending
+4th level (1 slot): Evard's black tentacles
+Actions
+Mind Sliver. The sorcerer telepathically links minds with a creature within 60 feet of it that knows at least one language. The target must succeed on a DC 15 Intelligence saving throw or take 7 (2d6) psychic damage and incur disadvantage on the next saving throw it makes before the end of the sorcerer's next turn.

@@ -1,0 +1,24 @@
+Mad Scientist
+Medium humanoid (any race), any alignment
+Armor Class 13
+Hit Points 82 (15d8 + 15)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 17 (+3) 12 (+1) 18 (+4) 12 (+1) 13 (+1)
+Skills Alchemist's Supplies +8, Herbalism Kit +5
+Damage Resistances acid, poison
+Condition Immunities poisoned
+Senses passive Perception 11
+Languages any two languages
+Challenge 3 (700 XP)
+Bandolier. The mad scientist carries 3 grenades.
+Spellcasting. The mad scientist is a 5th-level spellcaster. The mad scientist's spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks).  The mad scientist  knows the following artificer spells.
+Cantrips (at will): acid splash, prestidigitation
+1st level (4 slots): alarm, cure wounds, detect magic,
+grease, identify, purify food and drink, ray of sickness
+2nd level (3 slots): alter self, invisibility, lesser
+restoration, magic mouth, Melf's acid arrow, spider
+climb, web
+3rd level (2 slots): animate dead, stinking cloud
+Actions
+Multiattack.  The mad scientist throws two potion vials.

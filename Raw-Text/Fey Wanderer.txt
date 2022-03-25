@@ -1,0 +1,18 @@
+Fey Wanderer
+Medium humanoid (any race), neutral
+Armor Class 15 (studded leather)
+Hit Points 121 (22d8 + 22)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 18 (+4) 12 (+1) 10 (+0) 19 (+4) 14 (+2)
+Skills Perception +7, Performance +5, Persuasion +5
+Condition Immunities charmed, frightened
+Senses passive Perception 17
+Languages Sylvan plus any one language
+Challenge 7 (2,900 XP)
+Enchanting Strike (1/Turn). A creature hit by the fey wanderer's attack must succeed on a DC 15 Wisdom saving throw or become frightened or charmed of the fey wanderer (fey wanderer's choice) until the end of its next turn.
+Magic Weapons. The fey wanderer's weapon attacks are magical and deal an additional 14 (4d6) psychic damage on a hit (included in the attack).
+Actions
+Multiattack. The fey wanderer makes three attacks  with its scimitars or two attacks  with its longbow.
+Scimitar. Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage plus 14 (4d6) psychic damage.
+Longbow. Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 8 (1d8 + 4) piercing damage plus 14 (4d6) psychic damage.

@@ -1,0 +1,16 @@
+Witch Doctor
+Medium humanoid (any race), any alignment
+Armor Class 13 (hide armor)
+Hit Points 18 (4d8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 13 (+1) 11 (+0) 12 (+1) 15 (+2) 9 (-1)
+Skills Animal Handling +4, Arcana +3, Medicine +4, Nature +3, Survival +4
+Senses passive Perception 12
+Languages Druidic plus any one language
+Challenge 1/4 (50 XP)
+Spellcasting. The witch doctor is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared.
+Cantrips (at will): druidcraft, guidance, thorn whip 
+1st level (2 slots): cure wounds, detect poison and disease, find familiar, purify food and drink, speak with animals
+Actions
+Shillelagh Staff. Melee Spell Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) bludgeoning damage. This is a magic weapon attack. 

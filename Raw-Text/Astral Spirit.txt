@@ -1,0 +1,20 @@
+Astral Spirit
+Medium celestial, any alignment
+Armor Class 11
+Hit Points 31 (7d8)
+Speed 30 ft., fly 30 ft. (hover)
+STR DEX CON INT WIS CHA
+7 (-2) 13 (+1) 10 (+0) 10 (+0) 18 (+4) 14 (+2)
+Skills Insight +6, Intimidation +4
+Damage Resistances acid, fire, lightning, thunder; nonmagical bludgeoning, piercing, and slashing
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone,
+restrained
+Senses darkvision 120 ft., passive Perception 14
+Languages any languages it knew in life
+Challenge 2 (450 XP)
+Incorporeal Movement. The spirit can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
+Words of the Spirit. When the astral spirit speaks, it can make its voice be heard up to 600 feet away. Alternatively,  it can choose only certain creatures it can see within 30 feet of it to be able to hear its words.
+Actions
+Multiattack. The astral spirit makes two attacks with its astral arms.
+Astral Arms. Melee Spell Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) radiant damage.

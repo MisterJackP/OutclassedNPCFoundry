@@ -1,0 +1,20 @@
+Lore Master
+Medium humanoid (any race), any alignment
+Armor Class 12 (15 with mage armor)
+Hit Points 99 (18d8 + 18)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+8 (-1) 15 (+2) 12 (+1) 19 (+4) 9 (-1) 8 (-1)
+Skills Arcana +8, History +8, Nature +8, Religion +8
+Senses passive Perception 9
+Languages any six languages
+Challenge 6 (2,300 XP)
+Elemental Secrets (1/Turn). When the lore master deals acid, cold, fire, force, lightning, necrotic,  radiant, or thunder damage, it can substitute that damage type with one other type from that list.
+Secrets of the Body and Mind (Recharges after a Short or Long Rest). When the lore master casts a spell that forces the target to make a saving throw, the lore master can change the saving throw from one ability score to another of its choice.
+Spellcasting. The lore master is a 6th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared.
+Cantrips (at will): fire bolt, mage hand, poison spray, prestidigitation
+1st level (4 slots): charm person, expeditious retreat, identify, illusory script, mage armor, thunderwave, unseen servant
+2nd level (3 slots): arcane lock, detect thoughts, invisibility, knock, locate object, see invisibility, shatter
+3rd level (3 slots): counterspell, clairvoyance, fireball, sending
+Actions
+Pencil. Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 piercing damage.

@@ -1,0 +1,15 @@
+Wrestler
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 19 (3d8 + 6)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 14 (+2) 15 (+2) 10 (+0) 10 (+0) 10 (+0)
+Skills Athletics +5, Performance +2
+Senses passive Perception 10
+Languages any one language
+Challenge 1/8 (25 XP)
+Grappler. The wrestler has advantage on attack rolls against creatures it is grappling.
+Actions
+Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage. A creature reduced to 0 hit points by this attack is stabilised.
+Pin. The wrestler attempts to grapple a creature within 5 feet of it (escape DC 15). On a success, while the target is grappled, the wrestler and the target are restrained.

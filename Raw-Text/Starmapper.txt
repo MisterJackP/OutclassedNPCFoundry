@@ -1,0 +1,21 @@
+Starmapper
+Medium humanoid (any race, shapechanger), any alignment
+Armor Class 13 (studded leather armor)
+Hit Points 49 (9d8 + 9)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 13 (+1) 12 (+1) 11 (+0) 19 (+4) 11 (+0)
+Senses passive Perception 14
+Languages Druidic plus any one language
+Challenge 1 (200 XP)
+Starmap Spellcasting. The starmapper can cast spells through its starmap. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It can cast the following spells without material components.
+3/day each: augury, guiding bolt
+Spellcasting. The starmapper is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). It has the following druid spells prepared.
+Cantrips (at will): druidcraft, guidance, produce flame
+1st level (4 slots): detect magic, faerie fire, fog cloud
+2nd level (2 slots): darkvision, moonbeam
+Actions
+Constellation Chalice (Star Being Form Only). The starmapper touches a creature. The target regains 8 (1d8 + 4) hit points.
+Star Being (Recharges after a Short or Long Rest). The starmapper shapeshifts into a star being, or back into its true form, which is humanoid. While in its star being form, the starmapper sheds bright light for 10 feet and dim light 10 feet beyond that. The starmapper can remain in its star being form for up to 10 minutes.
+Reactions
+Cosmic Omen. When a creature the starmapper can see within 30 feet of it makes an attack roll, saving throw, or ability check, it can impose disadvantage on the roll.

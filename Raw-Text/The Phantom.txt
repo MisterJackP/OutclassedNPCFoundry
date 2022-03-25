@@ -1,0 +1,19 @@
+The Phantom
+Medium humanoid (any race), any alignment
+Armor Class 14 (leather armor)
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 16 (+3) 12 (+1) 15 (+2) 15 (+2) 15 (+2)
+Skills Acrobatics +5, Arcana +4, Deception +6, History +4, Medicine +2, Nature +4, Perception +4, Religion +2, Sleight of Hand +5, Stealth +7
+Damage Immunities poison
+Condition Immunities poisoned
+Senses passive Perception 14
+Languages Thieves' Cant, any four languages
+Challenge 1 (200 XP)
+Ethereal Jaunt. As a bonus action, the phantom can magically shift  from the material plane to the ethereal plane, or vice versa. If the phantom shifts and then makes a weapon attack, it has advantage on the attack roll.
+Innate Spellcasting. The phantoms's innate spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks).  It can cast the following spells.
+At will: speak with dead
+Sneak Attack (1/Turn). The phantom deals an extra 7 (2d6) damage when it hits a target with a weapon attack and has advantage on the attack  roll, or when the target is within 5 feet of an ally of the phantom that isn't incapacitated and the phantom doesn't have disadvantage on the attack roll. 
+Actions
+Dagger. Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.

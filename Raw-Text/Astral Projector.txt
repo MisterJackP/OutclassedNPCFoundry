@@ -1,0 +1,18 @@
+Astral Projector
+Medium humanoid (any race), any alignment
+Armor Class 17
+Hit Points 38 (7d8 + 7)
+Speed 40 ft.
+STR DEX CON INT WIS CHA
+10 (+0) 17 (+3) 13 (+1) 10 (+0) 18 (+4) 14 (+2)
+Skills Insight +6, Intimidation +4
+Senses darkvision 120 ft., passive Perception 14
+Languages any one language
+Challenge 3 (700 XP)
+Unarmored Defense. While the astral projector isn't wearing armor, its armor class includes its Wisdom modifier.
+Words of the Spirit. When the astral projector speaks, it can make its voice be heard up to 600 feet away. Alternatively, it can choose only certain creatures it can see within 30 feet of it to be able to hear its words.
+Mind Body Split. When the astral projector is reduced to 0 hit points, it can separate its spirit from its body, dying and becoming two creatures: the astral spirit and body puppet. The body puppet dies if the astral spirit dies or if it starts its turn further than 600 feet from the astral spirit.
+Actions
+Multiattack. The astral projector makes four attacks: two with its unarmed strike, and two with its astral arms.
+Unarmed Strike. Melee Weapon Attack: +5 to hit, reach 5 ft.,  one target. Hit: 5 (1d4 + 3) bludgeoning damage.
+Astral Arms. Melee Spell Attack: +6 to hit, reach 10 ft., one target. Hit: 9 (2d4 + 4) radiant damage.

@@ -1,0 +1,25 @@
+Infiltrator Armorer
+Medium humanoid, any alignment
+Armor Class 21 (power armor plate mail, shield)
+Hit Points 55 (10d8 + 10)
+Speed 35 ft.
+STR DEX CON INT WIS CHA
+11 (+0) 14 (+2) 15 (+2) 17 (+3) 12 (+1) 10 (+0)
+Skills Smith's Tools +5, Stealth +4
+Senses passive Perception 11
+Languages any two languages
+Challenge 3 (700 XP)
+Initiate Spellcasting. The armorer is a magic initiate. Its
+spellcasting ability is Intelligence (spell save DC 13, +5
+to hit with spell attacks). It can cast the following
+wizard spells.
+At will: mending, shocking grasp
+1/day: shield
+Actions
+Multiattack. The armorer makes two attacks  with its
+lightning launcher.
+Lightning Launcher. Ranged Spell Attack: +5 to hit,
+range 90/300 ft., one target. Hit: 7 (2d6) lightning
+damage, and the next attack roll against the target
+from a creature other than the armorer before the end
+of the armorer's next turn is made with advantage.

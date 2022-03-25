@@ -1,0 +1,18 @@
+Hero
+Medium humanoid (any race), any alignment
+Armor Class 16 (breastplate)
+Hit Points 45 (6d8 + 18)
+Speed 40 ft., climb 40 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 16 (+3) 16 (+3) 12 (+1) 14 (+2) 16 (+3)
+Skills Athletics +5
+Senses passive Perception 12
+Languages any one language
+Challenge 2 (450 XP)
+Athlete. The hero's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start. When the hero is prone, standing up uses only 5 feet of its movement.
+Aura of Alacrity. Allied creatures that start their turn within 10 feet of the hero have their speed increased by 10 feet until the end of their turn.
+Inspiring Strikes (1/Turn). When the hero hits with a melee weapon attack,  each allied creature within 30 feet of the hero regains 5 hit points.
+Actions
+Mythical Sword. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) slashing damage when used with two hands to make a melee attack, plus 4 (1d8) radiant damage. This is a +1 magic weapon.
+Longbow. Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage.
+Lay on Hands (1/Day). The hero touches a willing creature. The target regains 15 hit points.

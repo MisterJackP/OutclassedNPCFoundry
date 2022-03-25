@@ -1,0 +1,9 @@
+Outclassed Wild Magic Barb Alt
+1 Each creature of the berserker's choice that it can see within 30 feet of it must succeed on a DC 13 Constitution saving throw or take 6 (1d12) necrotic damage. The berserker gains regains hit points equal to the total damage it deals with this effect
+2 The berserker teleports up to 30 feet to an unoccupied space it can see.
+3 A spectral fairy appears within 5 feet of a creature the berserker can see within 30 feet of it. The pixie begs the creature to protect it from the berserker. On initiative count 20, the pixie explodes. Each creature within 5 feet of it must succeed on a DC 13 Dexterity saving throw or take 3 (1d6) force damage.
+4 A bolt of light shoots from the berserker's chest. A creature of the berserker's choice that it can see within 30 feet of it must succeed on a Constitution saving throw or take 3 (1d6) radiant damage and become blinded until the start of the berserker's next turn.
+5 The next time  a creature hits the berserker with an attack roll before the end of its next turn, the creature takes 3 (1d6) force damage.
+6 The berserker is surrounded by dancing rainbow lights and gains a +1 bonus to AC until the end of its next turn. Allies of the berserker within 10 feet of it also gain the benefits of this effect.
+7 Flowers and vines spread from the berserker's feet across the ground. Until  the end of the berserker's next turn, the ground within 15 feet of it is difficult terrain for creatures hostile to the berserker.
+8 The berserker's weapon shines with magical energy from the Weave and transforms into a Weave-Infused Axe until the end of the berserker's next turn.

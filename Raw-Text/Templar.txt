@@ -1,0 +1,20 @@
+Templar
+Medium humanoid (any race), any lawful alignment
+Armor Class 20 (plate, shield)
+Hit Points 39 (6d8 + 12)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+16 (+3) 10 (+0) 14 (+2) 12 (+1) 16 (+3) 15 (+2)
+Saves Dex +2, Con +4, Wis +5
+Skills Arcana +3, Religion +3, Intimidation +4, Investigation +3
+Senses passive Perception 13
+Languages any one language
+Challenge 3 (700 XP)
+Initiate Spellcasting. The templar is a magic initiate. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can cast the following cleric spells.
+At will: guidance, resistance
+1/day: detect magic
+Mage Slayer. The templar has advantage on saving throws against spells cast by creatures within 5 feet of its position. Additionally, when the templar damages a creature concentrating on a spell, the target has disadvantage on the saving throw it makes to maintain concentration. 
+Actions
+Longsword. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
+Reactions
+Spell Breaker. When a creature within 5 feet of the templar casts a spell, the templar can make a melee weapon attack against that creature. The templar's attack hits before the spell is cast. The target must make a Constitution saving throw as though it were maintaining concentration on the spell. On failed save, the target fails to cast the spell.

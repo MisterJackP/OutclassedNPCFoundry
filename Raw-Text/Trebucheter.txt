@@ -1,0 +1,19 @@
+Trebucheter
+Medium humanoid (any race), any alignment
+Armor Class 14 (leather armor)
+Hit Points 119 (14d8 + 56)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+12 (+1) 17 (+3) 18 (+4) 18 (+4) 12 (+1) 13 (+1)
+Skills Tinker's Tools +8, Woodcarver's Tools +6, Smith's Tools +6
+Senses passive Perception 11
+Languages any two languages
+Challenge 6 (2,300 XP)
+Arcane Turret (3/Day). As a bonus action, the trebucheter can summon an arcane turret, which appears within 5 feet of it and acts on the trebucheter's initiative. The turret lasts until it is dismissed by the trebucheter as a bonus action or until 10 minutes have passed. The trebucheter can have up to 3 turrets summoned at once.
+Spellcasting. The trebucheter is a 4th-level spellcaster. The trebucheter's spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The trebucheter knows the following artificer spells.
+Cantrips (at will): mending
+1st level (4 slots): catapult
+2nd level (3 slots): shatter
+Actions
+Dynamite Mortar. The trebucheter launches a stick of dynamite at a point it can see within 1,500 feet of it. The dynamite lands and explodes at the start of the trebucheter's next turn. A creature can ascertain the precise location the dynamite will land with a DC 15 Wisdom (Perception) check. Each creature within 5 feet of the dynamite when it explodes must make a DC 12 Dexterity saving throw, taking 10 (3d6) thunder damage on a failed save, or half as much damage on a successful one.
+Launch Trebuchet. Ranged Weapon Attack: +5 to hit, range 300/900 ft., one target. Hit: 27 (6d8) bludgeoning damage. This attack deals double damage to structures. The trebuchet can be fired each round as long as the trebucheter devotes one arcane turret's action to assisting it in loading the trebuchet. Otherwise, this action has the Recharge (5-6) trait.

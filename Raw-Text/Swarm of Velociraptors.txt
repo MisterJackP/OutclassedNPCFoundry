@@ -1,0 +1,16 @@
+Swarm of Velociraptors
+Large swarm of Tiny beasts, unaligned
+Armor Class 13
+Hit Points 66 (12d10)
+Speed 50 ft.
+STR DEX CON INT WIS CHA
+7 (-2) 17 (+3) 10 (+0) 3 (-4) 13 (+1) 6 (-2)
+Skills Perception +3
+Damage Resistances bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny velociraptor. The swarm can't regain hit points or gain temporary hit points.
+Actions
+Bites. Melee Weapon Attack: +5 to hit, reach 0 ft., one target in the swarm's space. Hit: 18 (4d8) piercing damage, or 9 (2d8) piercing damage if the swarm has half of its hit points or fewer. The attack roll is made with advantage.

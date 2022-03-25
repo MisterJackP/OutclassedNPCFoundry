@@ -1,0 +1,16 @@
+Swarm of Stirges
+Medium swarm of Tiny beasts, unaligned
+Armor Class 13
+Hit Points 36 (8d8)
+Speed 10 ft., fly 40 ft.
+STR DEX CON INT WIS CHA
+4 (-3) 16 (+3) 10 (+0) 2 (-4) 8 (-1) 6 (-2)
+Damage Resistances bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
+Senses darkvision 60 ft., passive Perception 9
+Languages --
+Challenge 1/2 (100 XP)
+Blood Drain. At the start of each of its turns, the swarm drains the blood of one creature within its space. The creature loses 10 (4d4) hit points due to blood loss, or 5 (2d4) hit points if the swarm has half of its hit points or fewer.
+Swarm. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny stirge.  The swarm can't regain hit points or gain temporary hit points.
+Actions
+Attach. Melee Weapon Attack: +5 to hit, reach 0 ft., one creature. Hit: The swarm attaches to the target. While attached,  the swarm can move up to its speed on the target's turn to remain in the target's space. The target can detach itself from the swarm by succeeding on a DC 13 Strength check.

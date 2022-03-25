@@ -1,0 +1,20 @@
+Artifice Freelancer
+Medium humanoid (any race), any alignment
+Armor Class 20 (+1 black dragon scale mail, +1 shield of missile attraction)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+14 (+2) 16 (+3) 15 (+2) 16 (+3) 12 (+1) 13 (+1)
+Damage Resistances acid; all damage from ranged weapon attacks
+Skills Smith's Tools +5, Tinker's Tools +5
+Senses passive Perception 11
+Languages any three languages
+Challenge 7 (2,900 XP)
+Bandolier. The freelancer carries 10 pieces of ammunition for its hunting  rifle and 3 of each type of grenade it can use. It can replenish its hunting rifle ammunition after completing a short rest using its smith's tools.
+Shield of Missile Attraction. Whenever a ranged weapon attack is made against a target within 10 feet of the freelancer, the freelancer becomes the target instead.
+Tinker's Shield. The freelancer's shield is held by a mechanical frame and arm attached to its back. The freelancer does not require a free hand to benefit from its shield.
+Actions
+Multiattack. The freelancer makes two ranged weapon attacks and can use one of its grenades.
+Hunting Rifle. Ranged Weapon Attack: +5 to hit, range 80/240 ft., one target. Hit: 14 (2d10 + 3) piercing damage. The freelancer must spend an action to reload this weapon attacks.
+Fragmentation Grenade. The freelancer throws the grenade at a point it can see within 60 feet of it. Each creature within 20 feet of that point must make a DC 15 Dexterity saving throw, taking 17 (5d6) piercing damage on a failed save, or half as much on a successful one.
+Smoke Grenade. The freelancer throws the grenade at a point it can see within 60 feet of it. The grenade emits a cloud of smoke that creates a heavily-obscured area in a 20-foot radius. A moderate wind (10 mph) disperses the smoke in 4 rounds, and a strong wind (20 mph) disperses it in 1 round.

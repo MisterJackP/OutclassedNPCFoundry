@@ -1,0 +1,23 @@
+Psi Warrior
+Medium humanoid (any race), any alignment
+Armor Class 16 (half plate)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+STR DEX CON INT WIS CHA
+15 (+2) 12 (+1) 14 (+2) 13 (+1) 10 (+0) 10 (+0)
+Senses passive Perception 10
+Languages any one language
+Challenge 4 (1,100 XP)
+Innate Spellcasting. The psi warrior's innate spellcasting ability is Intelligence (spell save DC 11, +3 to hit with
+spell attacks).  It can cast the following wizard spells.
+At will: mage hand (the hand is invisible)
+1/day each: jump, telekinesis
+Psychic Strikes. The psi warrior's weapon attacks  are
+magical and deal an additional 16 (3d10) psychic
+damage (included in the attack). 
+Actions
+Multiattack. The psi warrior makes two weapon attacks. It can exchange one of these attacks for its Psi Strike or its Telekinetic Bulwark.
+Longsword. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands to make a melee attack,  plus 16 (3d10) psychic damage.
+Heavy Crossbow. Ranged Weapon Attack: +3 to hit, range 100/400 ft., one target. Hit: 6 (1d10 + 1) piercing damage plus 16 (3d10) psychic damage.
+Psi Strike. The psi warrior targets a creature it can see within 20 feet of it. The target must make a DC 11 Strength saving throw. On a failed save, it takes 14 (4d6) force damage and is pushed or pulled up to 15 feet closer or further away (psi warrior's choice). On a successful save, it takes half as much damage and isn't moved.
+Telekinetic Bulwark (1/Day). The psi warrior projects a forcefield in a 10-foot radius around itself, which lasts for 1 minute or until the psi warrior is incapacitated. The psi warrior and its allies within the area of effect gain the benefits of half cover and have advantage on Strength saving throws.
