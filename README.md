@@ -1,6 +1,6 @@
 # OutclassedNPCFoundry
 
-This is a Foundry Virtual Tabletop https://foundryvtt.com implimentation of most of 'OUTCLASSED: The NPC Statblock Compendium' by William Rotor https://www.dmsguild.com/product/302037/OUTCLASSED-The-NPC-Statblock-Compendium, an _excellent_ homebrew collectiom of DnD 5e's classes and subclasses as non player characters, balanced against other NPCs and creatures and simplified to be easily playable as a DM, without losing their flavour. 
+This is a Foundry Virtual Tabletop https://foundryvtt.com implimentation of most of 'OUTCLASSED: The NPC Statblock Compendium' by William Rotor https://www.dmsguild.com/product/302037/OUTCLASSED-The-NPC-Statblock-Compendium, an _excellent_ homebrew collectiom of DnD 5e's classes and subclasses as non player characters, balanced against other NPCs and creatures and simplified to be easily playable as a DM, without losing their flavour. If you appreciate this project, please support him however you can.
 
 It was created using https://github.com/jbhaywood/5e-statblock-importer, with some further manual tweaks and edits by me within Foundry. The 'Raw-Text' folder contains the text that was input to the statblock importer. This was originally a personal project, so some errors and ommisions will have been made. No art for characters or abilities are currently included.
 
